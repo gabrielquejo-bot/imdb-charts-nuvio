@@ -1,0 +1,31 @@
+# Plano B (opcional): coleta diária feita pelo GitHub e enviada ao addon.
+#
+# Só é necessário se o cron da Netlify falhar ou se o IMDb passar a bloquear
+# os IPs da Netlify. A fonte continua sendo exclusivamente o imdb.com.
+#
+# Para ativar, crie no repositório (Settings > Secrets and variables > Actions):
+#   ADDON_URL      https://seu-site.netlify.app
+#   REFRESH_TOKEN  o mesmo valor da variável REFRESH_TOKEN na Netlify
+
+name: Atualizar listas do IMDb
+
+on:
+  schedule:
+    - cron: '40 5 * * *' # 05:40 UTC — 30 min depois do cron da Netlify
+  workflow_dispatch: # permite rodar na mão pela aba Actions
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Coletar no IMDb e enviar ao addon
+        env:
+          ADDON_URL: ${{ secrets.ADDON_URL }}
+          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+        run: node scripts/scrape.mjs --push

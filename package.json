@@ -1,0 +1,19 @@
+{
+  "name": "imdb-charts-nuvio-addon",
+  "version": "4.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Addon Nuvio/Stremio com as listas do IMDb (Séries Populares, Filmes Populares, Top 250 Séries, Top 250 Filmes), atualizadas a cada 24h direto do imdb.com.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "netlify dev",
+    "scrape": "node scripts/scrape.mjs",
+    "push": "node scripts/scrape.mjs --push",
+    "test": "node test/parser.test.mjs && node test/addon.test.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}

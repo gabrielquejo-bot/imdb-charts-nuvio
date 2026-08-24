@@ -1,0 +1,355 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>IMDb Charts — addon para Nuvio</title>
+    <meta
+      name="description"
+      content="Quatro listas do IMDb dentro do Nuvio, relidas do imdb.com a cada 24 horas."
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%23F5C518'/><text x='16' y='23' font-family='monospace' font-size='18' font-weight='700' text-anchor='middle' fill='%230E1116'>i</text></svg>"
+    />
+    <style>
+      :root {
+        --ink: #0e1116;
+        --panel: #151a21;
+        --panel-2: #1b212a;
+        --rule: #262f3b;
+        --text: #eceff4;
+        --muted: #8b95a5;
+        --amber: #f5c518;
+        --alert: #e0705f;
+        --mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+        --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--ink);
+        color: var(--text);
+        font-family: var(--sans);
+        -webkit-font-smoothing: antialiased;
+        line-height: 1.55;
+      }
+
+      .wrap {
+        max-width: 780px;
+        margin: 0 auto;
+        padding: 56px 22px 72px;
+      }
+
+      .eyebrow {
+        font-family: var(--mono);
+        font-size: 11px;
+        letter-spacing: 0.22em;
+        text-transform: uppercase;
+        color: var(--muted);
+        margin: 0 0 14px;
+      }
+
+      h1 {
+        font-size: clamp(34px, 7vw, 56px);
+        line-height: 0.98;
+        letter-spacing: -0.035em;
+        font-weight: 800;
+        margin: 0 0 16px;
+      }
+
+      h1 em {
+        font-style: normal;
+        color: var(--amber);
+      }
+
+      .lede {
+        color: var(--muted);
+        max-width: 52ch;
+        margin: 0 0 40px;
+        font-size: 16px;
+      }
+
+      /* -------- campo do manifest: o trabalho principal da página -------- */
+      .install {
+        border: 1px solid var(--rule);
+        border-radius: 12px;
+        background: var(--panel);
+        padding: 18px;
+        margin-bottom: 44px;
+      }
+
+      .install label {
+        display: block;
+        font-family: var(--mono);
+        font-size: 11px;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        color: var(--muted);
+        margin-bottom: 10px;
+      }
+
+      .install-row {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+      }
+
+      #manifest-url {
+        flex: 1 1 300px;
+        min-width: 0;
+        font-family: var(--mono);
+        font-size: 14px;
+        color: var(--text);
+        background: var(--ink);
+        border: 1px solid var(--rule);
+        border-radius: 8px;
+        padding: 12px 14px;
+      }
+
+      button {
+        font-family: var(--sans);
+        font-size: 14px;
+        font-weight: 650;
+        border: 0;
+        border-radius: 8px;
+        padding: 12px 20px;
+        background: var(--amber);
+        color: #16191f;
+        cursor: pointer;
+        transition: transform 0.12s ease, filter 0.12s ease;
+      }
+
+      button:hover {
+        filter: brightness(1.08);
+      }
+
+      button:active {
+        transform: translateY(1px);
+      }
+
+      :focus-visible {
+        outline: 2px solid var(--amber);
+        outline-offset: 2px;
+      }
+
+      .hint {
+        font-size: 13px;
+        color: var(--muted);
+        margin: 12px 0 0;
+      }
+
+      /* -------- painel das listas -------- */
+      .board-head {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 16px;
+        border-bottom: 1px solid var(--rule);
+        padding-bottom: 10px;
+        margin-bottom: 4px;
+      }
+
+      .board-head h2 {
+        font-size: 13px;
+        font-family: var(--mono);
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        font-weight: 600;
+        color: var(--muted);
+        margin: 0;
+      }
+
+      #next-run {
+        font-family: var(--mono);
+        font-size: 12px;
+        color: var(--muted);
+      }
+
+      .row {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        gap: 4px 16px;
+        padding: 18px 0;
+        border-bottom: 1px solid var(--rule);
+      }
+
+      .row-name {
+        font-weight: 600;
+        font-size: 16px;
+      }
+
+      .row-meta {
+        font-family: var(--mono);
+        font-size: 12px;
+        color: var(--muted);
+        text-align: right;
+        white-space: nowrap;
+      }
+
+      .row-meta b {
+        color: var(--text);
+        font-weight: 600;
+      }
+
+      .row-meta.alert b {
+        color: var(--alert);
+      }
+
+      /* medidor da janela de 24h — quanto o dado já "envelheceu" */
+      .meter {
+        grid-column: 1 / -1;
+        height: 3px;
+        background: var(--panel-2);
+        border-radius: 2px;
+        overflow: hidden;
+        margin-top: 12px;
+      }
+
+      .meter span {
+        display: block;
+        height: 100%;
+        width: 0;
+        background: var(--amber);
+        transition: width 0.6s ease;
+      }
+
+      .meter.alert span {
+        background: var(--alert);
+      }
+
+      .placeholder {
+        color: var(--muted);
+        font-family: var(--mono);
+        font-size: 13px;
+        padding: 24px 0;
+      }
+
+      footer {
+        margin-top: 40px;
+        font-family: var(--mono);
+        font-size: 12px;
+        color: var(--muted);
+      }
+
+      footer a {
+        color: var(--muted);
+        text-decoration: underline;
+        text-underline-offset: 3px;
+      }
+
+      footer a:hover {
+        color: var(--amber);
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        * {
+          transition: none !important;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <main class="wrap">
+      <p class="eyebrow">Addon para Nuvio e Stremio</p>
+      <h1>Quatro listas do IMDb, <em>relidas todo dia</em>.</h1>
+      <p class="lede">
+        Séries Populares, Filmes Populares, Top 250 Séries e Top 250 Filmes. Os títulos são lidos
+        das páginas do imdb.com e reescritos a cada 24 horas, sem nenhuma outra fonte no caminho.
+      </p>
+
+      <section class="install">
+        <label for="manifest-url">Endereço do manifest</label>
+        <div class="install-row">
+          <input id="manifest-url" readonly value="…" spellcheck="false" />
+          <button id="copy" type="button">Copiar</button>
+        </div>
+        <p class="hint">
+          No Nuvio: Configurações → Addons → Add Addon → cole o endereço → Install Addon.
+        </p>
+      </section>
+
+      <section>
+        <div class="board-head">
+          <h2>Estado das listas</h2>
+          <span id="next-run">carregando…</span>
+        </div>
+        <div id="board"><p class="placeholder">Consultando /status.json…</p></div>
+      </section>
+
+      <footer>
+        <a href="/status.json">status.json</a> · <a href="/manifest.json">manifest.json</a> · fonte:
+        <a href="https://www.imdb.com/pt/chart/top/" rel="noreferrer">imdb.com</a>
+      </footer>
+    </main>
+
+    <script>
+      const manifestUrl = `${location.origin}/manifest.json`;
+      const field = document.getElementById("manifest-url");
+      field.value = manifestUrl;
+
+      document.getElementById("copy").addEventListener("click", async (event) => {
+        const button = event.currentTarget;
+        try {
+          await navigator.clipboard.writeText(manifestUrl);
+        } catch {
+          field.select();
+          document.execCommand("copy");
+        }
+        button.textContent = "Copiado";
+        setTimeout(() => (button.textContent = "Copiar"), 1600);
+      });
+
+      const relative = (iso) => {
+        const hours = (Date.now() - new Date(iso)) / 3600000;
+        if (hours < 1) return `há ${Math.max(1, Math.round(hours * 60))} min`;
+        if (hours < 24) return `há ${Math.round(hours)} h`;
+        return `há ${Math.floor(hours / 24)} d`;
+      };
+
+      async function loadStatus() {
+        const board = document.getElementById("board");
+        try {
+          const status = await fetch("/status.json", { cache: "no-store" }).then((r) => r.json());
+          const windowHours = status.refreshIntervalHours || 24;
+
+          board.innerHTML = "";
+          for (const chart of status.charts) {
+            const pct = chart.updatedAt
+              ? Math.min(100, ((chart.ageHours || 0) / windowHours) * 100)
+              : 100;
+            const row = document.createElement("article");
+            row.className = "row";
+            row.innerHTML = `
+              <div class="row-name">${chart.name}</div>
+              <div class="row-meta ${chart.stale ? "alert" : ""}">
+                <b>${chart.items || 0}</b> títulos ·
+                ${chart.updatedAt ? relative(chart.updatedAt) : "nunca lido"}
+              </div>
+              <div class="meter ${chart.stale ? "alert" : ""}"><span></span></div>`;
+            board.appendChild(row);
+            requestAnimationFrame(() => (row.querySelector(".meter span").style.width = `${pct}%`));
+          }
+
+          const next = new Date();
+          next.setUTCHours(5, 10, 0, 0);
+          if (next < new Date()) next.setUTCDate(next.getUTCDate() + 1);
+          const mins = Math.round((next - Date.now()) / 60000);
+          document.getElementById("next-run").textContent =
+            `próxima leitura em ${Math.floor(mins / 60)}h${String(mins % 60).padStart(2, "0")}`;
+        } catch {
+          board.innerHTML =
+            '<p class="placeholder">O status não respondeu. Recarregue a página ou verifique os logs da função na Netlify.</p>';
+          document.getElementById("next-run").textContent = "—";
+        }
+      }
+
+      loadStatus();
+    </script>
+  </body>
+</html>

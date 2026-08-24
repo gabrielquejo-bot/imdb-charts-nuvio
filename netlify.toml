@@ -1,0 +1,19 @@
+[build]
+  publish = "public"
+  functions = "netlify/functions"
+  command = "echo 'sem etapa de build'"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[functions]
+  node_bundler = "esbuild"
+
+# As rotas do addon (/manifest.json, /catalog/...) são declaradas dentro de
+# netlify/functions/addon.mjs, no `export const config = { path: [...] }`.
+# O cron da atualização diária fica em netlify/functions/refresh-charts.mjs.
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
