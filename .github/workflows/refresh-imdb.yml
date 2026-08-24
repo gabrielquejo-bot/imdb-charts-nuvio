@@ -28,4 +28,9 @@ jobs:
         env:
           ADDON_URL: ${{ secrets.ADDON_URL }}
           REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
-        run: node scripts/scrape.mjs --push
+        run: |
+          if [ -z "$ADDON_URL" ] || [ -z "$REFRESH_TOKEN" ]; then
+            echo "::notice::Plano B inativo: configure os secrets ADDON_URL e REFRESH_TOKEN para ligar."
+            exit 0
+          fi
+          node scripts/scrape.mjs --push
