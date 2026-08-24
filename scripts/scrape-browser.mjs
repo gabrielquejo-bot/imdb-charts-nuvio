@@ -158,13 +158,14 @@ if (!ok.length) {
   process.exit(1);
 }
 
-if (!push) {
-  const out = resolve(root, 'data/charts.json');
-  await mkdir(dirname(out), { recursive: true });
-  await writeFile(out, JSON.stringify({ charts: ok }, null, 2), 'utf8');
-  console.log(`\nSalvo em ${out}`);
-  process.exit(failed.length ? 1 : 0);
-}
+// Sempre grava o snapshot: serve de histórico versionado e, commitado pelo
+// workflow, mantém o repositório "ativo" para o GitHub não desligar o cron.
+const out = resolve(root, 'data/charts.json');
+await mkdir(dirname(out), { recursive: true });
+await writeFile(out, JSON.stringify({ charts: ok }, null, 2), 'utf8');
+console.log(`\nSnapshot salvo em ${out}`);
+
+if (!push) process.exit(failed.length ? 1 : 0);
 
 const addonUrl = (process.env.ADDON_URL || '').replace(/\/$/, '');
 const token = process.env.REFRESH_TOKEN;
