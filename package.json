@@ -9,11 +9,14 @@
   },
   "scripts": {
     "dev": "netlify dev",
-    "scrape": "node scripts/scrape.mjs",
-    "push": "node scripts/scrape.mjs --push",
+    "scrape": "node scripts/scrape-browser.mjs",
+    "push": "node scripts/scrape-browser.mjs --push",
     "test": "node test/parser.test.mjs && node test/addon.test.mjs"
   },
   "dependencies": {
     "@netlify/blobs": "^8.1.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.55.0"
   }
 }

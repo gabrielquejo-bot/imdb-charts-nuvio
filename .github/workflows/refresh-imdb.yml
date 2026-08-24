@@ -1,36 +1,53 @@
-# Plano B (opcional): coleta diária feita pelo GitHub e enviada ao addon.
+# Leitura diária das listas do IMDb usando um navegador de verdade.
 #
-# Só é necessário se o cron da Netlify falhar ou se o IMDb passar a bloquear
-# os IPs da Netlify. A fonte continua sendo exclusivamente o imdb.com.
+# O IMDb protege /chart/ com AWS WAF em modo challenge: a primeira resposta é
+# 202 com ~2 KB de JavaScript, que precisa rodar para liberar o conteúdo. Por
+# isso aqui roda Chromium sob xvfb, em modo visível — headless é detectado.
 #
-# Para ativar, crie no repositório (Settings > Secrets and variables > Actions):
-#   ADDON_URL      https://seu-site.netlify.app
+# Secrets necessários (Settings > Secrets and variables > Actions):
+#   ADDON_URL      https://listasimdb.netlify.app
 #   REFRESH_TOKEN  o mesmo valor da variável REFRESH_TOKEN na Netlify
 
 name: Atualizar listas do IMDb
 
 on:
   schedule:
-    - cron: '40 5 * * *' # 05:40 UTC — 30 min depois do cron da Netlify
-  workflow_dispatch: # permite rodar na mão pela aba Actions
+    - cron: '20 5 * * *' # 05:20 UTC = 02:20 em Brasília
+  workflow_dispatch:
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '22'
 
-      - name: Coletar no IMDb e enviar ao addon
+      - name: Instalar Playwright e Chromium
+        run: |
+          npm install --no-save playwright@1.55.0
+          npx playwright install --with-deps chromium
+
+      - name: Ler o IMDb e enviar ao addon
         env:
           ADDON_URL: ${{ secrets.ADDON_URL }}
           REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
         run: |
           if [ -z "$ADDON_URL" ] || [ -z "$REFRESH_TOKEN" ]; then
-            echo "::notice::Plano B inativo: configure os secrets ADDON_URL e REFRESH_TOKEN para ligar."
-            exit 0
+            echo "::error::Faltam os secrets ADDON_URL e REFRESH_TOKEN."
+            exit 1
           fi
-          node scripts/scrape.mjs --push
+          xvfb-run --auto-servernum -- node scripts/scrape-browser.mjs --push
+
+      - name: Guardar diagnóstico quando falhar
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: diagnostico
+          path: |
+            data/
+            *.png
+          if-no-files-found: ignore

@@ -1,3 +1,4 @@
+process.env.IMDB_LIVE_SCRAPE = '1';
 import assert from 'node:assert';
 
 /* ---- simula o imdb.com devolvendo a página real (com __NEXT_DATA__) ---- */

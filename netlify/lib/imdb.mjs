@@ -363,8 +363,31 @@ function toMetaPreview(node, stremioType, rank) {
 }
 
 /**
- * Baixa e normaliza UMA lista do IMDb.
- * @returns {Promise<{id:string,type:string,name:string,items:Array,updatedAt:string,source:string,strategy:number}>}
+ * Converte o HTML de uma página de lista do IMDb nos itens finais do addon.
+ * Usada tanto pela leitura via HTTP quanto pela leitura via navegador.
+ */
+export function buildItemsFromHtml(html, chartId) {
+  const chart = CHART_SOURCES[chartId];
+  if (!chart) throw new Error(`Lista desconhecida: ${chartId}`);
+  const { nodes, strategy } = parseChartHtml(html);
+  const items = [];
+  const seen = new Set();
+  for (const node of nodes) {
+    const meta = toMetaPreview(node, chart.stremioType, items.length + 1);
+    if (!meta || seen.has(meta.id)) continue;
+    seen.add(meta.id);
+    items.push(meta);
+    if (items.length >= chart.limit) break;
+  }
+  return { items, strategy };
+}
+
+/**
+ * Baixa e normaliza UMA lista do IMDb via HTTP.
+ *
+ * Atenção: hoje o IMDb protege /chart/ com AWS WAF em modo challenge, que só
+ * um navegador resolve. Este caminho fica aqui para o caso de o bloqueio cair,
+ * mas a coleta real acontece em scripts/scrape-browser.mjs.
  */
 export async function scrapeChart(chartId, { timeoutMs = 12000 } = {}) {
   const chart = CHART_SOURCES[chartId];
@@ -375,16 +398,7 @@ export async function scrapeChart(chartId, { timeoutMs = 12000 } = {}) {
     for (let attempt = 0; attempt < 2; attempt++) {
       try {
         const html = await fetchHtml(url, { timeoutMs, attempt: index + attempt });
-        const { nodes, strategy } = parseChartHtml(html);
-        const items = [];
-        const seen = new Set();
-        for (const node of nodes) {
-          const meta = toMetaPreview(node, chart.stremioType, items.length + 1);
-          if (!meta || seen.has(meta.id)) continue;
-          seen.add(meta.id);
-          items.push(meta);
-          if (items.length >= chart.limit) break;
-        }
+        const { items, strategy } = buildItemsFromHtml(html, chartId);
         if (items.length < 10) throw new Error(`extração devolveu apenas ${items.length} itens`);
         return {
           id: chartId,

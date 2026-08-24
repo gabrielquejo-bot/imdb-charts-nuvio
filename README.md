@@ -18,23 +18,27 @@ tem publicada, então quem já instalou o addon não precisa reinstalar.
 
 ---
 
-## O que resolve o problema da atualização
+## Como as listas se mantêm atualizadas
 
-A versão anterior gravava as listas no momento do build: sem um novo deploy, o
-conteúdo ficava congelado. Aqui os dados saíram do build e passaram a viver em
-um armazenamento que a função consegue reescrever sozinha (Netlify Blobs).
-Três camadas garantem as 24 horas:
+O IMDb protege as páginas `/chart/` com **AWS WAF em modo challenge**: a
+primeira resposta é um `202` com ~2 KB de JavaScript que precisa ser executado
+para liberar o conteúdo. Nenhum cliente HTTP passa por isso — nem `curl`, nem
+`fetch`, venha de onde vier (testado da AWS, do Azure e de conexão
+residencial). Navegador passa, porque é exatamente o que o desafio espera.
 
-1. **Cron diário** — `netlify/functions/refresh-charts.mjs` roda todo dia às
-   05:10 UTC (02:10 em Brasília), relê as 4 listas e regrava tudo.
-2. **Revalidação sob demanda** — se um catálogo é pedido e o dado passou de 24h,
-   o Nuvio recebe a resposta na hora (com o dado anterior) e a releitura acontece
-   em segundo plano.
-3. **Primeira carga** — em um deploy novo, o primeiro acesso a cada catálogo faz
-   a leitura na hora, então o addon nunca aparece vazio.
+Por isso a leitura acontece no GitHub Actions, com Chromium de verdade:
 
-Deploy novo não apaga nada: os dados ficam no armazenamento do site, não no
-pacote publicado.
+1. Todo dia às 05:20 UTC o workflow sobe um Chromium sob `xvfb`, em modo
+   visível (headless é detectado por antibot).
+2. Ele abre as quatro páginas do IMDb, o desafio se resolve sozinho e a página
+   carrega inteira.
+3. O HTML pronto passa pelo mesmo extrator de sempre e vira a lista de títulos.
+4. O resultado é enviado por `POST /ingest` para o addon na Netlify, que grava
+   nos Blobs e passa a servir.
+
+A Netlify só guarda e serve. Ela não tenta ler o IMDb, porque nunca passaria do
+desafio. Se um dia esse bloqueio cair, defina `IMDB_LIVE_SCRAPE=1` nas
+variáveis do site e a leitura direta volta a funcionar, com cron próprio.
 
 ---
 
@@ -101,22 +105,28 @@ Em **Site configuration → Environment variables**:
 
 ---
 
-## Plano B: coleta pelo GitHub Actions
+## Configuração da automação
 
-O IMDb às vezes responde `403` para requisições vindas de datacenters. Se isso
-acontecer com a Netlify, `.github/workflows/refresh-imdb.yml` faz a mesma coleta
-a partir dos runners do GitHub e envia o resultado para `/ingest`. A fonte
-continua sendo só o imdb.com — muda apenas de onde parte a requisição.
+Sem esses três valores nada é atualizado.
 
-Para ativar, crie dois *secrets* no repositório (**Settings → Secrets and
-variables → Actions**):
+**Na Netlify** — Project configuration → Environment variables:
 
-- `ADDON_URL` → `https://SEU-SITE.netlify.app`
-- `REFRESH_TOKEN` → o mesmo valor configurado na Netlify
+| Variável        | Valor                                        |
+| --------------- | -------------------------------------------- |
+| `REFRESH_TOKEN` | um texto secreto qualquer                    |
 
-O workflow roda todo dia às 05:40 UTC e também pode ser disparado na mão pela
-aba **Actions**. Enquanto o cron da Netlify estiver funcionando, ele é apenas
-redundância barata.
+Depois de criar, **refaça o deploy** (Deploys → Trigger deploy). Variável de
+ambiente só passa a valer em deploy novo.
+
+**No GitHub** — Settings → Secrets and variables → Actions:
+
+| Secret          | Valor                                        |
+| --------------- | -------------------------------------------- |
+| `ADDON_URL`     | `https://listasimdb.netlify.app`             |
+| `REFRESH_TOKEN` | exatamente o mesmo texto usado na Netlify     |
+
+Para rodar na hora: aba **Actions** → "Atualizar listas do IMDb" → **Run
+workflow**. Leva uns 2 minutos.
 
 ---
 
@@ -125,13 +135,13 @@ redundância barata.
 ```bash
 npm install
 npm test      # 18 cenários: extração, catálogos, paginação, cache, falhas
-npm run scrape # coleta de verdade no IMDb e salva em data/charts.json
+npm run scrape # abre o navegador e salva em data/charts.json
 npm run dev    # netlify dev, addon em http://localhost:8888/manifest.json
 ```
 
-`npm run scrape` é o teste mais direto quando algo parar de funcionar: ele
-mostra quantos títulos vieram de cada lista e **qual estratégia de extração**
-foi usada.
+`npm run scrape` roda o navegador localmente e mostra quantos títulos vieram
+de cada lista. É o teste mais direto quando algo parar de funcionar. Precisa de
+`npx playwright install chromium` uma vez.
 
 ---
 

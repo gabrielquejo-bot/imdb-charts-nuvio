@@ -59,6 +59,14 @@ export async function refreshAll({ timeoutMs } = {}) {
 }
 
 /**
+ * Leitura ao vivo a partir da Netlify fica desligada por padrão: o IMDb protege
+ * /chart/ com AWS WAF em modo challenge, que exige um navegador. Quem alimenta
+ * as listas é o GitHub Actions, via POST em /ingest. Se um dia o bloqueio cair,
+ * basta definir IMDB_LIVE_SCRAPE=1 nas variáveis do site.
+ */
+const LIVE_SCRAPE = process.env.IMDB_LIVE_SCRAPE === '1';
+
+/**
  * Devolve a lista pronta para servir.
  * @param {string} chartId
  * @param {{waitUntil?: Function}} ctx  contexto da função (para revalidar em 2º plano)
@@ -68,8 +76,8 @@ export async function getChart(chartId, ctx = {}) {
 
   const stored = await readChart(chartId);
 
-  // Nada salvo ainda (primeiro acesso / deploy novo): coleta agora.
   if (!stored?.items?.length) {
+    if (!LIVE_SCRAPE) return null;
     try {
       return await refreshChart(chartId, { timeoutMs: 9000 });
     } catch (err) {
@@ -78,12 +86,18 @@ export async function getChart(chartId, ctx = {}) {
     }
   }
 
-  // Passou de 24h: entrega o que temos e revalida em segundo plano.
+  // Passou de 24h sem receber dados novos do GitHub Actions.
   if (isStale(stored)) {
-    const task = refreshChart(chartId).catch((err) =>
-      console.error(`[charts] revalidação de ${chartId} falhou:`, err.message),
+    console.warn(
+      `[charts] ${chartId} está com ${Math.round(ageOf(stored) / 3600000)}h. ` +
+        'Verifique a execução do workflow "Atualizar listas do IMDb" no GitHub.',
     );
-    if (typeof ctx.waitUntil === 'function') ctx.waitUntil(task);
+    if (LIVE_SCRAPE) {
+      const task = refreshChart(chartId).catch((err) =>
+        console.error(`[charts] revalidação de ${chartId} falhou:`, err.message),
+      );
+      if (typeof ctx.waitUntil === 'function') ctx.waitUntil(task);
+    }
   }
 
   return stored;
