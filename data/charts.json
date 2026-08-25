@@ -1754,7 +1754,7 @@
           "description": "Uma equipe de serviço de segurança encarregada de proteger um ex-presidente"
         }
       ],
-      "updatedAt": "2026-08-24T21:53:53.914Z",
+      "updatedAt": "2026-08-25T05:52:00.157Z",
       "source": "https://www.imdb.com/pt/chart/tvmeter/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -2200,7 +2200,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "5.6",
+          "imdbRating": "5.5",
           "genres": [
             "Comédia"
           ],
@@ -3319,7 +3319,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.5",
+          "imdbRating": "6.4",
           "genres": [
             "Ação",
             "Policial",
@@ -3522,7 +3522,7 @@
           "runtime": "147 min"
         }
       ],
-      "updatedAt": "2026-08-24T21:54:01.080Z",
+      "updatedAt": "2026-08-25T05:52:05.813Z",
       "source": "https://www.imdb.com/pt/chart/moviemeter/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -4004,27 +4004,10 @@
           "runtime": "40 min"
         },
         {
-          "id": "tt0296310",
-          "type": "series",
-          "name": "Planeta Azul",
-          "rank": 28,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYjgyODJmY2YtZTk4Yy00MjBlLWFlM2YtNDIyMDk5YmQxMTllXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2001-2001",
-          "year": "2001",
-          "imdbRating": "9",
-          "genres": [
-            "Documentário",
-            "Família"
-          ],
-          "description": "Dando uma olhada na rica tapeçaria da vida nos oceanos do mundo.",
-          "runtime": "50 min"
-        },
-        {
           "id": "tt10541088",
           "type": "series",
           "name": "Na Fazenda com Clarkson",
-          "rank": 29,
+          "rank": 28,
           "poster": "https://m.media-amazon.com/images/M/MV5BNzA1Yzk0NzEtMmQwNi00ZmQyLWFmYTUtM2NjYjBkMGE3NDRkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2021",
@@ -4037,6 +4020,23 @@
           ],
           "description": "Segue Jeremy Clarkson enquanto ele tenta administrar uma fazenda no campo.",
           "runtime": "45 min"
+        },
+        {
+          "id": "tt0296310",
+          "type": "series",
+          "name": "Planeta Azul",
+          "rank": 29,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYjgyODJmY2YtZTk4Yy00MjBlLWFlM2YtNDIyMDk5YmQxMTllXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2001-2001",
+          "year": "2001",
+          "imdbRating": "9",
+          "genres": [
+            "Documentário",
+            "Família"
+          ],
+          "description": "Dando uma olhada na rica tapeçaria da vida nos oceanos do mundo.",
+          "runtime": "50 min"
         },
         {
           "id": "tt2098220",
@@ -4490,10 +4490,27 @@
           "runtime": "24 min"
         },
         {
+          "id": "tt2571774",
+          "type": "series",
+          "name": "África",
+          "rank": 56,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNWIxM2MyYzItMzZkMC00YTI4LWI4M2UtNWNlYjk5MzU5YjY2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2013-2013",
+          "year": "2013",
+          "imdbRating": "8.9",
+          "genres": [
+            "Documentário",
+            "Família"
+          ],
+          "description": "África, o continente mais selvagem do mundo. David Attenborough pega uma viagem impressionante por um dos lugares mais diversos do mundo.",
+          "runtime": "50 min"
+        },
+        {
           "id": "tt5622316",
           "type": "series",
           "name": "The Chosen: Os Escolhidos",
-          "rank": 56,
+          "rank": 57,
           "poster": "https://m.media-amazon.com/images/M/MV5BZmY3ZmM2YWQtMmRmMS00YTRmLTk4OTctNzdiYzEzYzA0OTg4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2017",
@@ -4506,23 +4523,6 @@
           ],
           "description": "Dramatiza a vida de Jesus na Judéia do século I, sob o domínio romano, retratando seus ensinamentos e relacionamentos revolucionários.",
           "runtime": "60 min"
-        },
-        {
-          "id": "tt2571774",
-          "type": "series",
-          "name": "África",
-          "rank": 57,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNWIxM2MyYzItMzZkMC00YTI4LWI4M2UtNWNlYjk5MzU5YjY2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2013-2013",
-          "year": "2013",
-          "imdbRating": "8.9",
-          "genres": [
-            "Documentário",
-            "Família"
-          ],
-          "description": "África, o continente mais selvagem do mundo. David Attenborough pega uma viagem impressionante por um dos lugares mais diversos do mundo.",
-          "runtime": "50 min"
         },
         {
           "id": "tt0200276",
@@ -6072,27 +6072,10 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt0096657",
-          "type": "series",
-          "name": "Mr. Bean",
-          "rank": 147,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZmY2OGQ4MTAtYTRkMy00NmYxLThlZTktOGE1NTRmNDVlZmI4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1990-1995",
-          "year": "1990",
-          "imdbRating": "8.6",
-          "genres": [
-            "Comédia",
-            "Família"
-          ],
-          "description": "Mr. Bean, atrapalhado e infantil, tem dificuldade em concluir as tarefas mais simples da vida cotidiana, mas sua perseverança e desenvoltura frequentemente o permitem encontrar maneiras engenhosas de contornar os problemas.",
-          "runtime": "25 min"
-        },
-        {
           "id": "tt0096639",
           "type": "series",
           "name": "Os Pistoleiros do Oeste",
-          "rank": 148,
+          "rank": 147,
           "poster": "https://m.media-amazon.com/images/M/MV5BYjUzNmFiZTAtYzA4ZC00ZGUyLWI3NGMtMTBlMGEzYTM4NDljXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1989-1989",
@@ -6105,6 +6088,23 @@
           ],
           "description": "Dois ex-Texas Rangers renovam seu espírito aventureiro quando eles e outros moradores de uma pequena cidade do Texas embarcam em uma jornada em busca de gado até o território de Montana.",
           "runtime": "90 min"
+        },
+        {
+          "id": "tt0096657",
+          "type": "series",
+          "name": "Mr. Bean",
+          "rank": 148,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZmY2OGQ4MTAtYTRkMy00NmYxLThlZTktOGE1NTRmNDVlZmI4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1990-1995",
+          "year": "1990",
+          "imdbRating": "8.6",
+          "genres": [
+            "Comédia",
+            "Família"
+          ],
+          "description": "Mr. Bean, atrapalhado e infantil, tem dificuldade em concluir as tarefas mais simples da vida cotidiana, mas sua perseverança e desenvoltura frequentemente o permitem encontrar maneiras engenhosas de contornar os problemas.",
+          "runtime": "25 min"
         },
         {
           "id": "tt5290382",
@@ -7466,27 +7466,10 @@
           "runtime": "30 min"
         },
         {
-          "id": "tt2100976",
-          "type": "series",
-          "name": "Tirando a Maior Onda",
-          "rank": 227,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYjViMmNjNWQtNGY1Ni00ODZmLTk5YTctNGY5YzM5NjM0NDQ3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2011",
-          "year": "2011",
-          "imdbRating": "8.5",
-          "genres": [
-            "Comédia",
-            "Reality show"
-          ],
-          "description": "Q, Sal, Joe e Murr são os melhores amigos da vida real que adoram desafiar-se mutuamente para os mais escandalosos desafios e acrobacias já apanhados em câmaras escondidas.",
-          "runtime": "30 min"
-        },
-        {
           "id": "tt36988358",
           "type": "series",
           "name": "Takopi's Original Sin",
-          "rank": 228,
+          "rank": 227,
           "poster": "https://m.media-amazon.com/images/M/MV5BYmRkN2I1OGEtOWM3Yi00NjViLWJjMDktYTNmZTMxYjBiNTU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2025-2025",
@@ -7498,6 +7481,23 @@
             "Ficção científica"
           ],
           "description": "O pequeno alienígena Takopi viaja até a Terra e aprende como as coisas podem ser diferentes do que em seu planeta.",
+          "runtime": "30 min"
+        },
+        {
+          "id": "tt2100976",
+          "type": "series",
+          "name": "Tirando a Maior Onda",
+          "rank": 228,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYjViMmNjNWQtNGY1Ni00ODZmLTk5YTctNGY5YzM5NjM0NDQ3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2011",
+          "year": "2011",
+          "imdbRating": "8.5",
+          "genres": [
+            "Comédia",
+            "Reality show"
+          ],
+          "description": "Q, Sal, Joe e Murr são os melhores amigos da vida real que adoram desafiar-se mutuamente para os mais escandalosos desafios e acrobacias já apanhados em câmaras escondidas.",
           "runtime": "30 min"
         },
         {
@@ -7537,10 +7537,26 @@
           "runtime": "25 min"
         },
         {
+          "id": "tt7278862",
+          "type": "series",
+          "name": "A Amiga Genial",
+          "rank": 231,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZjQ3NjZmMDMtNWE1MS00MWNlLWE4YzEtZjRkODhiZjJkMzIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2018-2024",
+          "year": "2018",
+          "imdbRating": "8.6",
+          "genres": [
+            "Drama"
+          ],
+          "description": "Uma mulher conta a amizade e o conflito ao longo da vida, com uma garota que conheceu na escola primária de Nápoles, no início dos anos 50.",
+          "runtime": "60 min"
+        },
+        {
           "id": "tt1492966",
           "type": "series",
           "name": "Louie",
-          "rank": 231,
+          "rank": 232,
           "poster": "https://m.media-amazon.com/images/M/MV5BMWI4NDMxNGMtZGUxOS00MjJkLWIxMmItZGE1ODNjMDFjYzZmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2010-2015",
@@ -7552,22 +7568,6 @@
           ],
           "description": "A vida de Louie C.K., um comediante divorciado que vive em Nova York com dois filhos.",
           "runtime": "22 min"
-        },
-        {
-          "id": "tt7278862",
-          "type": "series",
-          "name": "A Amiga Genial",
-          "rank": 232,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZjQ3NjZmMDMtNWE1MS00MWNlLWE4YzEtZjRkODhiZjJkMzIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2018-2024",
-          "year": "2018",
-          "imdbRating": "8.6",
-          "genres": [
-            "Drama"
-          ],
-          "description": "Uma mulher conta a amizade e o conflito ao longo da vida, com uma garota que conheceu na escola primária de Nápoles, no início dos anos 50.",
-          "runtime": "60 min"
         },
         {
           "id": "tt1513168",
@@ -7827,27 +7827,10 @@
           "runtime": "90 min"
         },
         {
-          "id": "tt21209876",
-          "type": "series",
-          "name": "Solo Leveling",
-          "rank": 248,
-          "poster": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2024",
-          "year": "2024",
-          "imdbRating": "8.5",
-          "genres": [
-            "Animação",
-            "Ação",
-            "Aventura"
-          ],
-          "description": "Em um mundo de caçadores e monstros talentosos, um caçador fraco, Sung Jinwoo, ganha poderes extraordinários por meio de um programa misterioso, o que o leva a se tornar um dos caçadores mais fortes."
-        },
-        {
           "id": "tt0373732",
           "type": "series",
           "name": "The Boondocks",
-          "rank": 249,
+          "rank": 248,
           "poster": "https://m.media-amazon.com/images/M/MV5BYjFjZTAxZTItYjhjZS00MzNkLTk0NDYtYWMxYTQxNTE3YTQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2005-2014",
@@ -7860,6 +7843,23 @@
           ],
           "description": "Aventuras de dois meninos, Riley e Huey Freeman, que sofrem um choque cultural quando se mudam de Chicago para os subúrbios para viver com seu avô.",
           "runtime": "22 min"
+        },
+        {
+          "id": "tt21209876",
+          "type": "series",
+          "name": "Solo Leveling",
+          "rank": 249,
+          "poster": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2024",
+          "year": "2024",
+          "imdbRating": "8.5",
+          "genres": [
+            "Animação",
+            "Ação",
+            "Aventura"
+          ],
+          "description": "Em um mundo de caçadores e monstros talentosos, um caçador fraco, Sung Jinwoo, ganha poderes extraordinários por meio de um programa misterioso, o que o leva a se tornar um dos caçadores mais fortes."
         },
         {
           "id": "tt3230854",
@@ -7880,7 +7880,7 @@
           "runtime": "60 min"
         }
       ],
-      "updatedAt": "2026-08-24T21:54:11.924Z",
+      "updatedAt": "2026-08-25T05:52:16.923Z",
       "source": "https://www.imdb.com/pt/chart/toptv/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -9314,27 +9314,10 @@
           "runtime": "178 min"
         },
         {
-          "id": "tt0082096",
-          "type": "movie",
-          "name": "O Barco: Inferno no Mar",
-          "rank": 82,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNzM2MzhlOGQtMWVlMS00MWY2LTlhNzItMGQwYTk5ZmE1OTZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1981",
-          "year": "1981",
-          "imdbRating": "8.3",
-          "genres": [
-            "Drama",
-            "Guerra"
-          ],
-          "description": "O mundo claustrofóbico de um submarino da Segunda Guerra Mundial, cheio de tédio, sujeira e terror.",
-          "runtime": "149 min"
-        },
-        {
           "id": "tt1187043",
           "type": "movie",
           "name": "3 Idiotas",
-          "rank": 83,
+          "rank": 82,
           "poster": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2009",
@@ -9346,6 +9329,23 @@
           ],
           "description": "Dois amigos procuram seu companheiro perdido. Eles se lembram de seus dias de faculdade e como seu amigo os inspirou a pensar de maneira diferente, mesmo quando o resto do mundo os chamava idiotas.",
           "runtime": "170 min"
+        },
+        {
+          "id": "tt0082096",
+          "type": "movie",
+          "name": "O Barco: Inferno no Mar",
+          "rank": 83,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNzM2MzhlOGQtMWVlMS00MWY2LTlhNzItMGQwYTk5ZmE1OTZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1981",
+          "year": "1981",
+          "imdbRating": "8.3",
+          "genres": [
+            "Drama",
+            "Guerra"
+          ],
+          "description": "O mundo claustrofóbico de um submarino da Segunda Guerra Mundial, cheio de tédio, sujeira e terror.",
+          "runtime": "149 min"
         },
         {
           "id": "tt0119698",
@@ -12254,24 +12254,25 @@
           "runtime": "145 min"
         },
         {
-          "id": "tt7019842",
+          "id": "tt3417422",
           "type": "movie",
-          "name": "96",
+          "name": "A Chantagem",
           "rank": 250,
-          "poster": "https://m.media-amazon.com/images/M/MV5BODFiZDk5MDgtMWMzNy00MTZmLTk2YTQtYjg1NzNmYzJlODJkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BM2MwMjNlNjctYjA2ZS00ZDA4LWJmNTYtODg5NDY1YzQzZDg2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2018",
-          "year": "2018",
-          "imdbRating": "8.5",
+          "releaseInfo": "2013",
+          "year": "2013",
+          "imdbRating": "8.4",
           "genres": [
+            "Policial",
             "Drama",
-            "Romance"
+            "Mistério"
           ],
-          "description": "Dois namorados do ensino médio se encontram em uma reunião após 22 anos e relembram seu passado.",
-          "runtime": "158 min"
+          "description": "Vijay Salgaonkar, operador de TV a cabo indiano, enfrenta desafios quando sua filha, Anju, acidentalmente mata Sameer, um ameaçador. Em meio ao medo, Anju esconde o incidente da polícia, levando Vijay a lutar para protegê-la.",
+          "runtime": "160 min"
         }
       ],
-      "updatedAt": "2026-08-24T21:54:25.019Z",
+      "updatedAt": "2026-08-25T05:52:27.848Z",
       "source": "https://www.imdb.com/pt/chart/top/?ref_=hm_nv_menu",
       "strategy": 1
     }
