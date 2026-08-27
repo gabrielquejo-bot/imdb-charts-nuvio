@@ -231,7 +231,8 @@
             "Drama",
             "Suspense"
           ],
-          "description": "Uma criminosa reformada é forçada a encarar seu passado e retornar às atividades ilegais em busca de um último emprego, na esperança de garantir sua liberdade e deixar para trás sua vida anterior para sempre."
+          "description": "Uma criminosa reformada é forçada a encarar seu passado e retornar às atividades ilegais em busca de um último emprego, na esperança de garantir sua liberdade e deixar para trás sua vida anterior para sempre.",
+          "runtime": "45 min"
         },
         {
           "id": "tt0944947",
@@ -1754,7 +1755,7 @@
           "description": "Uma equipe de serviço de segurança encarregada de proteger um ex-presidente"
         }
       ],
-      "updatedAt": "2026-08-26T05:54:24.839Z",
+      "updatedAt": "2026-08-27T16:34:24.750Z",
       "source": "https://www.imdb.com/pt/chart/tvmeter/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -2011,7 +2012,7 @@
             "Suspense"
           ],
           "description": "Após o paciente de uma terapeuta desaparecer em uma dimensão além da realidade, ela precisa adentrar o desconhecido para salvá-lo.",
-          "runtime": "110 min"
+          "runtime": "126 min"
         },
         {
           "id": "tt0427340",
@@ -2040,6 +2041,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
+          "imdbRating": "6.4",
           "genres": [
             "Ação",
             "Aventura",
@@ -2304,6 +2306,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
+          "imdbRating": "3.9",
           "genres": [
             "Ação",
             "Policial",
@@ -2511,7 +2514,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.7",
+          "imdbRating": "6.6",
           "genres": [
             "Ação",
             "Drama",
@@ -2583,7 +2586,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "5.9",
+          "imdbRating": "5.8",
           "genres": [
             "Ação",
             "Aventura",
@@ -3038,7 +3041,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.7",
+          "imdbRating": "6.6",
           "genres": [
             "Comédia",
             "Drama",
@@ -3056,7 +3059,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "7",
+          "imdbRating": "6.9",
           "genres": [
             "Ação",
             "Aventura",
@@ -3108,7 +3111,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "4.4",
+          "imdbRating": "4.3",
           "genres": [
             "Terror",
             "Suspense"
@@ -3320,7 +3323,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.3",
+          "imdbRating": "6.7",
           "genres": [
             "Ação",
             "Policial",
@@ -3495,7 +3498,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.2",
+          "imdbRating": "6.3",
           "genres": [
             "Aventura",
             "Família",
@@ -3523,7 +3526,7 @@
           "runtime": "147 min"
         }
       ],
-      "updatedAt": "2026-08-26T05:54:30.684Z",
+      "updatedAt": "2026-08-27T16:34:32.682Z",
       "source": "https://www.imdb.com/pt/chart/moviemeter/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -4005,27 +4008,10 @@
           "runtime": "40 min"
         },
         {
-          "id": "tt0296310",
-          "type": "series",
-          "name": "Planeta Azul",
-          "rank": 28,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYjgyODJmY2YtZTk4Yy00MjBlLWFlM2YtNDIyMDk5YmQxMTllXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2001-2001",
-          "year": "2001",
-          "imdbRating": "9",
-          "genres": [
-            "Documentário",
-            "Família"
-          ],
-          "description": "Dando uma olhada na rica tapeçaria da vida nos oceanos do mundo.",
-          "runtime": "50 min"
-        },
-        {
           "id": "tt10541088",
           "type": "series",
           "name": "Na Fazenda com Clarkson",
-          "rank": 29,
+          "rank": 28,
           "poster": "https://m.media-amazon.com/images/M/MV5BNzA1Yzk0NzEtMmQwNi00ZmQyLWFmYTUtM2NjYjBkMGE3NDRkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2021",
@@ -4038,6 +4024,23 @@
           ],
           "description": "Segue Jeremy Clarkson enquanto ele tenta administrar uma fazenda no campo.",
           "runtime": "45 min"
+        },
+        {
+          "id": "tt0296310",
+          "type": "series",
+          "name": "Planeta Azul",
+          "rank": 29,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYjgyODJmY2YtZTk4Yy00MjBlLWFlM2YtNDIyMDk5YmQxMTllXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2001-2001",
+          "year": "2001",
+          "imdbRating": "9",
+          "genres": [
+            "Documentário",
+            "Família"
+          ],
+          "description": "Dando uma olhada na rica tapeçaria da vida nos oceanos do mundo.",
+          "runtime": "50 min"
         },
         {
           "id": "tt2098220",
@@ -6982,28 +6985,10 @@
           "runtime": "24 min"
         },
         {
-          "id": "tt9335498",
-          "type": "series",
-          "name": "Demon Slayer: Kimetsu no Yaiba",
-          "rank": 199,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2019-2024",
-          "year": "2019",
-          "imdbRating": "8.5",
-          "genres": [
-            "Animação",
-            "Ação",
-            "Aventura"
-          ],
-          "description": "Uma familia é atacada por demónios, o Tanjiro e sua irmã são os unicos que sobrevivem, ele se volta em assassino de demonios para vingar sua familia.",
-          "runtime": "24 min"
-        },
-        {
           "id": "tt6108262",
           "type": "series",
           "name": "Sol Negro",
-          "rank": 200,
+          "rank": 199,
           "poster": "https://m.media-amazon.com/images/M/MV5BYzMwMTY3NzktNGE0NC00MjJiLWIyNzMtNGY2MDU5ZTgyMDAyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2017-2026",
@@ -7016,6 +7001,24 @@
           ],
           "description": "Um drama de ficção histórica e suspense que se passa no período turbulento do final da década de 1920 nos Bálcãs como um lugar onde alta política, interesses locais, capital e crime se fundem.",
           "runtime": "60 min"
+        },
+        {
+          "id": "tt9335498",
+          "type": "series",
+          "name": "Demon Slayer: Kimetsu no Yaiba",
+          "rank": 200,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2019-2024",
+          "year": "2019",
+          "imdbRating": "8.5",
+          "genres": [
+            "Animação",
+            "Ação",
+            "Aventura"
+          ],
+          "description": "Uma familia é atacada por demónios, o Tanjiro e sua irmã são os unicos que sobrevivem, ele se volta em assassino de demonios para vingar sua familia.",
+          "runtime": "24 min"
         },
         {
           "id": "tt6763664",
@@ -7347,26 +7350,10 @@
           "runtime": "80 min"
         },
         {
-          "id": "tt10590066",
-          "type": "series",
-          "name": "Criaturas Grandes e Pequenas",
-          "rank": 220,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMWM0NzY2ZDEtNDJiMS00NDNiLWFkNzYtYmZjMzg4ZjcwMzJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2020",
-          "year": "2020",
-          "imdbRating": "8.6",
-          "genres": [
-            "Comédia",
-            "Drama"
-          ],
-          "description": "Relata as aventuras da equipe de uma veterinária rural em Yorkshire na década de 1930."
-        },
-        {
           "id": "tt5189670",
           "type": "series",
           "name": "Making a Murderer",
-          "rank": 221,
+          "rank": 220,
           "poster": "https://m.media-amazon.com/images/M/MV5BMTg4Mjc1NjE4Ml5BMl5BanBnXkFtZTgwMjk2NjA1NjM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2015-2018",
@@ -7378,6 +7365,22 @@
           ],
           "description": "Filmado em um período de 10 anos, Steven Avery, um exonerador de DNA que, apesar de expor a corrupção na polícia local, é considerado o principal suspeito de um novo crime chocante.",
           "runtime": "60 min"
+        },
+        {
+          "id": "tt10590066",
+          "type": "series",
+          "name": "Criaturas Grandes e Pequenas",
+          "rank": 221,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMWM0NzY2ZDEtNDJiMS00NDNiLWFkNzYtYmZjMzg4ZjcwMzJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2020",
+          "year": "2020",
+          "imdbRating": "8.6",
+          "genres": [
+            "Comédia",
+            "Drama"
+          ],
+          "description": "Relata as aventuras da equipe de uma veterinária rural em Yorkshire na década de 1930."
         },
         {
           "id": "tt4093826",
@@ -7846,27 +7849,10 @@
           "runtime": "22 min"
         },
         {
-          "id": "tt21209876",
-          "type": "series",
-          "name": "Solo Leveling",
-          "rank": 249,
-          "poster": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2024",
-          "year": "2024",
-          "imdbRating": "8.5",
-          "genres": [
-            "Animação",
-            "Ação",
-            "Aventura"
-          ],
-          "description": "Em um mundo de caçadores e monstros talentosos, um caçador fraco, Sung Jinwoo, ganha poderes extraordinários por meio de um programa misterioso, o que o leva a se tornar um dos caçadores mais fortes."
-        },
-        {
           "id": "tt3230854",
           "type": "series",
           "name": "The Expanse",
-          "rank": 250,
+          "rank": 249,
           "poster": "https://m.media-amazon.com/images/M/MV5BZjYzZjQ4NjYtMTQ0ZC00YjRmLWI3ZDAtNTEzMzZkMjNlNmM2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2015-2022",
@@ -7879,9 +7865,25 @@
           ],
           "description": "Uma conspiracão ameaça a colonia rebelde da Terra no asteroide Belt.",
           "runtime": "60 min"
+        },
+        {
+          "id": "tt2575988",
+          "type": "series",
+          "name": "Silicon Valley",
+          "rank": 250,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMjhhYmZjZjgtOTc3Mi00ZmY3LWI3MTUtYzcyOGMxYWFmN2YyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2014-2019",
+          "year": "2014",
+          "imdbRating": "8.5",
+          "genres": [
+            "Comédia"
+          ],
+          "description": "Segue a dificuldade de Richard Hendricks para lançar sua empresa chamada Pied Piper em Silicon Valley.",
+          "runtime": "30 min"
         }
       ],
-      "updatedAt": "2026-08-26T05:54:42.589Z",
+      "updatedAt": "2026-08-27T16:34:43.227Z",
       "source": "https://www.imdb.com/pt/chart/toptv/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -9605,28 +9607,10 @@
           "runtime": "115 min"
         },
         {
-          "id": "tt0338013",
-          "type": "movie",
-          "name": "Brilho Eterno de uma Mente sem Lembranças",
-          "rank": 99,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZDVmNzMyNjctOWIxMS00MmU5LTljYjEtYzcxNWU4YWIxMGMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2004",
-          "year": "2004",
-          "imdbRating": "8.3",
-          "genres": [
-            "Drama",
-            "Romance",
-            "Ficção científica"
-          ],
-          "description": "Quando sua relaçao se volta complicada, um casal tenta um procedimento médico para que suas memorias sejam apagadas.",
-          "runtime": "108 min"
-        },
-        {
           "id": "tt33175825",
           "type": "movie",
           "name": "Attack on Titan: O Último Ataque",
-          "rank": 100,
+          "rank": 99,
           "poster": "https://m.media-amazon.com/images/M/MV5BYWZiYTQ3NTMtOTBjZC00MGUzLTljOTktOGYyZDgyYTA5ODhiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2024",
@@ -9639,6 +9623,24 @@
           ],
           "description": "O destino do mundo está em jogo enquanto Eren libera o poder supremo dos Titãs. Com uma determinação ardente de eliminar todos os que ameaçam Eldia, ele lidera um exército imparável de Titãs Colossais em direção a Marley.",
           "runtime": "145 min"
+        },
+        {
+          "id": "tt0338013",
+          "type": "movie",
+          "name": "Brilho Eterno de uma Mente sem Lembranças",
+          "rank": 100,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZDVmNzMyNjctOWIxMS00MmU5LTljYjEtYzcxNWU4YWIxMGMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2004",
+          "year": "2004",
+          "imdbRating": "8.3",
+          "genres": [
+            "Drama",
+            "Romance",
+            "Ficção científica"
+          ],
+          "description": "Quando sua relaçao se volta complicada, um casal tenta um procedimento médico para que suas memorias sejam apagadas.",
+          "runtime": "108 min"
         },
         {
           "id": "tt0053604",
@@ -9902,10 +9904,27 @@
           "runtime": "132 min"
         },
         {
+          "id": "tt0211915",
+          "type": "movie",
+          "name": "O Fabuloso Destino de Amélie Poulain",
+          "rank": 116,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMjc3YjVhMWUtMGE1Zi00ZGRlLWEwMDMtNDM5ZjUwM2M4MWZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2001",
+          "year": "2001",
+          "imdbRating": "8.2",
+          "genres": [
+            "Comédia",
+            "Romance"
+          ],
+          "description": "Amélie é uma parisiense ingênua com seu próprio senso de justiça. Ela decide ajudar as pessoas ao seu redor e, no caminho, descobre o amor.",
+          "runtime": "122 min"
+        },
+        {
           "id": "tt0052357",
           "type": "movie",
           "name": "Um Corpo que Cai",
-          "rank": 116,
+          "rank": 117,
           "poster": "https://m.media-amazon.com/images/M/MV5BYzJmZDhjNGYtZDRkMy00ZDkzLTliZWQtOWY2MjI1YjI5NGExXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1958",
@@ -9918,23 +9937,6 @@
           ],
           "description": "Um ex-policial luta contra seus demônios enquanto está obcecado por uma mulher bonita.",
           "runtime": "128 min"
-        },
-        {
-          "id": "tt0211915",
-          "type": "movie",
-          "name": "O Fabuloso Destino de Amélie Poulain",
-          "rank": 117,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMjc3YjVhMWUtMGE1Zi00ZGRlLWEwMDMtNDM5ZjUwM2M4MWZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2001",
-          "year": "2001",
-          "imdbRating": "8.2",
-          "genres": [
-            "Comédia",
-            "Romance"
-          ],
-          "description": "Amélie é uma parisiense ingênua com seu próprio senso de justiça. Ela decide ajudar as pessoas ao seu redor e, no caminho, descobre o amor.",
-          "runtime": "122 min"
         },
         {
           "id": "tt0033467",
@@ -10420,26 +10422,10 @@
           "runtime": "68 min"
         },
         {
-          "id": "tt0042192",
-          "type": "movie",
-          "name": "A Malvada",
-          "rank": 146,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1950",
-          "year": "1950",
-          "imdbRating": "8.2",
-          "genres": [
-            "Drama"
-          ],
-          "description": "Uma ingênua se insinua na vida de uma atriz de teatro, e de seu círculo de amigas de teatro.",
-          "runtime": "138 min"
-        },
-        {
           "id": "tt0167404",
           "type": "movie",
           "name": "O Sexto Sentido",
-          "rank": 147,
+          "rank": 146,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjEzOWVhMGMtYjdmYi00MTk1LWFhNjMtNDYzNjNlOGFmMDQ2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1999",
@@ -10452,6 +10438,22 @@
           ],
           "description": "Um menino que consegue se comunicar com espíritos encontra ajuda de um psicólogo.",
           "runtime": "107 min"
+        },
+        {
+          "id": "tt0042192",
+          "type": "movie",
+          "name": "A Malvada",
+          "rank": 147,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1950",
+          "year": "1950",
+          "imdbRating": "8.2",
+          "genres": [
+            "Drama"
+          ],
+          "description": "Uma ingênua se insinua na vida de uma atriz de teatro, e de seu círculo de amigas de teatro.",
+          "runtime": "138 min"
         },
         {
           "id": "tt0089881",
@@ -10578,10 +10580,27 @@
           "runtime": "111 min"
         },
         {
+          "id": "tt0105695",
+          "type": "movie",
+          "name": "Os Imperdoáveis",
+          "rank": 155,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMGIwMDI2Y2ItMzllYS00NjNjLTg0NjEtM2I1ODdhMzllZGIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1992",
+          "year": "1992",
+          "imdbRating": "8.2",
+          "genres": [
+            "Drama",
+            "Faroeste"
+          ],
+          "description": "O atirador do Velho Oeste, William Munny, relutantemente aceita um último trabalho com a ajuda de seu antigo amigo e um jovem.",
+          "runtime": "130 min"
+        },
+        {
           "id": "tt0457430",
           "type": "movie",
           "name": "O Labirinto do Fauno",
-          "rank": 155,
+          "rank": 156,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjFjYWY1ZWMtNjRkZS00NDY4LTk5MTUtMTAxNDM2NjEyMjgxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2006",
@@ -10594,23 +10613,6 @@
           ],
           "description": "Na Espanha de 1944, a filha dum oficial do exército escapa a um mundo de fantasia.",
           "runtime": "118 min"
-        },
-        {
-          "id": "tt0105695",
-          "type": "movie",
-          "name": "Os Imperdoáveis",
-          "rank": 156,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMGIwMDI2Y2ItMzllYS00NjNjLTg0NjEtM2I1ODdhMzllZGIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1992",
-          "year": "1992",
-          "imdbRating": "8.2",
-          "genres": [
-            "Drama",
-            "Faroeste"
-          ],
-          "description": "O atirador do Velho Oeste, William Munny, relutantemente aceita um último trabalho com a ajuda de seu antigo amigo e um jovem.",
-          "runtime": "130 min"
         },
         {
           "id": "tt12042730",
@@ -11944,26 +11946,10 @@
           "runtime": "104 min"
         },
         {
-          "id": "tt0252488",
-          "type": "movie",
-          "name": "A Turma do Caos: Reprovou Na Classe",
-          "rank": 232,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNjQzNDc0MjEtNmRlNS00MGEyLWJjMmItZmYzNDMwMGVlZDY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1975",
-          "year": "1975",
-          "imdbRating": "8.4",
-          "genres": [
-            "Comédia"
-          ],
-          "description": "Uma linda jovem professora começa a trabalhar em uma escola secundária só para meninos.",
-          "runtime": "95 min"
-        },
-        {
           "id": "tt0118715",
           "type": "movie",
           "name": "O Grande Lebowski",
-          "rank": 233,
+          "rank": 232,
           "poster": "https://m.media-amazon.com/images/M/MV5BNDI3MTExMTUtNzA0NS00MTFhLTg0YjUtMmRhZDUwMzJiZTU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1998",
@@ -11975,6 +11961,22 @@
           ],
           "description": "Jeff The Dude Lebowski, foi confundido por um millonário do mesmo nome e procurará restituçao com a ajuda do seus amigos.",
           "runtime": "117 min"
+        },
+        {
+          "id": "tt0252488",
+          "type": "movie",
+          "name": "A Turma do Caos: Reprovou Na Classe",
+          "rank": 233,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNjQzNDc0MjEtNmRlNS00MGEyLWJjMmItZmYzNDMwMGVlZDY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1975",
+          "year": "1975",
+          "imdbRating": "8.4",
+          "genres": [
+            "Comédia"
+          ],
+          "description": "Uma linda jovem professora começa a trabalhar em uma escola secundária só para meninos.",
+          "runtime": "95 min"
         },
         {
           "id": "tt0317705",
@@ -12047,10 +12049,26 @@
           "runtime": "118 min"
         },
         {
+          "id": "tt0070047",
+          "type": "movie",
+          "name": "O Exorcista",
+          "rank": 238,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYTgxYmQ0ODQtNGFmZC00NTg5LWJmODItZDZlZjA3MGIxN2JjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1973",
+          "year": "1973",
+          "imdbRating": "8.1",
+          "genres": [
+            "Terror"
+          ],
+          "description": "Quando uma adolescente é possuída por uma entidade misteriosa, sua mãe busca a ajuda de dois padres católicos para salvar sua vida.",
+          "runtime": "122 min"
+        },
+        {
           "id": "tt0395169",
           "type": "movie",
           "name": "Hotel Ruanda",
-          "rank": 238,
+          "rank": 239,
           "poster": "https://m.media-amazon.com/images/M/MV5BNGU3MTA4ZWQtYjc0YS00M2EzLWFlNTItYTg0NjY1YTM1YjUyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2004",
@@ -12063,22 +12081,6 @@
           ],
           "description": "Paul Rusesabagina era o gerente de um hotel que abrigava mais de mil refugiados tutsis durante sua luta contra a milícia hutu em Ruanda.",
           "runtime": "121 min"
-        },
-        {
-          "id": "tt0070047",
-          "type": "movie",
-          "name": "O Exorcista",
-          "rank": 239,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYTgxYmQ0ODQtNGFmZC00NTg5LWJmODItZDZlZjA3MGIxN2JjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1973",
-          "year": "1973",
-          "imdbRating": "8.1",
-          "genres": [
-            "Terror"
-          ],
-          "description": "Quando uma adolescente é possuída por uma entidade misteriosa, sua mãe busca a ajuda de dois padres católicos para salvar sua vida.",
-          "runtime": "122 min"
         },
         {
           "id": "tt0050976",
@@ -12272,7 +12274,7 @@
           "runtime": "99 min"
         }
       ],
-      "updatedAt": "2026-08-26T05:54:54.247Z",
+      "updatedAt": "2026-08-27T16:34:54.492Z",
       "source": "https://www.imdb.com/pt/chart/top/?ref_=hm_nv_menu",
       "strategy": 1
     }
