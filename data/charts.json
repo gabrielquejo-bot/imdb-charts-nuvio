@@ -274,7 +274,7 @@
           "type": "series",
           "name": "Blodsoffer",
           "rank": 16,
-          "poster": "https://m.media-amazon.com/images/M/MV5BM2FiZmU4YTAtZDFmMi00YzkyLWEwMzUtMWI4MTY0NWQ0N2EzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZWJlYzFiYjItN2I2MC00MThkLThmNjItM2RjN2E2M2FiZmIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
@@ -467,7 +467,7 @@
           "type": "series",
           "name": "The Rookie",
           "rank": 27,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTdmNjFlMjktZDI1ZC00MzMzLTkxZmItMzE0OTJkMDAwNzQ4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2018",
           "year": "2018",
@@ -542,7 +542,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "7.6",
+          "imdbRating": "7.5",
           "genres": [
             "Ação",
             "Aventura",
@@ -1755,7 +1755,7 @@
           "description": "Uma equipe de serviço de segurança encarregada de proteger um ex-presidente"
         }
       ],
-      "updatedAt": "2026-08-27T16:34:24.750Z",
+      "updatedAt": "2026-08-28T17:29:13.262Z",
       "source": "https://www.imdb.com/pt/chart/tvmeter/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -1845,7 +1845,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.3",
+          "imdbRating": "6.2",
           "genres": [
             "Terror",
             "Mistério",
@@ -2041,7 +2041,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.4",
+          "imdbRating": "6.5",
           "genres": [
             "Ação",
             "Aventura",
@@ -2203,7 +2203,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "5.5",
+          "imdbRating": "5.4",
           "genres": [
             "Comédia"
           ],
@@ -2306,7 +2306,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "3.9",
+          "imdbRating": "3.7",
           "genres": [
             "Ação",
             "Policial",
@@ -3307,7 +3307,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "7.1",
+          "imdbRating": "7.2",
           "genres": [
             "Terror"
           ],
@@ -3323,7 +3323,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.7",
+          "imdbRating": "6.8",
           "genres": [
             "Ação",
             "Policial",
@@ -3405,7 +3405,7 @@
         {
           "id": "tt31514146",
           "type": "movie",
-          "name": "I Swear",
+          "name": "Eu Juro",
           "rank": 94,
           "poster": "https://m.media-amazon.com/images/M/MV5BNWQxYTMyZTktZDg5Yi00Y2YwLWI4YzQtMjkyYmYxNmFjYThmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
@@ -3526,7 +3526,7 @@
           "runtime": "147 min"
         }
       ],
-      "updatedAt": "2026-08-27T16:34:32.682Z",
+      "updatedAt": "2026-08-28T17:29:19.589Z",
       "source": "https://www.imdb.com/pt/chart/moviemeter/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -6338,28 +6338,10 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt4508902",
-          "type": "series",
-          "name": "One Punch Man",
-          "rank": 162,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNzMwOGQ5MWItNzE3My00ZDYyLTk4NzAtZWIyYWI0NTZhYzY0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2015",
-          "year": "2015",
-          "imdbRating": "8.6",
-          "genres": [
-            "Animação",
-            "Ação",
-            "Comédia"
-          ],
-          "description": "A história de Saitama, um herói apenas por diversão que pode derrotar seus inimigos com um único soco.",
-          "runtime": "24 min"
-        },
-        {
           "id": "tt2788316",
           "type": "series",
           "name": "Xógum: A Gloriosa Saga do Japão",
-          "rank": 163,
+          "rank": 162,
           "poster": "https://m.media-amazon.com/images/M/MV5BOTliMTk3ZDAtYTk3NS00NTMwLTk5M2ItYzBkODlmY2VhNTMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2024-2026",
@@ -6372,6 +6354,24 @@
           ],
           "description": "Ambientado no século XVII, John Blackthorne, um marinheiro que passa de forasteiro a samurai, enquanto é usado como peão na luta do líder japonês Toranaga para chegar ao topo da cadeia governamental, ou Shogun.",
           "runtime": "60 min"
+        },
+        {
+          "id": "tt4508902",
+          "type": "series",
+          "name": "One Punch Man",
+          "rank": 163,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNzMwOGQ5MWItNzE3My00ZDYyLTk4NzAtZWIyYWI0NTZhYzY0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2015",
+          "year": "2015",
+          "imdbRating": "8.6",
+          "genres": [
+            "Animação",
+            "Ação",
+            "Comédia"
+          ],
+          "description": "A história de Saitama, um herói apenas por diversão que pode derrotar seus inimigos com um único soco.",
+          "runtime": "24 min"
         },
         {
           "id": "tt0080306",
@@ -6666,28 +6666,10 @@
           "runtime": "22 min"
         },
         {
-          "id": "tt8595766",
-          "type": "series",
-          "name": "Yeh Meri Family",
-          "rank": 181,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNGE2M2U0NTUtNDc2MC00MThmLWI2NzctMGY2MjlmZmRmMDFhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2018",
-          "year": "2018",
-          "imdbRating": "8.9",
-          "genres": [
-            "Comédia",
-            "Drama",
-            "Família"
-          ],
-          "description": "Ambientada no verão de 1998, é uma história sobre as emoções encontradas nos membros da família pelos olhos de um garoto de 12 anos.",
-          "runtime": "30 min"
-        },
-        {
           "id": "tt4574334",
           "type": "series",
           "name": "Stranger Things",
-          "rank": 182,
+          "rank": 181,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMDAxOTUyMV5BMl5BanBnXkFtZTgwNzAxMzYzOTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2016-2025",
@@ -6700,6 +6682,24 @@
           ],
           "description": "Depois do desaparecimento de um menino, sua mãe, um chefe de polícia e seus amigos precisam enfrentar forças aterrorizantes para trazê-lo de volta.",
           "runtime": "60 min"
+        },
+        {
+          "id": "tt8595766",
+          "type": "series",
+          "name": "Yeh Meri Family",
+          "rank": 182,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNGE2M2U0NTUtNDc2MC00MThmLWI2NzctMGY2MjlmZmRmMDFhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2018",
+          "year": "2018",
+          "imdbRating": "8.9",
+          "genres": [
+            "Comédia",
+            "Drama",
+            "Família"
+          ],
+          "description": "Ambientada no verão de 1998, é uma história sobre as emoções encontradas nos membros da família pelos olhos de um garoto de 12 anos.",
+          "runtime": "30 min"
         },
         {
           "id": "tt0094517",
@@ -7727,26 +7727,10 @@
           "runtime": "12 min"
         },
         {
-          "id": "tt0118273",
-          "type": "series",
-          "name": "Brass Eye",
-          "rank": 242,
-          "poster": "https://m.media-amazon.com/images/M/MV5BOTFhMGE2OWEtY2JiYS00MmUwLWIwMzMtYWZmZjdlZWI3MDI2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1997-2001",
-          "year": "1997",
-          "imdbRating": "8.6",
-          "genres": [
-            "Comédia"
-          ],
-          "description": "Paródia polêmica da televisão atual e o papel das celebridades no Reino Unido.",
-          "runtime": "25 min"
-        },
-        {
           "id": "tt5851616",
           "type": "series",
           "name": "Tash Ma Tash",
-          "rank": 243,
+          "rank": 242,
           "poster": "https://m.media-amazon.com/images/M/MV5BYzMzMWMyMzQtNDk2OS00ZTY5LTkwNDctMGFhYmRiNGFlYzMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1993-2023",
@@ -7760,10 +7744,44 @@
           "runtime": "25 min"
         },
         {
+          "id": "tt0118273",
+          "type": "series",
+          "name": "Brass Eye",
+          "rank": 243,
+          "poster": "https://m.media-amazon.com/images/M/MV5BOTFhMGE2OWEtY2JiYS00MmUwLWIwMzMtYWZmZjdlZWI3MDI2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1997-2001",
+          "year": "1997",
+          "imdbRating": "8.6",
+          "genres": [
+            "Comédia"
+          ],
+          "description": "Paródia polêmica da televisão atual e o papel das celebridades no Reino Unido.",
+          "runtime": "25 min"
+        },
+        {
+          "id": "tt3212600",
+          "type": "series",
+          "name": "Mahabharat",
+          "rank": 244,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYzM1MmNhMGQtNDliNy00ZDIwLTg1MDQtN2NjZjUyNTg2MGMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2013-2014",
+          "year": "2013",
+          "imdbRating": "8.7",
+          "genres": [
+            "Drama",
+            "História",
+            "Guerra"
+          ],
+          "description": "A mãe de todas as guerras e rivalidades, caldeirão de emoções e inseguranças - Mahabharat. Uma lição magistral para a humanidade.",
+          "runtime": "20 min"
+        },
+        {
           "id": "tt2244495",
           "type": "series",
           "name": "The Eric Andre Show",
-          "rank": 244,
+          "rank": 245,
           "poster": "https://m.media-amazon.com/images/M/MV5BZGY0OGMzYjItNjhkMy00NjZjLThlZTEtMTdlYWU0NzliZWNkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2012",
@@ -7781,7 +7799,7 @@
           "id": "tt1877368",
           "type": "series",
           "name": "The Great British Bake Off",
-          "rank": 245,
+          "rank": 246,
           "poster": "https://m.media-amazon.com/images/M/MV5BNTc3MzZkZTQtMWM3MC00MThmLTlmNjctOWEwY2NjMzM2NTllXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2010",
@@ -7793,24 +7811,6 @@
           ],
           "description": "Os padeiros tentam três desafios por semana tentando impressionar os juízes o suficiente para passar para a próxima rodada e, finalmente, são coroados como o melhor padeiro amador da Grã-Bretanha.",
           "runtime": "60 min"
-        },
-        {
-          "id": "tt3212600",
-          "type": "series",
-          "name": "Mahabharat",
-          "rank": 246,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYzM1MmNhMGQtNDliNy00ZDIwLTg1MDQtN2NjZjUyNTg2MGMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2013-2014",
-          "year": "2013",
-          "imdbRating": "8.7",
-          "genres": [
-            "Drama",
-            "História",
-            "Guerra"
-          ],
-          "description": "A mãe de todas as guerras e rivalidades, caldeirão de emoções e inseguranças - Mahabharat. Uma lição magistral para a humanidade.",
-          "runtime": "20 min"
         },
         {
           "id": "tt0310455",
@@ -7867,23 +7867,24 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt2575988",
+          "id": "tt21209876",
           "type": "series",
-          "name": "Silicon Valley",
+          "name": "Solo Leveling",
           "rank": 250,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMjhhYmZjZjgtOTc3Mi00ZmY3LWI3MTUtYzcyOGMxYWFmN2YyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2014-2019",
-          "year": "2014",
+          "releaseInfo": "2024",
+          "year": "2024",
           "imdbRating": "8.5",
           "genres": [
-            "Comédia"
+            "Animação",
+            "Ação",
+            "Aventura"
           ],
-          "description": "Segue a dificuldade de Richard Hendricks para lançar sua empresa chamada Pied Piper em Silicon Valley.",
-          "runtime": "30 min"
+          "description": "Em um mundo de caçadores e monstros talentosos, um caçador fraco, Sung Jinwoo, ganha poderes extraordinários por meio de um programa misterioso, o que o leva a se tornar um dos caçadores mais fortes."
         }
       ],
-      "updatedAt": "2026-08-27T16:34:43.227Z",
+      "updatedAt": "2026-08-28T17:29:30.674Z",
       "source": "https://www.imdb.com/pt/chart/toptv/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -9838,7 +9839,7 @@
         {
           "id": "tt31514146",
           "type": "movie",
-          "name": "I Swear",
+          "name": "Eu Juro",
           "rank": 112,
           "poster": "https://m.media-amazon.com/images/M/MV5BNWQxYTMyZTktZDg5Yi00Y2YwLWI4YzQtMjkyYmYxNmFjYThmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
@@ -9993,7 +9994,7 @@
           "type": "movie",
           "name": "Golpe de Mestre",
           "rank": 121,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZGI4OTk4MDMtYmQ1Ni00YTUzLTkyYTktZGUwMjMyN2M4NjQ5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BM2E4MGZjOGItNzAwYy00MjU5LTliZTEtNTQ3YTUzNmUzMjE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1973",
           "year": "1973",
@@ -10422,10 +10423,26 @@
           "runtime": "68 min"
         },
         {
+          "id": "tt0042192",
+          "type": "movie",
+          "name": "A Malvada",
+          "rank": 146,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1950",
+          "year": "1950",
+          "imdbRating": "8.2",
+          "genres": [
+            "Drama"
+          ],
+          "description": "Uma ingênua se insinua na vida de uma atriz de teatro, e de seu círculo de amigas de teatro.",
+          "runtime": "138 min"
+        },
+        {
           "id": "tt0167404",
           "type": "movie",
           "name": "O Sexto Sentido",
-          "rank": 146,
+          "rank": 147,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjEzOWVhMGMtYjdmYi00MTk1LWFhNjMtNDYzNjNlOGFmMDQ2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1999",
@@ -10438,22 +10455,6 @@
           ],
           "description": "Um menino que consegue se comunicar com espíritos encontra ajuda de um psicólogo.",
           "runtime": "107 min"
-        },
-        {
-          "id": "tt0042192",
-          "type": "movie",
-          "name": "A Malvada",
-          "rank": 147,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1950",
-          "year": "1950",
-          "imdbRating": "8.2",
-          "genres": [
-            "Drama"
-          ],
-          "description": "Uma ingênua se insinua na vida de uma atriz de teatro, e de seu círculo de amigas de teatro.",
-          "runtime": "138 min"
         },
         {
           "id": "tt0089881",
@@ -10954,10 +10955,27 @@
           "runtime": "374 min"
         },
         {
+          "id": "tt0097165",
+          "type": "movie",
+          "name": "Sociedade dos Poetas Mortos",
+          "rank": 176,
+          "poster": "https://m.media-amazon.com/images/M/MV5BOGI1ODFjZGItYjM4Ni00ODMwLTgyM2QtOGM2MGZhZGZiOGIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1989",
+          "year": "1989",
+          "imdbRating": "8.1",
+          "genres": [
+            "Comédia",
+            "Drama"
+          ],
+          "description": "O professor de Inglés John Keating inspira a seus estudantes a ver a poesia duma perspectiva diferente.",
+          "runtime": "128 min"
+        },
+        {
           "id": "tt2096673",
           "type": "movie",
           "name": "Divertida Mente",
-          "rank": 176,
+          "rank": 177,
           "poster": "https://m.media-amazon.com/images/M/MV5BNWI3ZTNlN2QtY2YxZS00YjIwLTgyN2UtNWI5MzU0NzU4MWRkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2015",
@@ -10970,23 +10988,6 @@
           ],
           "description": "Depois que a jovem Riley é arrancada de sua vida no Centro-Oeste e se muda para São Francisco, suas emoções - Alegria, Medo, Raiva, Nojinho e Tristeza - entram em conflito sobre a melhor forma de navegar em uma nova cidade, casa e escola.",
           "runtime": "95 min"
-        },
-        {
-          "id": "tt0097165",
-          "type": "movie",
-          "name": "Sociedade dos Poetas Mortos",
-          "rank": 177,
-          "poster": "https://m.media-amazon.com/images/M/MV5BOGI1ODFjZGItYjM4Ni00ODMwLTgyM2QtOGM2MGZhZGZiOGIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1989",
-          "year": "1989",
-          "imdbRating": "8.1",
-          "genres": [
-            "Comédia",
-            "Drama"
-          ],
-          "description": "O professor de Inglés John Keating inspira a seus estudantes a ver a poesia duma perspectiva diferente.",
-          "runtime": "128 min"
         },
         {
           "id": "tt0117951",
@@ -11804,28 +11805,10 @@
           "runtime": "129 min"
         },
         {
-          "id": "tt0059742",
-          "type": "movie",
-          "name": "A Noviça Rebelde",
-          "rank": 224,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZTUyZGI0ODAtMThlYi00YmNlLTliNGMtYWE1ZWM3NDc1YTFhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1965",
-          "year": "1965",
-          "imdbRating": "8.1",
-          "genres": [
-            "Biografia",
-            "Drama",
-            "Família"
-          ],
-          "description": "Uma mulher deixa um convento austríaco para se tornar a instrutora dos filhos de um oficial da marinha viúvo.",
-          "runtime": "174 min"
-        },
-        {
           "id": "tt26548265",
           "type": "movie",
           "name": "O Mistério da Lixeira",
-          "rank": 225,
+          "rank": 224,
           "poster": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2024",
@@ -11838,6 +11821,24 @@
           ],
           "description": "Um barbeiro busca vingança depois que sua casa é assaltada, dizendo enigmaticamente à polícia que sua \"lakshmi\" foi levada, deixando-os incertos se é uma pessoa ou um objeto. Sua busca para recuperar a elusiva \"lakshmi\" se desenrola.",
           "runtime": "141 min"
+        },
+        {
+          "id": "tt0059742",
+          "type": "movie",
+          "name": "A Noviça Rebelde",
+          "rank": 225,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZTUyZGI0ODAtMThlYi00YmNlLTliNGMtYWE1ZWM3NDc1YTFhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1965",
+          "year": "1965",
+          "imdbRating": "8.1",
+          "genres": [
+            "Biografia",
+            "Drama",
+            "Família"
+          ],
+          "description": "Uma mulher deixa um convento austríaco para se tornar a instrutora dos filhos de um oficial da marinha viúvo.",
+          "runtime": "174 min"
         },
         {
           "id": "tt15097216",
@@ -12274,7 +12275,7 @@
           "runtime": "99 min"
         }
       ],
-      "updatedAt": "2026-08-27T16:34:54.492Z",
+      "updatedAt": "2026-08-28T17:29:42.548Z",
       "source": "https://www.imdb.com/pt/chart/top/?ref_=hm_nv_menu",
       "strategy": 1
     }
