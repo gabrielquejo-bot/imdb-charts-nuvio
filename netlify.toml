@@ -2,6 +2,8 @@
   publish = "public"
   functions = "netlify/functions"
   command = "echo 'sem etapa de build'"
+  # Não gasta build quando o commit só traz o snapshot das listas.
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)data'"
 
 [build.environment]
   NODE_VERSION = "20"

@@ -1,4 +1,4 @@
-# Leitura diária das listas do IMDb usando um navegador de verdade.
+# Leitura semanal das listas do IMDb usando um navegador de verdade.
 #
 # O IMDb protege /chart/ com AWS WAF em modo challenge: a primeira resposta é
 # 202 com ~2 KB de JavaScript, que precisa rodar para liberar o conteúdo. Por
@@ -12,7 +12,10 @@ name: Atualizar listas do IMDb
 
 on:
   schedule:
-    - cron: '20 5 * * *' # 05:20 UTC = 02:20 em Brasília
+    # O IMDb atualiza os rankings de popularidade uma vez por semana, até o
+    # fim de segunda. Terça pega o dado novo; sexta é rede de segurança caso
+    # a execução de terça falhe.
+    - cron: '20 6 * * 2,5' # terça e sexta, 06:20 UTC = 03:20 em Brasília
   workflow_dispatch:
 
 permissions:
@@ -53,7 +56,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -f data/charts.json
-          git diff --staged --quiet || git commit -m "Listas do IMDb de $(date -u +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "Listas do IMDb de $(date -u +%Y-%m-%d) [skip ci]"
           git push
 
       - name: Guardar diagnóstico quando falhar
