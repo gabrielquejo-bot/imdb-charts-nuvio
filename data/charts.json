@@ -1755,7 +1755,7 @@
           "description": "Uma equipe de serviço de segurança encarregada de proteger um ex-presidente"
         }
       ],
-      "updatedAt": "2026-08-28T17:29:13.262Z",
+      "updatedAt": "2026-08-28T23:30:34.902Z",
       "source": "https://www.imdb.com/pt/chart/tvmeter/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -2041,7 +2041,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.5",
+          "imdbRating": "6.4",
           "genres": [
             "Ação",
             "Aventura",
@@ -2359,7 +2359,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "9.2",
+          "imdbRating": "9.1",
           "genres": [
             "Animação",
             "Fantasia"
@@ -2745,7 +2745,7 @@
           "posterShape": "poster",
           "releaseInfo": "2025",
           "year": "2025",
-          "imdbRating": "5.6",
+          "imdbRating": "5.7",
           "genres": [
             "Drama",
             "Fantasia",
@@ -3164,7 +3164,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "5.6",
+          "imdbRating": "5.5",
           "genres": [
             "Fantasia",
             "Terror",
@@ -3526,7 +3526,7 @@
           "runtime": "147 min"
         }
       ],
-      "updatedAt": "2026-08-28T17:29:19.589Z",
+      "updatedAt": "2026-08-28T23:30:40.838Z",
       "source": "https://www.imdb.com/pt/chart/moviemeter/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -5817,26 +5817,10 @@
           "runtime": "45 min"
         },
         {
-          "id": "tt0111958",
-          "type": "series",
-          "name": "Father Ted",
-          "rank": 132,
-          "poster": "https://m.media-amazon.com/images/M/MV5BN2NmMzNkZDAtYzEyMy00NzY2LTlhMmMtNzc2M2M5ZTk2MmY2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1995-1998",
-          "year": "1995",
-          "imdbRating": "8.6",
-          "genres": [
-            "Comédia"
-          ],
-          "description": "Três padres desajustados e sua governanta moram na Ilha Craggy, uma parte não tão pacífica e tranquila da Irlanda.",
-          "runtime": "25 min"
-        },
-        {
           "id": "tt0459159",
           "type": "series",
           "name": "The Thick of It",
-          "rank": 133,
+          "rank": 132,
           "poster": "https://m.media-amazon.com/images/M/MV5BNTQ0NTdjZTctZWRhMS00YjNmLWIyOWQtMWJjNjJhYTgyOTdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2005-2012",
@@ -5847,6 +5831,22 @@
           ],
           "description": "Localizado nos corredores do poder, o Ministro de Assuntos Sociais é continuamente assediado por um agente de política e depende de sua equipe não tão confiável de funcionários públicos.",
           "runtime": "30 min"
+        },
+        {
+          "id": "tt0111958",
+          "type": "series",
+          "name": "Father Ted",
+          "rank": 133,
+          "poster": "https://m.media-amazon.com/images/M/MV5BN2NmMzNkZDAtYzEyMy00NzY2LTlhMmMtNzc2M2M5ZTk2MmY2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1995-1998",
+          "year": "1995",
+          "imdbRating": "8.6",
+          "genres": [
+            "Comédia"
+          ],
+          "description": "Três padres desajustados e sua governanta moram na Ilha Craggy, uma parte não tão pacífica e tranquila da Irlanda.",
+          "runtime": "25 min"
         },
         {
           "id": "tt1795096",
@@ -6424,28 +6424,10 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt2049116",
-          "type": "series",
-          "name": "Gomorra: La serie",
-          "rank": 167,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYWUwYmYwNmItMTRiMy00ZDBhLWE3OTUtMDdmYjA1Mzc2M2IwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2014-2021",
-          "year": "2014",
-          "imdbRating": "8.6",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Suspense"
-          ],
-          "description": "Ciro não presta atenção a tradição al tentar ser o próximo líder do sindicato do crime, a luta interna colocará a ele e a sua familia em risco.",
-          "runtime": "45 min"
-        },
-        {
           "id": "tt9103932",
           "type": "series",
           "name": "Grandes Momentos da Segunda Guerra em Cores",
-          "rank": 168,
+          "rank": 167,
           "poster": "https://m.media-amazon.com/images/M/MV5BY2NmYjgzZTItNzllZC00YWFiLWEzOTAtNWMyNzhhMDdjOWQ2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2019-2019",
@@ -6458,6 +6440,24 @@
           ],
           "description": "Do ataque a Pearl Harbor ao Dia D, os acontecimentos mais marcantes da Segunda Guerra ganham vida.",
           "runtime": "50 min"
+        },
+        {
+          "id": "tt2049116",
+          "type": "series",
+          "name": "Gomorra: La serie",
+          "rank": 168,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYWUwYmYwNmItMTRiMy00ZDBhLWE3OTUtMDdmYjA1Mzc2M2IwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2014-2021",
+          "year": "2014",
+          "imdbRating": "8.6",
+          "genres": [
+            "Policial",
+            "Drama",
+            "Suspense"
+          ],
+          "description": "Ciro não presta atenção a tradição al tentar ser o próximo líder do sindicato do crime, a luta interna colocará a ele e a sua familia em risco.",
+          "runtime": "45 min"
         },
         {
           "id": "tt0092324",
@@ -7709,28 +7709,10 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt12074628",
-          "type": "series",
-          "name": "Smiling Friends",
-          "rank": 241,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYjNkMjdiZGEtMTg3Mi00YTAzLWJkMGYtMmIxMzNjMmRhOGNmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2020-2026",
-          "year": "2020",
-          "imdbRating": "8.5",
-          "genres": [
-            "Animação",
-            "Curta-Metragem",
-            "Comédia"
-          ],
-          "description": "Uma pequena empresa dedicada a trazer felicidade para o mundo recebe um simples pedido para ajudar o filho infeliz de uma mulher a sorrir novamente, mas o trabalho acaba sendo mais complicado do que parece.",
-          "runtime": "12 min"
-        },
-        {
           "id": "tt5851616",
           "type": "series",
           "name": "Tash Ma Tash",
-          "rank": 242,
+          "rank": 241,
           "poster": "https://m.media-amazon.com/images/M/MV5BYzMzMWMyMzQtNDk2OS00ZTY5LTkwNDctMGFhYmRiNGFlYzMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1993-2023",
@@ -7747,7 +7729,7 @@
           "id": "tt0118273",
           "type": "series",
           "name": "Brass Eye",
-          "rank": 243,
+          "rank": 242,
           "poster": "https://m.media-amazon.com/images/M/MV5BOTFhMGE2OWEtY2JiYS00MmUwLWIwMzMtYWZmZjdlZWI3MDI2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1997-2001",
@@ -7758,6 +7740,24 @@
           ],
           "description": "Paródia polêmica da televisão atual e o papel das celebridades no Reino Unido.",
           "runtime": "25 min"
+        },
+        {
+          "id": "tt12074628",
+          "type": "series",
+          "name": "Smiling Friends",
+          "rank": 243,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYjNkMjdiZGEtMTg3Mi00YTAzLWJkMGYtMmIxMzNjMmRhOGNmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2020-2026",
+          "year": "2020",
+          "imdbRating": "8.5",
+          "genres": [
+            "Animação",
+            "Curta-Metragem",
+            "Comédia"
+          ],
+          "description": "Uma pequena empresa dedicada a trazer felicidade para o mundo recebe um simples pedido para ajudar o filho infeliz de uma mulher a sorrir novamente, mas o trabalho acaba sendo mais complicado do que parece.",
+          "runtime": "12 min"
         },
         {
           "id": "tt3212600",
@@ -7884,7 +7884,7 @@
           "description": "Em um mundo de caçadores e monstros talentosos, um caçador fraco, Sung Jinwoo, ganha poderes extraordinários por meio de um programa misterioso, o que o leva a se tornar um dos caçadores mais fortes."
         }
       ],
-      "updatedAt": "2026-08-28T17:29:30.674Z",
+      "updatedAt": "2026-08-28T23:30:51.689Z",
       "source": "https://www.imdb.com/pt/chart/toptv/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -10616,28 +10616,10 @@
           "runtime": "118 min"
         },
         {
-          "id": "tt12042730",
-          "type": "movie",
-          "name": "Devoradores de Estrelas",
-          "rank": 157,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNTJlOTRhMGMtOTI5MC00ZmEyLWE3NDItMDBiMDRkYTFiMTY2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "8.2",
-          "genres": [
-            "Aventura",
-            "Comédia",
-            "Drama"
-          ],
-          "description": "Um astronauta tenta salvar a Terra enquanto está sozinho no espaço sideral.",
-          "runtime": "156 min"
-        },
-        {
           "id": "tt0268978",
           "type": "movie",
           "name": "Uma Mente Brilhante",
-          "rank": 158,
+          "rank": 157,
           "poster": "https://m.media-amazon.com/images/M/MV5BYjgzNjFkMmItOGJhNi00NWM3LWJlYTUtNDExMGQ3ZTI3NjJkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2001",
@@ -10650,6 +10632,24 @@
           ],
           "description": "A vida do brilhante mas insociável matemático John Nash muda quando ele aceita um trabalho secreto em criptografia.",
           "runtime": "135 min"
+        },
+        {
+          "id": "tt12042730",
+          "type": "movie",
+          "name": "Devoradores de Estrelas",
+          "rank": 158,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNTJlOTRhMGMtOTI5MC00ZmEyLWE3NDItMDBiMDRkYTFiMTY2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2026",
+          "year": "2026",
+          "imdbRating": "8.2",
+          "genres": [
+            "Aventura",
+            "Comédia",
+            "Drama"
+          ],
+          "description": "Um astronauta tenta salvar a Terra enquanto está sozinho no espaço sideral.",
+          "runtime": "156 min"
         },
         {
           "id": "tt0347149",
@@ -11823,10 +11823,27 @@
           "runtime": "141 min"
         },
         {
+          "id": "tt15097216",
+          "type": "movie",
+          "name": "Jai Bhim",
+          "rank": 225,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZjEyNDIzNmEtMjdkYS00ZDAwLTljOWYtNDRhYTVhYTlmOTk1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2021",
+          "year": "2021",
+          "imdbRating": "8.6",
+          "genres": [
+            "Policial",
+            "Drama"
+          ],
+          "description": "Quando um homem tribal é preso por um caso de suposto roubo, sua esposa recorre a um advogado de direitos humanos para ajudá-lo a fazer justiça.",
+          "runtime": "164 min"
+        },
+        {
           "id": "tt0059742",
           "type": "movie",
           "name": "A Noviça Rebelde",
-          "rank": 225,
+          "rank": 226,
           "poster": "https://m.media-amazon.com/images/M/MV5BZTUyZGI0ODAtMThlYi00YmNlLTliNGMtYWE1ZWM3NDc1YTFhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1965",
@@ -11839,23 +11856,6 @@
           ],
           "description": "Uma mulher deixa um convento austríaco para se tornar a instrutora dos filhos de um oficial da marinha viúvo.",
           "runtime": "174 min"
-        },
-        {
-          "id": "tt15097216",
-          "type": "movie",
-          "name": "Jai Bhim",
-          "rank": 226,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZjEyNDIzNmEtMjdkYS00ZDAwLTljOWYtNDRhYTVhYTlmOTk1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2021",
-          "year": "2021",
-          "imdbRating": "8.6",
-          "genres": [
-            "Policial",
-            "Drama"
-          ],
-          "description": "Quando um homem tribal é preso por um caso de suposto roubo, sua esposa recorre a um advogado de direitos humanos para ajudá-lo a fazer justiça.",
-          "runtime": "164 min"
         },
         {
           "id": "tt0088247",
@@ -12171,27 +12171,10 @@
           "runtime": "89 min"
         },
         {
-          "id": "tt0058946",
-          "type": "movie",
-          "name": "A Batalha de Argel",
-          "rank": 245,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1966",
-          "year": "1966",
-          "imdbRating": "8.1",
-          "genres": [
-            "Drama",
-            "Guerra"
-          ],
-          "description": "Nos anos 1950, o medo e a violência aumentam à medida que o povo da Argélia luta pela independência do governo francês.",
-          "runtime": "121 min"
-        },
-        {
           "id": "tt0032138",
           "type": "movie",
           "name": "O Mágico de Oz",
-          "rank": 246,
+          "rank": 245,
           "poster": "https://m.media-amazon.com/images/M/MV5BNWY3OWRmYTYtYWM2Ny00NzNiLWJmY2UtYzI1NTRkZDdhZWE1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1939",
@@ -12204,6 +12187,23 @@
           ],
           "description": "A Dorothy Gale é levada por um tornado até a mágica cidade de Oz e vá numa viagem com novos amigos que la ajudar a voltar para casa.",
           "runtime": "102 min"
+        },
+        {
+          "id": "tt0058946",
+          "type": "movie",
+          "name": "A Batalha de Argel",
+          "rank": 246,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1966",
+          "year": "1966",
+          "imdbRating": "8.1",
+          "genres": [
+            "Drama",
+            "Guerra"
+          ],
+          "description": "Nos anos 1950, o medo e a violência aumentam à medida que o povo da Argélia luta pela independência do governo francês.",
+          "runtime": "121 min"
         },
         {
           "id": "tt0476735",
@@ -12275,7 +12275,7 @@
           "runtime": "99 min"
         }
       ],
-      "updatedAt": "2026-08-28T17:29:42.548Z",
+      "updatedAt": "2026-08-28T23:31:03.459Z",
       "source": "https://www.imdb.com/pt/chart/top/?ref_=hm_nv_menu",
       "strategy": 1
     }
