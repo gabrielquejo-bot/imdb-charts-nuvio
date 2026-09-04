@@ -14,7 +14,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "7.9",
+          "imdbRating": "7.8",
           "genres": [
             "Ação",
             "Aventura",
@@ -506,7 +506,7 @@
           "posterShape": "poster",
           "releaseInfo": "2025",
           "year": "2025",
-          "imdbRating": "7.1",
+          "imdbRating": "7.2",
           "genres": [
             "Comédia"
           ],
@@ -867,17 +867,17 @@
         {
           "id": "tt44113382",
           "type": "series",
-          "name": "A MORTE DA ESPOSA DO PASTOR",
+          "name": "A Morte da Esposa do Pastor",
           "rank": 50,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDkyZjEtZmJmOS00MWQzLTlhNjEtZThiMGE3NGQyN2RlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2026-2026",
           "year": "2026",
-          "imdbRating": "6.8",
+          "imdbRating": "6.7",
           "genres": [
             "Documentário"
           ],
-          "description": "Three-part documentary on Mica Miller's life and death. Wife of pastor John-Paul Miller. Features new footage, family interviews, allegations of control, circumstances of her mysterious death, ongoing search for answers.",
+          "description": "Sobre a vida e a morte de Mica Miller, esposa do pastor John-Paul Miller. Inclui material inédito, entrevistas familiares, acusações de controle e as circunstâncias de sua misteriosa morte.",
           "runtime": "45 min"
         },
         {
@@ -1172,7 +1172,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "5.9",
+          "imdbRating": "6",
           "genres": [
             "Policial",
             "Drama"
@@ -1748,7 +1748,7 @@
           "runtime": "45 min"
         }
       ],
-      "updatedAt": "2026-09-01T11:46:21.409Z",
+      "updatedAt": "2026-09-04T11:32:30.861Z",
       "source": "https://www.imdb.com/pt/chart/tvmeter/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -1838,14 +1838,14 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "7.7",
+          "imdbRating": "7.6",
           "genres": [
             "Animação",
             "Aventura",
             "Comédia"
           ],
           "description": "Uma história que se passa no armazém da ACME, fabricante de tudo o que é usado pelos personagens dos Looney Tunes.",
-          "runtime": "101 min"
+          "runtime": "103 min"
         },
         {
           "id": "tt27165187",
@@ -1945,12 +1945,12 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "7.2",
+          "imdbRating": "7.1",
           "genres": [
             "Terror"
           ],
           "description": "Uma turma de crianças enfrenta eventos assustadores que testam sua coragem e amizade.",
-          "runtime": "95 min"
+          "runtime": "96 min"
         },
         {
           "id": "tt35410859",
@@ -1972,7 +1972,7 @@
         {
           "id": "tt37275992",
           "type": "movie",
-          "name": "A MULHER SECRETA",
+          "name": "A Mulher Secreta",
           "rank": 13,
           "poster": "https://m.media-amazon.com/images/M/MV5BZGNiZGJjMTktZTEzYi00NzY3LWE2NDQtOWJmOGM0ODBhM2E0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
@@ -2030,7 +2030,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "3.9",
+          "imdbRating": "4.1",
           "genres": [
             "Ação",
             "Policial",
@@ -2132,7 +2132,7 @@
           "type": "movie",
           "name": "Batman: Knightfall - Part 1: Knightfall",
           "rank": 22,
-          "poster": "https://m.media-amazon.com/images/M/MV5BY2JkYzg3OGEtMjE2OS00ZTMwLWIyOTktYTQ5ZTI3ZmVkMTQyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNTY3YWIzYzYtZDk2My00YjFjLWE2OTctNWVhOTU3ZDQ2YTU0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
@@ -2156,9 +2156,9 @@
           "year": "2026",
           "imdbRating": "7.2",
           "genres": [
+            "Comédia",
             "Drama",
-            "Terror",
-            "Romance"
+            "Terror"
           ],
           "description": "Um cineasta queer é contratado para dirigir uma nova parte de uma franquia de terror. Ele fica obcecado com a possibilidade de escolher a \"garota final\" do filme original, e as duas mulheres caem em um frenesi de mania psicossexual.",
           "runtime": "112 min"
@@ -2204,7 +2204,7 @@
           "type": "movie",
           "name": "Dia D",
           "rank": 26,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZGJkMWIwMDEtZDk3ZS00ZGRhLTk0MTUtY2EyZmRlNTI5NzVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
@@ -2369,7 +2369,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "3.3",
+          "imdbRating": "3.4",
           "genres": [
             "Ação",
             "Aventura",
@@ -2526,7 +2526,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "7.5",
+          "imdbRating": "7.3",
           "genres": [
             "Ação",
             "Drama",
@@ -2645,14 +2645,14 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "8.5",
+          "imdbRating": "8.4",
           "genres": [
             "Animação",
             "Curta-Metragem",
             "Ação"
           ],
           "description": "See an extended look at \"Grand Theft Auto VI\", the next evolution in the groundbreaking \"Grand Theft Auto\" series.",
-          "runtime": "26 min"
+          "runtime": "27 min"
         },
         {
           "id": "tt27543632",
@@ -2677,7 +2677,7 @@
           "type": "movie",
           "name": "Resident Evil",
           "rank": 53,
-          "poster": "https://m.media-amazon.com/images/M/MV5BN2Y5YTQ1NGYtMmRjYi00ODAyLWFhY2EtYjM0Yzc2NjU4N2MyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BODIwYTk4MWYtMGUxYS00OWUzLTg5MDYtNzg5MmYyNzcyNThkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
@@ -2758,7 +2758,7 @@
             "Policial"
           ],
           "description": "A professora Se Jeong participa de uma conferência de biotecnologia que vira caos quando um vírus de rápida mutação é liberado. Enquanto o surto se espalha e os infectados se transformam, as autoridades isolam todo o local.",
-          "runtime": "122 min"
+          "runtime": "123 min"
         },
         {
           "id": "tt43383343",
@@ -2769,7 +2769,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "9.1",
+          "imdbRating": "9",
           "genres": [
             "Animação",
             "Fantasia"
@@ -2835,7 +2835,7 @@
           "posterShape": "poster",
           "releaseInfo": "2025",
           "year": "2025",
-          "imdbRating": "4.2",
+          "imdbRating": "4.1",
           "genres": [
             "Animação",
             "Comédia",
@@ -2888,7 +2888,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "5.5",
+          "imdbRating": "5.4",
           "genres": [
             "Comédia"
           ],
@@ -2918,11 +2918,11 @@
           "type": "movie",
           "name": "I Want Your Sex",
           "rank": 67,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMWM3MWEyNjQtM2Q1ZC00YjhiLWE4Y2ItZjA5YmIzMDhkNzJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNzA0NDlhNmMtNzYyYy00NjI0LWFiZjEtYWIwOTFiMDkyM2JhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.4",
+          "imdbRating": "6.2",
           "genres": [
             "Comédia",
             "Drama",
@@ -3064,7 +3064,7 @@
           "posterShape": "poster",
           "releaseInfo": "2025",
           "year": "2025",
-          "imdbRating": "6.9",
+          "imdbRating": "6.8",
           "genres": [
             "Policial",
             "Drama",
@@ -3170,7 +3170,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.9",
+          "imdbRating": "6.8",
           "genres": [
             "Ação",
             "Drama",
@@ -3201,7 +3201,7 @@
           "type": "movie",
           "name": "Idiotas",
           "rank": 83,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZjI0MTAxYjktMTYxMi00MzIxLWFlMGMtMDJhNjJhZGZmZGU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNjNiMWNlYjgtMWYxNS00Njg0LWFjMGMtYTg2MjdiMjU3NWRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
@@ -3211,7 +3211,7 @@
             "Policial"
           ],
           "description": "Dois motoristas de longa distância transportam um adolescente rico para a reabilitação, mas seu trabalho simples se transforma em uma jornada caótica de drogas, perigos e crimes enquanto seu passageiro atrapalha seus planos.",
-          "runtime": "98 min"
+          "runtime": "100 min"
         },
         {
           "id": "tt18259538",
@@ -3240,9 +3240,10 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "9.3",
+          "imdbRating": "9.2",
           "genres": [
-            "Biografia"
+            "Biografia",
+            "Drama"
           ],
           "description": "A grieving boy seeks God to meet his departed mother, and in finding the divine, learns to serve humanity with miracles of love, food and silent blessings, becoming Hanuman Ansh, Neem Karoli Baba.",
           "runtime": "150 min"
@@ -3473,7 +3474,7 @@
             "Terror"
           ],
           "description": "Duas amigas se veem novamente envolvidas em uma confusão com assassinos, monstros e criaturas sobrenaturais.",
-          "runtime": "100 min"
+          "runtime": "95 min"
         },
         {
           "id": "tt12299608",
@@ -3511,7 +3512,7 @@
           "runtime": "97 min"
         }
       ],
-      "updatedAt": "2026-09-01T11:46:28.464Z",
+      "updatedAt": "2026-09-04T11:32:36.055Z",
       "source": "https://www.imdb.com/pt/chart/moviemeter/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -4443,28 +4444,10 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt14986406",
-          "type": "series",
-          "name": "Bleach: Thousand-Year Blood War",
-          "rank": 54,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMjgyM2QzMjAtOGZjOS00OGFkLTkxZGYtMDJjZGM5MzIzYmM3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2022",
-          "year": "2022",
-          "imdbRating": "9",
-          "genres": [
-            "Animação",
-            "Ação",
-            "Aventura"
-          ],
-          "description": "A paz é repentinamente quebrada quando as sirenes de alerta soam através da Soul Society. Os moradores estão desaparecendo sem deixar rastro e ninguém sabe quem está por trás disso.",
-          "runtime": "24 min"
-        },
-        {
           "id": "tt0388629",
           "type": "series",
           "name": "One Piece",
-          "rank": 55,
+          "rank": 54,
           "poster": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1999",
@@ -4476,6 +4459,24 @@
             "Aventura"
           ],
           "description": "Siga as aventuras de Monkey Luffy e seus amigos para encontrar o maior tesouro que o lendário pirata já deixou.",
+          "runtime": "24 min"
+        },
+        {
+          "id": "tt14986406",
+          "type": "series",
+          "name": "Bleach: Thousand-Year Blood War",
+          "rank": 55,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMjgyM2QzMjAtOGZjOS00OGFkLTkxZGYtMDJjZGM5MzIzYmM3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2022",
+          "year": "2022",
+          "imdbRating": "9",
+          "genres": [
+            "Animação",
+            "Ação",
+            "Aventura"
+          ],
+          "description": "A paz é repentinamente quebrada quando as sirenes de alerta soam através da Soul Society. Os moradores estão desaparecendo sem deixar rastro e ninguém sabe quem está por trás disso.",
           "runtime": "24 min"
         },
         {
@@ -5575,28 +5576,10 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt0062588",
-          "type": "series",
-          "name": "Mister Rogers' Neighborhood",
-          "rank": 119,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNGQ3ZWFkZDMtNjlmNC00NWNmLWJlYzctMDlkZDdiNDBiZTgxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1968-2001",
-          "year": "1968",
-          "imdbRating": "8.8",
-          "genres": [
-            "Família",
-            "Fantasia",
-            "Musical"
-          ],
-          "description": "Fred Rogers explora vários temas para o público jovem através de atuações e música, tanto no seu mundo como no bairro Make-Believe.",
-          "runtime": "30 min"
-        },
-        {
           "id": "tt0994314",
           "type": "series",
           "name": "Code Geass: Lelouch of the Rebellion",
-          "rank": 120,
+          "rank": 119,
           "poster": "https://m.media-amazon.com/images/M/MV5BNTk4MWYwNmUtODFjNC00NWJhLWExNGYtMGU4YmRlNzEwOTY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2006-2008",
@@ -5609,6 +5592,24 @@
           ],
           "description": "Depois de receber um poder misterioso para controlar os outros, um príncipe marginalizado se torna o líder mascarado da rebelião contra um império todo-poderoso.",
           "runtime": "24 min"
+        },
+        {
+          "id": "tt0062588",
+          "type": "series",
+          "name": "Mister Rogers' Neighborhood",
+          "rank": 120,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNGQ3ZWFkZDMtNjlmNC00NWNmLWJlYzctMDlkZDdiNDBiZTgxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1968-2001",
+          "year": "1968",
+          "imdbRating": "8.8",
+          "genres": [
+            "Família",
+            "Fantasia",
+            "Musical"
+          ],
+          "description": "Fred Rogers explora vários temas para o público jovem através de atuações e música, tanto no seu mundo como no bairro Make-Believe.",
+          "runtime": "30 min"
         },
         {
           "id": "tt0268093",
@@ -5904,26 +5905,10 @@
           "runtime": "22 min"
         },
         {
-          "id": "tt30263074",
-          "type": "series",
-          "name": "Sapne Vs Everyone",
-          "rank": 138,
-          "poster": "https://m.media-amazon.com/images/M/MV5BOTAyNzJkMDYtNGI4ZS00OGI4LTlkNTItZTQ5ZDVmYzAwN2JlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2023",
-          "year": "2023",
-          "imdbRating": "9.2",
-          "genres": [
-            "Drama"
-          ],
-          "description": "Dois sonhadores obsessivos colidem com a resistência das expectativas, da moralidade e um do outro.",
-          "runtime": "60 min"
-        },
-        {
           "id": "tt13991232",
           "type": "series",
           "name": "1883",
-          "rank": 139,
+          "rank": 138,
           "poster": "https://m.media-amazon.com/images/M/MV5BMDBjZDQyMWMtZmI0My00MzJlLWFhMTMtNWZmOTJkNzFlZTliXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2021-2022",
@@ -5934,6 +5919,22 @@
             "Faroeste"
           ],
           "description": "Segue a família Dutton numa viagem para oeste através das Grandes Planícies até ao último bastião da América indomada.",
+          "runtime": "60 min"
+        },
+        {
+          "id": "tt30263074",
+          "type": "series",
+          "name": "Sapne Vs Everyone",
+          "rank": 139,
+          "poster": "https://m.media-amazon.com/images/M/MV5BOTAyNzJkMDYtNGI4ZS00OGI4LTlkNTItZTQ5ZDVmYzAwN2JlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2023",
+          "year": "2023",
+          "imdbRating": "9.2",
+          "genres": [
+            "Drama"
+          ],
+          "description": "Dois sonhadores obsessivos colidem com a resistência das expectativas, da moralidade e um do outro.",
           "runtime": "60 min"
         },
         {
@@ -6079,27 +6080,10 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt0096657",
-          "type": "series",
-          "name": "Mr. Bean",
-          "rank": 148,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZmY2OGQ4MTAtYTRkMy00NmYxLThlZTktOGE1NTRmNDVlZmI4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1990-1995",
-          "year": "1990",
-          "imdbRating": "8.6",
-          "genres": [
-            "Comédia",
-            "Família"
-          ],
-          "description": "Mr. Bean, atrapalhado e infantil, tem dificuldade em concluir as tarefas mais simples da vida cotidiana, mas sua perseverança e desenvoltura frequentemente o permitem encontrar maneiras engenhosas de contornar os problemas.",
-          "runtime": "25 min"
-        },
-        {
           "id": "tt5290382",
           "type": "series",
           "name": "Mindhunter",
-          "rank": 149,
+          "rank": 148,
           "poster": "https://m.media-amazon.com/images/M/MV5BYTk4NDA4MGMtNjliOC00MjExLWI1YzctOTc4NWIxM2I1YjM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2017-2019",
@@ -6112,6 +6096,23 @@
           ],
           "description": "No final dos anos 70, dois agentes do FBI são encarregados de entrevistar assassinos em série para resolver casos abertos.",
           "runtime": "60 min"
+        },
+        {
+          "id": "tt0096657",
+          "type": "series",
+          "name": "Mr. Bean",
+          "rank": 149,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZmY2OGQ4MTAtYTRkMy00NmYxLThlZTktOGE1NTRmNDVlZmI4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1990-1995",
+          "year": "1990",
+          "imdbRating": "8.6",
+          "genres": [
+            "Comédia",
+            "Família"
+          ],
+          "description": "Mr. Bean, atrapalhado e infantil, tem dificuldade em concluir as tarefas mais simples da vida cotidiana, mas sua perseverança e desenvoltura frequentemente o permitem encontrar maneiras engenhosas de contornar os problemas.",
+          "runtime": "25 min"
         },
         {
           "id": "tt9140342",
@@ -6270,27 +6271,10 @@
           "runtime": "70 min"
         },
         {
-          "id": "tt0229889",
-          "type": "series",
-          "name": "Chaves",
-          "rank": 159,
-          "poster": "https://m.media-amazon.com/images/M/MV5BODBmMjFiMzItOGI3Zi00ZjkwLThlNTItMDcxYWVhM2UyOGY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1972-1983",
-          "year": "1972",
-          "imdbRating": "8.7",
-          "genres": [
-            "Comédia",
-            "Família"
-          ],
-          "description": "As desventuras de uma criança pobre, sem-abrigo e desajeitada e seus amigos no humilde bairro em que vivem.",
-          "runtime": "30 min"
-        },
-        {
           "id": "tt9253284",
           "type": "series",
           "name": "Andor",
-          "rank": 160,
+          "rank": 159,
           "poster": "https://m.media-amazon.com/images/M/MV5BZWM0MzlmYmQtMzYwZS00ZjM0LWJhN2EtMjg4Y2I2ZTRlNGE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2022-2025",
@@ -6303,6 +6287,23 @@
           ],
           "description": "Em uma era repleta de perigos, enganos e intriga, Cassian Andor embarca em uma jornada destinada a torná-lo um herói da Rebelião.",
           "runtime": "60 min"
+        },
+        {
+          "id": "tt0229889",
+          "type": "series",
+          "name": "Chaves",
+          "rank": 160,
+          "poster": "https://m.media-amazon.com/images/M/MV5BODBmMjFiMzItOGI3Zi00ZjkwLThlNTItMDcxYWVhM2UyOGY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1972-1983",
+          "year": "1972",
+          "imdbRating": "8.7",
+          "genres": [
+            "Comédia",
+            "Família"
+          ],
+          "description": "As desventuras de uma criança pobre, sem-abrigo e desajeitada e seus amigos no humilde bairro em que vivem.",
+          "runtime": "30 min"
         },
         {
           "id": "tt13111040",
@@ -6512,22 +6513,22 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt2063241",
+          "id": "tt0106028",
           "type": "series",
-          "name": "Omar",
+          "name": "Homicídio",
           "rank": 173,
-          "poster": "https://m.media-amazon.com/images/M/MV5BOWUxN2ZjZWYtYjViZC00ZmVlLTg4NDItNjY1OTAzODFkNDgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYmE0NjVhM2ItZTMzNi00M2QxLWEzZjctYzcxMTU2Y2QzMmEyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2012-2012",
-          "year": "2012",
-          "imdbRating": "9",
+          "releaseInfo": "1993-1999",
+          "year": "1993",
+          "imdbRating": "8.7",
           "genres": [
-            "Biografia",
+            "Policial",
             "Drama",
-            "História"
+            "Mistério"
           ],
-          "description": "A vida de Umar Ibn Al-Khattab, o segundo califa do califado de Rashidun, antes e após abraçar o Islã.",
-          "runtime": "45 min"
+          "description": "Uma unidade policial de investigação de homicídios investiga crimes violentos na cidade de Baltimore.",
+          "runtime": "60 min"
         },
         {
           "id": "tt5421602",
@@ -6547,22 +6548,22 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt0106028",
+          "id": "tt2063241",
           "type": "series",
-          "name": "Homicídio",
+          "name": "Omar",
           "rank": 175,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYmE0NjVhM2ItZTMzNi00M2QxLWEzZjctYzcxMTU2Y2QzMmEyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOWUxN2ZjZWYtYjViZC00ZmVlLTg4NDItNjY1OTAzODFkNDgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "1993-1999",
-          "year": "1993",
-          "imdbRating": "8.7",
+          "releaseInfo": "2012-2012",
+          "year": "2012",
+          "imdbRating": "9",
           "genres": [
-            "Policial",
+            "Biografia",
             "Drama",
-            "Mistério"
+            "História"
           ],
-          "description": "Uma unidade policial de investigação de homicídios investiga crimes violentos na cidade de Baltimore.",
-          "runtime": "60 min"
+          "description": "A vida de Umar Ibn Al-Khattab, o segundo califa do califado de Rashidun, antes e após abraçar o Islã.",
+          "runtime": "45 min"
         },
         {
           "id": "tt0979432",
@@ -6882,10 +6883,26 @@
           "runtime": "22 min"
         },
         {
+          "id": "tt0086831",
+          "type": "series",
+          "name": "Yes, Prime Minister",
+          "rank": 194,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZGM4MzJjYzAtNjE4Ni00MTkwLTljZTEtMzY1MWU0N2M1YThjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1986-1987",
+          "year": "1986",
+          "imdbRating": "8.6",
+          "genres": [
+            "Comédia"
+          ],
+          "description": "James Hacker foi impulsionado através dos corredores do poder até o auge da política: número 10.",
+          "runtime": "30 min"
+        },
+        {
           "id": "tt7908628",
           "type": "series",
           "name": "O Que Fazemos nas Sombras",
-          "rank": 194,
+          "rank": 195,
           "poster": "https://m.media-amazon.com/images/M/MV5BNDhiYTVlYjUtMDc4OC00NzBmLWE5YTYtNDBjZDc4MzM3YzNmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2019-2024",
@@ -6897,22 +6914,6 @@
             "Terror"
           ],
           "description": "Revisão nas vidas diárias de três vampiros que viveram juntos por mais de 100 anos, em Staten Island.",
-          "runtime": "30 min"
-        },
-        {
-          "id": "tt0086831",
-          "type": "series",
-          "name": "Yes, Prime Minister",
-          "rank": 195,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZGM4MzJjYzAtNjE4Ni00MTkwLTljZTEtMzY1MWU0N2M1YThjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1986-1987",
-          "year": "1986",
-          "imdbRating": "8.6",
-          "genres": [
-            "Comédia"
-          ],
-          "description": "James Hacker foi impulsionado através dos corredores do poder até o auge da política: número 10.",
           "runtime": "30 min"
         },
         {
@@ -6988,28 +6989,10 @@
           "runtime": "24 min"
         },
         {
-          "id": "tt6108262",
-          "type": "series",
-          "name": "Sol Negro",
-          "rank": 200,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYzMwMTY3NzktNGE0NC00MjJiLWIyNzMtNGY2MDU5ZTgyMDAyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2017-2026",
-          "year": "2017",
-          "imdbRating": "8.8",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Suspense"
-          ],
-          "description": "Um drama de ficção histórica e suspense que se passa no período turbulento do final da década de 1920 nos Bálcãs como um lugar onde alta política, interesses locais, capital e crime se fundem.",
-          "runtime": "60 min"
-        },
-        {
           "id": "tt6763664",
           "type": "series",
           "name": "A Maldição da Residência Hill",
-          "rank": 201,
+          "rank": 200,
           "poster": "https://m.media-amazon.com/images/M/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2018-2018",
@@ -7027,7 +7010,7 @@
           "id": "tt4082744",
           "type": "series",
           "name": "Detectoristas",
-          "rank": 202,
+          "rank": 201,
           "poster": "https://m.media-amazon.com/images/M/MV5BNGRjYzhmOTgtMDNlNy00YjJlLWI1MDAtMjAyMDRlMjE5OGNkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2014-2022",
@@ -7038,6 +7021,24 @@
           ],
           "description": "A vida de dois excêntricos detetores de metais, que passam seus dias caminhando por estradas aradas e campos abertos, na esperança de perturbar o tédio, desenterrando a fortuna de suas vidas.",
           "runtime": "30 min"
+        },
+        {
+          "id": "tt6108262",
+          "type": "series",
+          "name": "Sol Negro",
+          "rank": 202,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYzMwMTY3NzktNGE0NC00MjJiLWIyNzMtNGY2MDU5ZTgyMDAyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2017-2026",
+          "year": "2017",
+          "imdbRating": "8.8",
+          "genres": [
+            "Policial",
+            "Drama",
+            "Suspense"
+          ],
+          "description": "Um drama de ficção histórica e suspense que se passa no período turbulento do final da década de 1920 nos Bálcãs como um lugar onde alta política, interesses locais, capital e crime se fundem.",
+          "runtime": "60 min"
         },
         {
           "id": "tt13868972",
@@ -7352,26 +7353,10 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt10590066",
-          "type": "series",
-          "name": "Criaturas Grandes e Pequenas",
-          "rank": 221,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMWM0NzY2ZDEtNDJiMS00NDNiLWFkNzYtYmZjMzg4ZjcwMzJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2020",
-          "year": "2020",
-          "imdbRating": "8.6",
-          "genres": [
-            "Comédia",
-            "Drama"
-          ],
-          "description": "Relata as aventuras da equipe de uma veterinária rural em Yorkshire na década de 1930."
-        },
-        {
           "id": "tt4093826",
           "type": "series",
           "name": "Twin Peaks",
-          "rank": 222,
+          "rank": 221,
           "poster": "https://m.media-amazon.com/images/M/MV5BZGU5OTQ2YzctZmE4Zi00OWI0LWJmMDQtNDcxYjJmODBjN2U1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2017-2017",
@@ -7384,6 +7369,22 @@
           ],
           "description": "Conta a historia duma cidade venti e cinco anos depois do homicídio da reina duma festa.",
           "runtime": "60 min"
+        },
+        {
+          "id": "tt10590066",
+          "type": "series",
+          "name": "Criaturas Grandes e Pequenas",
+          "rank": 222,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMWM0NzY2ZDEtNDJiMS00NDNiLWFkNzYtYmZjMzg4ZjcwMzJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2020",
+          "year": "2020",
+          "imdbRating": "8.6",
+          "genres": [
+            "Comédia",
+            "Drama"
+          ],
+          "description": "Relata as aventuras da equipe de uma veterinária rural em Yorkshire na década de 1930."
         },
         {
           "id": "tt1124373",
@@ -7404,10 +7405,26 @@
           "runtime": "45 min"
         },
         {
+          "id": "tt0187664",
+          "type": "series",
+          "name": "Spaced",
+          "rank": 224,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNjcwN2JiOGUtNDJkNy00NjVmLWIyYzctZDU4YWFlNjRlZmJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1999-2001",
+          "year": "1999",
+          "imdbRating": "8.5",
+          "genres": [
+            "Comédia"
+          ],
+          "description": "Os amigos Tim e Daisy do norte de Londres e com um futuro incerto, devem fingir ser um casal para viver no único apartamento que podem pagar.",
+          "runtime": "25 min"
+        },
+        {
           "id": "tt36988358",
           "type": "series",
           "name": "Takopi's Original Sin",
-          "rank": 224,
+          "rank": 225,
           "poster": "https://m.media-amazon.com/images/M/MV5BYmRkN2I1OGEtOWM3Yi00NjViLWJjMDktYTNmZTMxYjBiNTU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2025-2025",
@@ -7420,22 +7437,6 @@
           ],
           "description": "O pequeno alienígena Takopi viaja até a Terra e aprende como as coisas podem ser diferentes do que em seu planeta.",
           "runtime": "30 min"
-        },
-        {
-          "id": "tt0187664",
-          "type": "series",
-          "name": "Spaced",
-          "rank": 225,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNjcwN2JiOGUtNDJkNy00NjVmLWIyYzctZDU4YWFlNjRlZmJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1999-2001",
-          "year": "1999",
-          "imdbRating": "8.5",
-          "genres": [
-            "Comédia"
-          ],
-          "description": "Os amigos Tim e Daisy do norte de Londres e com um futuro incerto, devem fingir ser um casal para viver no único apartamento que podem pagar.",
-          "runtime": "25 min"
         },
         {
           "id": "tt0163507",
@@ -7542,20 +7543,22 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt0075537",
+          "id": "tt3895150",
           "type": "series",
-          "name": "Mind Your Language",
+          "name": "Shigatsu wa kimi no uso",
           "rank": 232,
-          "poster": "https://m.media-amazon.com/images/M/MV5BODFhNDA4YjMtMjJkNy00MmVhLWFjM2ItNzY5NzI5YTlhM2Y3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZGMyYmFmNzgtMWQ4NS00MWE2LTg4YmEtZGY1MTBiODE0YmE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "1977-1986",
-          "year": "1977",
+          "releaseInfo": "2014-2015",
+          "year": "2014",
           "imdbRating": "8.6",
           "genres": [
-            "Comédia"
+            "Animação",
+            "Comédia",
+            "Drama"
           ],
-          "description": "Jeremy Brown é um professor de línguas que tenta ganhar a vida ensinando inglês para imigrantes. Com estudantes da Índia, França, China e muitos outros países, suas lições nem sempre acontecem conforme o planejado.",
-          "runtime": "30 min"
+          "description": "Um prodígio infantil que perdeu a capacidade de brincar após sofrer um evento traumático na infância é forçado a voltar ao centro das atenções por uma garota excêntrica com um segredo próprio.",
+          "runtime": "23 min"
         },
         {
           "id": "tt1492966",
@@ -7575,28 +7578,10 @@
           "runtime": "22 min"
         },
         {
-          "id": "tt3895150",
-          "type": "series",
-          "name": "Shigatsu wa kimi no uso",
-          "rank": 234,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZGMyYmFmNzgtMWQ4NS00MWE2LTg4YmEtZGY1MTBiODE0YmE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2014-2015",
-          "year": "2014",
-          "imdbRating": "8.6",
-          "genres": [
-            "Animação",
-            "Comédia",
-            "Drama"
-          ],
-          "description": "Um prodígio infantil que perdeu a capacidade de brincar após sofrer um evento traumático na infância é forçado a voltar ao centro das atenções por uma garota excêntrica com um segredo próprio.",
-          "runtime": "23 min"
-        },
-        {
           "id": "tt1513168",
           "type": "series",
           "name": "Através do Buraco de Minhoca",
-          "rank": 235,
+          "rank": 234,
           "poster": "https://m.media-amazon.com/images/M/MV5BMGQyNDAzNGItZWM5MC00ZDAxLTg1YjItYzhkZmU5NGQzMWEzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2010-2017",
@@ -7609,10 +7594,43 @@
           "runtime": "60 min"
         },
         {
+          "id": "tt0075537",
+          "type": "series",
+          "name": "Mind Your Language",
+          "rank": 235,
+          "poster": "https://m.media-amazon.com/images/M/MV5BODFhNDA4YjMtMjJkNy00MmVhLWFjM2ItNzY5NzI5YTlhM2Y3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1977-1986",
+          "year": "1977",
+          "imdbRating": "8.6",
+          "genres": [
+            "Comédia"
+          ],
+          "description": "Jeremy Brown é um professor de línguas que tenta ganhar a vida ensinando inglês para imigrantes. Com estudantes da Índia, França, China e muitos outros países, suas lições nem sempre acontecem conforme o planejado.",
+          "runtime": "30 min"
+        },
+        {
+          "id": "tt0290988",
+          "type": "series",
+          "name": "Trailer Park Boys",
+          "rank": 236,
+          "poster": "https://m.media-amazon.com/images/M/MV5BOTA0NTAwMTc1MF5BMl5BanBnXkFtZTgwODk2NjY0ODE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2001-2026",
+          "year": "2001",
+          "imdbRating": "8.5",
+          "genres": [
+            "Comédia",
+            "Policial"
+          ],
+          "description": "Três pequenos bandidos faz um documental da sua vida num parque de caravanas.",
+          "runtime": "30 min"
+        },
+        {
           "id": "tt27446493",
           "type": "series",
           "name": "Melancia Cintilante",
-          "rank": 236,
+          "rank": 237,
           "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2023-2023",
@@ -7625,23 +7643,6 @@
           ],
           "description": "\"Sparkling Watermelon\" contará a história de um garoto que vive uma vida dupla entre um estudante modelo e um membro da banda que, ao passar do tempo, conhece seu pai de 18 anos.",
           "runtime": "70 min"
-        },
-        {
-          "id": "tt0290988",
-          "type": "series",
-          "name": "Trailer Park Boys",
-          "rank": 237,
-          "poster": "https://m.media-amazon.com/images/M/MV5BOTA0NTAwMTc1MF5BMl5BanBnXkFtZTgwODk2NjY0ODE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2001-2026",
-          "year": "2001",
-          "imdbRating": "8.5",
-          "genres": [
-            "Comédia",
-            "Policial"
-          ],
-          "description": "Três pequenos bandidos faz um documental da sua vida num parque de caravanas.",
-          "runtime": "30 min"
         },
         {
           "id": "tt3526078",
@@ -7728,22 +7729,21 @@
           "runtime": "12 min"
         },
         {
-          "id": "tt2244495",
+          "id": "tt5851616",
           "type": "series",
-          "name": "The Eric Andre Show",
+          "name": "Tash Ma Tash",
           "rank": 243,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZGY0OGMzYjItNjhkMy00NjZjLThlZTEtMTdlYWU0NzliZWNkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYzMzMWMyMzQtNDk2OS00ZTY5LTkwNDctMGFhYmRiNGFlYzMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2012",
-          "year": "2012",
-          "imdbRating": "8.5",
+          "releaseInfo": "1993-2023",
+          "year": "1993",
+          "imdbRating": "9",
           "genres": [
             "Comédia",
-            "Reality show",
-            "Talk show"
+            "Drama"
           ],
-          "description": "Eric Andre tenta organizar um talk show em um ambiente estranho, onde às vezes faz piadas, e às vezes é a vítima.",
-          "runtime": "11 min"
+          "description": "Follows two guys and their adventures in Kingdom Of Saudi Arabia.",
+          "runtime": "25 min"
         },
         {
           "id": "tt1877368",
@@ -7763,45 +7763,28 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt5851616",
+          "id": "tt2244495",
           "type": "series",
-          "name": "Tash Ma Tash",
+          "name": "The Eric Andre Show",
           "rank": 245,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYzMzMWMyMzQtNDk2OS00ZTY5LTkwNDctMGFhYmRiNGFlYzMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZGY0OGMzYjItNjhkMy00NjZjLThlZTEtMTdlYWU0NzliZWNkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "1993-2023",
-          "year": "1993",
-          "imdbRating": "9",
+          "releaseInfo": "2012",
+          "year": "2012",
+          "imdbRating": "8.5",
           "genres": [
             "Comédia",
-            "Drama"
+            "Reality show",
+            "Talk show"
           ],
-          "description": "Follows two guys and their adventures in Kingdom Of Saudi Arabia.",
-          "runtime": "25 min"
-        },
-        {
-          "id": "tt3212600",
-          "type": "series",
-          "name": "Mahabharat",
-          "rank": 246,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYzM1MmNhMGQtNDliNy00ZDIwLTg1MDQtN2NjZjUyNTg2MGMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2013-2014",
-          "year": "2013",
-          "imdbRating": "8.7",
-          "genres": [
-            "Drama",
-            "História",
-            "Guerra"
-          ],
-          "description": "A mãe de todas as guerras e rivalidades, caldeirão de emoções e inseguranças - Mahabharat. Uma lição magistral para a humanidade.",
-          "runtime": "20 min"
+          "description": "Eric Andre tenta organizar um talk show em um ambiente estranho, onde às vezes faz piadas, e às vezes é a vítima.",
+          "runtime": "11 min"
         },
         {
           "id": "tt0310455",
           "type": "series",
           "name": "Foyle's War",
-          "rank": 247,
+          "rank": 246,
           "poster": "https://m.media-amazon.com/images/M/MV5BNjExMDJlZWUtNzQxMS00ZGI4LTg1N2QtMmU3NTkyN2Q4NzYyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2002-2015",
@@ -7814,6 +7797,24 @@
           ],
           "description": "À medida que a Segunda Guerra Mundial avança, Foyle faz sua própria guerra na frente interna; investigando um crime na costa sul da Inglaterra.",
           "runtime": "90 min"
+        },
+        {
+          "id": "tt0373732",
+          "type": "series",
+          "name": "The Boondocks",
+          "rank": 247,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYjFjZTAxZTItYjhjZS00MzNkLTk0NDYtYWMxYTQxNTE3YTQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2005-2014",
+          "year": "2005",
+          "imdbRating": "8.5",
+          "genres": [
+            "Animação",
+            "Ação",
+            "Comédia"
+          ],
+          "description": "Aventuras de dois meninos, Riley e Huey Freeman, que sofrem um choque cultural quando se mudam de Chicago para os subúrbios para viver com seu avô.",
+          "runtime": "22 min"
         },
         {
           "id": "tt3230854",
@@ -7834,22 +7835,22 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt0373732",
+          "id": "tt3212600",
           "type": "series",
-          "name": "The Boondocks",
+          "name": "Mahabharat",
           "rank": 249,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYjFjZTAxZTItYjhjZS00MzNkLTk0NDYtYWMxYTQxNTE3YTQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYzM1MmNhMGQtNDliNy00ZDIwLTg1MDQtN2NjZjUyNTg2MGMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2005-2014",
-          "year": "2005",
-          "imdbRating": "8.5",
+          "releaseInfo": "2013-2014",
+          "year": "2013",
+          "imdbRating": "8.7",
           "genres": [
-            "Animação",
-            "Ação",
-            "Comédia"
+            "Drama",
+            "História",
+            "Guerra"
           ],
-          "description": "Aventuras de dois meninos, Riley e Huey Freeman, que sofrem um choque cultural quando se mudam de Chicago para os subúrbios para viver com seu avô.",
-          "runtime": "22 min"
+          "description": "A mãe de todas as guerras e rivalidades, caldeirão de emoções e inseguranças - Mahabharat. Uma lição magistral para a humanidade.",
+          "runtime": "20 min"
         },
         {
           "id": "tt2575988",
@@ -7868,7 +7869,7 @@
           "runtime": "30 min"
         }
       ],
-      "updatedAt": "2026-09-01T11:46:39.590Z",
+      "updatedAt": "2026-09-04T11:32:47.111Z",
       "source": "https://www.imdb.com/pt/chart/toptv/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -8881,10 +8882,27 @@
           "runtime": "147 min"
         },
         {
+          "id": "tt0209144",
+          "type": "movie",
+          "name": "Amnésia",
+          "rank": 58,
+          "poster": "https://m.media-amazon.com/images/M/MV5BOThkN2IwYWQtN2IzYS00NDdjLTkwN2UtYmY4NGU1NTJjNzUwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2000",
+          "year": "2000",
+          "imdbRating": "8.4",
+          "genres": [
+            "Mistério",
+            "Suspense"
+          ],
+          "description": "Um homem com perda da memória de curto prazo tenta investigar o homicídio da sua esposa.",
+          "runtime": "113 min"
+        },
+        {
           "id": "tt33764258",
           "type": "movie",
           "name": "A Odisseia",
-          "rank": 58,
+          "rank": 59,
           "poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2026",
@@ -8897,23 +8915,6 @@
           ],
           "description": "Após a Guerra de Troia, o herói grego Odisseu retorna a Ítaca, na Grécia, enfrentando figuras da mitologia grega como o Ciclope Polifemo, as Sereias e Calipso.",
           "runtime": "172 min"
-        },
-        {
-          "id": "tt0209144",
-          "type": "movie",
-          "name": "Amnésia",
-          "rank": 59,
-          "poster": "https://m.media-amazon.com/images/M/MV5BOThkN2IwYWQtN2IzYS00NDdjLTkwN2UtYmY4NGU1NTJjNzUwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2000",
-          "year": "2000",
-          "imdbRating": "8.4",
-          "genres": [
-            "Mistério",
-            "Suspense"
-          ],
-          "description": "Um homem com perda da memória de curto prazo tenta investigar o homicídio da sua esposa.",
-          "runtime": "113 min"
         },
         {
           "id": "tt4154756",
@@ -9147,7 +9148,7 @@
           "type": "movie",
           "name": "Céu e Inferno",
           "rank": 73,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMGJiNzllYjktODAzNS00OGUzLTlmY2MtMjA2ZTZhYTY1OTc4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOTFmOTNjYjUtMDA2MC00ZTJiLThiYzktNDdjNzQwMjNkN2NmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1963",
           "year": "1963",
@@ -9546,7 +9547,7 @@
           "type": "movie",
           "name": "Viver",
           "rank": 96,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMmZiNzExNmUtODU5YS00MDE1LWI0YTItMzVmNjM1ZTQ5NGVhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMmNlZTk4ZjQtY2I5NS00NmNiLTlkNmUtYTc3YmE0ZTk3OGNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1952",
           "year": "1952",
@@ -10095,27 +10096,10 @@
           "runtime": "103 min"
         },
         {
-          "id": "tt0058625",
-          "type": "movie",
-          "name": "A Mulher da Areia",
-          "rank": 128,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNTM1YTU5MmItZDEzZC00NmJhLWJlNWQtZmI1YjA2MWQ5ZDlhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1964",
-          "year": "1964",
-          "imdbRating": "8.4",
-          "genres": [
-            "Drama",
-            "Suspense"
-          ],
-          "description": "Um entomologista de férias é forçado pelos moradores locais de uma vila a viver com uma mulher cuja função na vida é escavar areia para eles.",
-          "runtime": "147 min"
-        },
-        {
           "id": "tt0363163",
           "type": "movie",
           "name": "A Queda! As Últimas Horas de Hitler",
-          "rank": 129,
+          "rank": 128,
           "poster": "https://m.media-amazon.com/images/M/MV5BYzA4YWU5OWUtY2VhNS00NTg2LThiNzEtZTJmMWVmNDBjOTBmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2004",
@@ -10133,7 +10117,7 @@
           "id": "tt1130884",
           "type": "movie",
           "name": "Ilha do Medo",
-          "rank": 130,
+          "rank": 129,
           "poster": "https://m.media-amazon.com/images/M/MV5BNDE4NDk1ODItMWVkNi00YTA0LWIzNDEtYzdjYjA2MGE3MzllXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2010",
@@ -10145,6 +10129,23 @@
           ],
           "description": "Em 1954, um policial federal dos Estados Unidos investiga o desaparecimento de um assassino que escapou de um hospital psiquiátrico.",
           "runtime": "138 min"
+        },
+        {
+          "id": "tt0058625",
+          "type": "movie",
+          "name": "A Mulher da Areia",
+          "rank": 130,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNTM1YTU5MmItZDEzZC00NmJhLWJlNWQtZmI1YjA2MWQ5ZDlhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1964",
+          "year": "1964",
+          "imdbRating": "8.4",
+          "genres": [
+            "Drama",
+            "Suspense"
+          ],
+          "description": "Um entomologista de férias é forçado pelos moradores locais de uma vila a viver com uma mulher cuja função na vida é escavar areia para eles.",
+          "runtime": "147 min"
         },
         {
           "id": "tt0119488",
@@ -10730,7 +10731,7 @@
           "type": "movie",
           "name": "Yojimbo, o Guarda-Costas",
           "rank": 164,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYTcyMjA2NTktZGEyZC00ZDY0LWJkNmQtMzI5ZTQzNWQxMmZlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYzFkODA1N2QtY2UyMC00NTMwLWEyNzctMmE3YjIzNzE1MzY4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1961",
           "year": "1961",
@@ -10991,28 +10992,10 @@
           "runtime": "93 min"
         },
         {
-          "id": "tt5027774",
-          "type": "movie",
-          "name": "Três Anúncios para um Crime",
-          "rank": 179,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZjgzZjM2ZTAtODVkMC00MTA5LWEwNmYtZGU3YmJhODdiNzliXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2017",
-          "year": "2017",
-          "imdbRating": "8.1",
-          "genres": [
-            "Comédia",
-            "Policial",
-            "Drama"
-          ],
-          "description": "Uma mãe desafia pessoalmente as autoridades locais para resolver o assassinato de sua filha.",
-          "runtime": "115 min"
-        },
-        {
           "id": "tt1201607",
           "type": "movie",
           "name": "Harry Potter e as Relíquias da Morte: Parte 2",
-          "rank": 180,
+          "rank": 179,
           "poster": "https://m.media-amazon.com/images/M/MV5BZmVjYTdjYTgtNzNjZC00ZDg1LTkzNDEtOTUwOTYzNTViNTA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2011",
@@ -11025,6 +11008,24 @@
           ],
           "description": "Conforme a batalha entre as forças do bem e do mal no mundo bruxo aumenta de proporções, Harry Potter se aproxima cada vez mais do confronto final com Voldemort.",
           "runtime": "130 min"
+        },
+        {
+          "id": "tt5027774",
+          "type": "movie",
+          "name": "Três Anúncios para um Crime",
+          "rank": 180,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZjgzZjM2ZTAtODVkMC00MTA5LWEwNmYtZGU3YmJhODdiNzliXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2017",
+          "year": "2017",
+          "imdbRating": "8.1",
+          "genres": [
+            "Comédia",
+            "Policial",
+            "Drama"
+          ],
+          "description": "Uma mãe desafia pessoalmente as autoridades locais para resolver o assassinato de sua filha.",
+          "runtime": "115 min"
         },
         {
           "id": "tt0050212",
@@ -11049,7 +11050,7 @@
           "type": "movie",
           "name": "Rashomon",
           "rank": 182,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZDlkYjViMDAtYjkxNy00ZDk1LWE5MmUtNDc4NDU3ZWJmOTYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOGIyMjk2MmEtZDZlMy00NDE1LWIyODAtZGFjNGJlYTM2Njc1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1950",
           "year": "1950",
@@ -11382,28 +11383,10 @@
           "runtime": "101 min"
         },
         {
-          "id": "tt0083658",
-          "type": "movie",
-          "name": "Blade Runner: O Caçador de Andróides",
-          "rank": 201,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMWMwZjZjZjctMjI1ZC00MTRlLWE1MzktMDZjZDI1MjU2OTQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1982",
-          "year": "1982",
-          "imdbRating": "8.1",
-          "genres": [
-            "Ação",
-            "Drama",
-            "Ficção científica"
-          ],
-          "description": "Um blade runner deve perseguir e eliminar quatro replicantes que roubaram uma nave no espaço e retornaram à Terra para encontrar seu criador.",
-          "runtime": "117 min"
-        },
-        {
           "id": "tt0198781",
           "type": "movie",
           "name": "Monstros S.A.",
-          "rank": 202,
+          "rank": 201,
           "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2001",
@@ -11416,6 +11399,24 @@
           ],
           "description": "Para poder dar electricidade a sua cidade, os monstros tem que assustar a crianças. Pensando que as crianças são perigosas para eles, dois monstros acham que as coisas podem ser diferentes.",
           "runtime": "92 min"
+        },
+        {
+          "id": "tt0083658",
+          "type": "movie",
+          "name": "Blade Runner: O Caçador de Andróides",
+          "rank": 202,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMWMwZjZjZjctMjI1ZC00MTRlLWE1MzktMDZjZDI1MjU2OTQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1982",
+          "year": "1982",
+          "imdbRating": "8.1",
+          "genres": [
+            "Ação",
+            "Drama",
+            "Ficção científica"
+          ],
+          "description": "Um blade runner deve perseguir e eliminar quatro replicantes que roubaram uma nave no espaço e retornaram à Terra para encontrar seu criador.",
+          "runtime": "117 min"
         },
         {
           "id": "tt2267998",
@@ -11508,28 +11509,10 @@
           "runtime": "148 min"
         },
         {
-          "id": "tt3011894",
-          "type": "movie",
-          "name": "Relatos Selvagens",
-          "rank": 208,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZmI2Y2RmNTMtYzFjZS00NmNhLTg1NDMtNDZjMWRhYWE1MTNlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2014",
-          "year": "2014",
-          "imdbRating": "8.1",
-          "genres": [
-            "Comédia",
-            "Drama",
-            "Suspense"
-          ],
-          "description": "Sies historias curtas que exploram o comportamento humano de pessoas desesperadas.",
-          "runtime": "122 min"
-        },
-        {
           "id": "tt30472557",
           "type": "movie",
           "name": "Chainsaw Man - O Filme: Arco da Reze",
-          "rank": 209,
+          "rank": 208,
           "poster": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2025",
@@ -11542,6 +11525,24 @@
           ],
           "description": "Denji encontra um novo interesse romântico, Reze.",
           "runtime": "100 min"
+        },
+        {
+          "id": "tt3011894",
+          "type": "movie",
+          "name": "Relatos Selvagens",
+          "rank": 209,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZmI2Y2RmNTMtYzFjZS00NmNhLTg1NDMtNDZjMWRhYWE1MTNlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2014",
+          "year": "2014",
+          "imdbRating": "8.1",
+          "genres": [
+            "Comédia",
+            "Drama",
+            "Suspense"
+          ],
+          "description": "Sies historias curtas que exploram o comportamento humano de pessoas desesperadas.",
+          "runtime": "122 min"
         },
         {
           "id": "tt0015864",
@@ -11789,10 +11790,27 @@
           "runtime": "129 min"
         },
         {
+          "id": "tt15097216",
+          "type": "movie",
+          "name": "Jai Bhim",
+          "rank": 224,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZjEyNDIzNmEtMjdkYS00ZDAwLTljOWYtNDRhYTVhYTlmOTk1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2021",
+          "year": "2021",
+          "imdbRating": "8.6",
+          "genres": [
+            "Policial",
+            "Drama"
+          ],
+          "description": "Quando um homem tribal é preso por um caso de suposto roubo, sua esposa recorre a um advogado de direitos humanos para ajudá-lo a fazer justiça.",
+          "runtime": "164 min"
+        },
+        {
           "id": "tt26548265",
           "type": "movie",
           "name": "O Mistério da Lixeira",
-          "rank": 224,
+          "rank": 225,
           "poster": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2024",
@@ -11805,23 +11823,6 @@
           ],
           "description": "Um barbeiro busca vingança depois que sua casa é assaltada, dizendo enigmaticamente à polícia que sua \"lakshmi\" foi levada, deixando-os incertos se é uma pessoa ou um objeto. Sua busca para recuperar a elusiva \"lakshmi\" se desenrola.",
           "runtime": "141 min"
-        },
-        {
-          "id": "tt15097216",
-          "type": "movie",
-          "name": "Jai Bhim",
-          "rank": 225,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZjEyNDIzNmEtMjdkYS00ZDAwLTljOWYtNDRhYTVhYTlmOTk1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2021",
-          "year": "2021",
-          "imdbRating": "8.6",
-          "genres": [
-            "Policial",
-            "Drama"
-          ],
-          "description": "Quando um homem tribal é preso por um caso de suposto roubo, sua esposa recorre a um advogado de direitos humanos para ajudá-lo a fazer justiça.",
-          "runtime": "164 min"
         },
         {
           "id": "tt0059742",
@@ -12259,7 +12260,7 @@
           "runtime": "145 min"
         }
       ],
-      "updatedAt": "2026-09-01T11:46:49.478Z",
+      "updatedAt": "2026-09-04T11:32:56.744Z",
       "source": "https://www.imdb.com/pt/chart/top/?ref_=hm_nv_menu",
       "strategy": 1
     }
