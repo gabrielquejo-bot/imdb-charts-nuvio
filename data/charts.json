@@ -8,20 +8,11 @@
         {
           "id": "tt13210838",
           "type": "series",
-          "name": "Magnatas do Crime",
+          "name": "The Gentlemen",
           "rank": 1,
           "poster": "https://m.media-amazon.com/images/M/MV5BZjdkYWRiN2ItN2EwYS00Yjk4LTlkMTctNzVhOTYxM2Q5OTE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2024",
-          "year": "2024",
-          "imdbRating": "8",
-          "genres": [
-            "Ação",
-            "Comédia",
-            "Policial"
-          ],
-          "description": "Eddie Horniman herda a grande propriedade de seu pai, um aristocrata inglês, e se torna o novo duque de Halstead, apenas para descobrir que ele está na maior fazenda de ervas da Europa, de propriedade do lendário Mickey Pearson.",
-          "runtime": "50 min"
+          "imdbRating": "8"
         },
         {
           "id": "tt14688458",
@@ -30,34 +21,16 @@
           "rank": 2,
           "poster": "https://m.media-amazon.com/images/M/MV5BYWM0NmU3ODMtMTIzMS00MTc2LTg3YzItODhjYWUyZmVmNzdkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2023",
-          "year": "2023",
-          "imdbRating": "8.1",
-          "genres": [
-            "Aventura",
-            "Drama",
-            "Mistério"
-          ],
-          "description": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
-          "runtime": "49 min"
+          "imdbRating": "8.1"
         },
         {
           "id": "tt26545992",
           "type": "series",
-          "name": "Lanternas",
+          "name": "Lanterns",
           "rank": 3,
           "poster": "https://m.media-amazon.com/images/M/MV5BZGZlZDA5MGItMTBhNi00ZTkyLWIxNmYtN2FiM2Y0NmU0ZDJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "7.8",
-          "genres": [
-            "Ação",
-            "Policial",
-            "Mistério"
-          ],
-          "description": "Acompanha os policiais intergalácticos John Stewart e Hal Jordan na descoberta de um mistério sombrio.",
-          "runtime": "60 min"
+          "imdbRating": "7.8"
         },
         {
           "id": "tt9288030",
@@ -66,33 +39,16 @@
           "rank": 4,
           "poster": "https://m.media-amazon.com/images/M/MV5BMmE0YTA3MTItMjhiNC00MGQ3LTllZDktNGNiZWY1OWFmNmM1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2022",
-          "year": "2022",
-          "imdbRating": "8",
-          "genres": [
-            "Ação",
-            "Policial",
-            "Drama"
-          ],
-          "description": "Jack Reacher foi preso por assassinato e agora a polícia precisa de sua ajuda. Baseado nos livros de Lee Child.",
-          "runtime": "50 min"
+          "imdbRating": "8"
         },
         {
           "id": "tt36303968",
           "type": "series",
-          "name": "Fúria",
+          "name": "Furious",
           "rank": 5,
           "poster": "https://m.media-amazon.com/images/M/MV5BYzI4NDEzNjktMTI1Ni00ZjIyLWExNmQtZTZlMDhiOGE4ZTBjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "7.9",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Suspense"
-          ],
-          "description": "A agente do FBI Alice Black caça uma serial killer misteriosa e calculista. Conforme suas vidas se entrelaçam, a fronteira entre o certo e o errado começa a se desvanecer nesta intensa perseguição pela justiça."
+          "imdbRating": "7.9"
         },
         {
           "id": "tt10986410",
@@ -101,84 +57,42 @@
           "rank": 6,
           "poster": "https://m.media-amazon.com/images/M/MV5BM2ZlYTU0YWUtMzY4OC00N2JkLTk1ZGQtN2UxNWJhMTBkMzM4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2020",
-          "year": "2020",
-          "imdbRating": "8.7",
-          "genres": [
-            "Comédia",
-            "Drama",
-            "Esportes"
-          ],
-          "description": "Segue o treinador americano de futebol Ted Lasso, que chega ao Reino Unido para liderar um time da primeira divisão ao topo do futebol britânico.",
-          "runtime": "30 min"
+          "imdbRating": "8.7"
         },
         {
           "id": "tt14986406",
           "type": "series",
-          "name": "Bleach: Thousand-Year Blood War",
+          "name": "Bleach: Sennen Kessen-hen",
           "rank": 7,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjgyM2QzMjAtOGZjOS00OGFkLTkxZGYtMDJjZGM5MzIzYmM3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2022",
-          "year": "2022",
-          "imdbRating": "9",
-          "genres": [
-            "Animação",
-            "Ação",
-            "Aventura"
-          ],
-          "description": "A paz é repentinamente quebrada quando as sirenes de alerta soam através da Soul Society. Os moradores estão desaparecendo sem deixar rastro e ninguém sabe quem está por trás disso.",
-          "runtime": "24 min"
+          "imdbRating": "9"
         },
         {
           "id": "tt21097264",
           "type": "series",
-          "name": "A Leste do Éden",
+          "name": "East of Eden",
           "rank": 8,
           "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZjRkNDEtMWViZC00YmM2LTljNTMtY2U4MzE3MDY0YmMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2026-2026",
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "description": "Nas fazendas de Salinas Valley na Califórnia, gerações sucessivas de duas famílias, os Trasks e os Hamiltons, estão destinados a reencenar a história fatídica de Cain e Abel."
+          "posterShape": "poster"
         },
         {
           "id": "tt13111078",
           "type": "series",
-          "name": "Operação Lioness",
+          "name": "Lioness",
           "rank": 9,
           "poster": "https://m.media-amazon.com/images/M/MV5BN2M0ODI5MjEtODdkYi00ODAxLWFiNTUtZjFmYzE4Zjc1ODc2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2023",
-          "year": "2023",
-          "imdbRating": "7.8",
-          "genres": [
-            "Ação",
-            "Drama",
-            "Suspense"
-          ],
-          "description": "Joe tenta equilibrar sua vida pessoal e profissional como a ponta da lança na guerra da CIA contra o terror. Ela alista Cruz, uma Marine Raider, como uma agente infiltrada no Programa Lioness.",
-          "runtime": "42 min"
+          "imdbRating": "7.8"
         },
         {
           "id": "tt1196946",
           "type": "series",
-          "name": "O Mentalista",
+          "name": "The Mentalist",
           "rank": 10,
           "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5OTgzOTczM15BMl5BanBnXkFtZTcwMDM2OTY4MQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2008-2015",
-          "year": "2008",
-          "imdbRating": "8.2",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Mistério"
-          ],
-          "description": "Um famoso \"psíquico\" finge ser falso, e começa a trabalhar como consultor do Escritório de pesquisa em California para encontrar \"Red John\", o louco que matou sua esposa e filha.",
-          "runtime": "43 min"
+          "imdbRating": "8.2"
         },
         {
           "id": "tt0944947",
@@ -187,15 +101,7 @@
           "rank": 11,
           "poster": "https://m.media-amazon.com/images/M/MV5BNGYxOGJkMjItZjVkZC00OGEzLWExNjktOTZmNGZhZmRlMTk2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2011-2019",
-          "year": "2011",
-          "imdbRating": "9.2",
-          "genres": [
-            "Drama",
-            "Fantasia"
-          ],
-          "description": "Nove famílias nobres lutam pelo controle sobre as terras míticas de Westeros, enquanto um antigo inimigo retorna depois de estar adormecido por milhares de anos.",
-          "runtime": "60 min"
+          "imdbRating": "9.2"
         },
         {
           "id": "tt13918446",
@@ -203,65 +109,34 @@
           "name": "Harry Potter",
           "rank": 12,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjAxY2M0NzAtZDZmZS00OTMxLWExODEtZTBlYmZkZjNiNzQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "genres": [
-            "Aventura",
-            "Drama",
-            "Família"
-          ],
-          "description": "Um menino órfão, maltratado por seus parentes, descobre que é um mago. Ele recebe uma carta para frequentar a Escola de Hogwarts, onde encontra amizade, magia e aventura — finalmente descobrindo a casa e o amor que ele sempre quis ter."
+          "posterShape": "poster"
         },
         {
           "id": "tt19231492",
           "type": "series",
-          "name": "Matéria Escura",
+          "name": "Dark Matter",
           "rank": 13,
           "poster": "https://m.media-amazon.com/images/M/MV5BNGY5NjJkNzEtMzJiNi00OTY1LWExZWEtNTU1YzNjYmQ2MGJjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2024",
-          "year": "2024",
-          "imdbRating": "7.6",
-          "genres": [
-            "Drama",
-            "Ficção científica",
-            "Suspense"
-          ],
-          "description": "Jason Dessen, pai de família, é sequestrado em outro mundo onde sua vida não é sua vida. Sua jornada para voltar para casa o leva a mundos que ele nunca poderia ter imaginado."
+          "imdbRating": "7.6"
         },
         {
           "id": "tt31449991",
           "type": "series",
-          "name": "Chad Powers: O Quarterback",
+          "name": "Chad Powers",
           "rank": 14,
           "poster": "https://m.media-amazon.com/images/M/MV5BZmFhYTRlZjMtYjAwZS00ZGY1LWI3ODYtYmQ2MTE5NjU2Y2E2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2025",
-          "year": "2025",
-          "imdbRating": "7.5",
-          "genres": [
-            "Comédia",
-            "Esportes"
-          ],
-          "description": "Russ Holliday, um quarterback universitário em desgraça, disfarça-se de Chad Powers e entra para um time de futebol americano do sul em dificuldades para reviver sua carreira no futebol.",
-          "runtime": "35 min"
+          "imdbRating": "7.5"
         },
         {
           "id": "tt33049767",
           "type": "series",
-          "name": "Adultos",
+          "name": "Adults",
           "rank": 15,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjU0ZDQ4MzYtNTgwZS00MzhhLWFmODAtNzMyYWU2MmE4MDRkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2025",
-          "year": "2025",
-          "imdbRating": "7.6",
-          "genres": [
-            "Comédia"
-          ],
-          "description": "Uma comédia coral de vinte e poucos anos centrada em colegas de casa co-dependentes que vivem juntos na idade adulta, apesar de suas falhas.",
-          "runtime": "22 min"
+          "imdbRating": "7.6"
         },
         {
           "id": "tt12327578",
@@ -270,34 +145,16 @@
           "rank": 16,
           "poster": "https://m.media-amazon.com/images/M/MV5BOWY1Y2ZlNzctMzIwMi00NTM3LWJiNDUtMTZmYWY0Y2NmZmE2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2022-2027",
-          "year": "2022",
-          "imdbRating": "8.2",
-          "genres": [
-            "Ação",
-            "Aventura",
-            "Ficção científica"
-          ],
-          "description": "Segue a tripulação da USS Enterprise sob o comando do Capitão Christopher Pike.",
-          "runtime": "52 min"
+          "imdbRating": "8.2"
         },
         {
           "id": "tt11198330",
           "type": "series",
-          "name": "A Casa do Dragão",
+          "name": "House of the Dragon",
           "rank": 17,
           "poster": "https://m.media-amazon.com/images/M/MV5BNGEyNTNkNTItOGVlNy00OGZhLWIwOTItNGE1MjllZGVmMzU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2022",
-          "year": "2022",
-          "imdbRating": "8.3",
-          "genres": [
-            "Ação",
-            "Aventura",
-            "Drama"
-          ],
-          "description": "A história da House Targaryen se passa 200 anos antes dos eventos de 'Game of Thrones'.",
-          "runtime": "60 min"
+          "imdbRating": "8.3"
         },
         {
           "id": "tt0903747",
@@ -306,51 +163,25 @@
           "rank": 18,
           "poster": "https://m.media-amazon.com/images/M/MV5BOWE4NTc3YmYtNmU2Mi00ZjhkLWE1MTItZmM1M2U1ODU3YjFlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2008-2013",
-          "year": "2008",
-          "imdbRating": "9.5",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Suspense"
-          ],
-          "description": "Um professor de química diagnosticado com câncer de pulmão se transforma em fabricante e vendedor de metanfetamina, a fim de garantir o futuro da sua família.",
-          "runtime": "48 min"
+          "imdbRating": "9.5"
         },
         {
           "id": "tt27543562",
           "type": "series",
-          "name": "Estilhaços",
+          "name": "The Shards",
           "rank": 19,
           "poster": "https://m.media-amazon.com/images/M/MV5BZDgwMTAzZDUtY2VmNC00MGM2LThiNmQtZDU5N2JlZDQ4ODY0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "6",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Terror"
-          ],
-          "description": "The Shards é um thriller erótico que explora a era indomável e misteriosa de Los Angeles em 1981, acompanhando um grupo de amigos privilegiados do ensino médio enquanto um assassino em série ataca a cidade."
+          "imdbRating": "6.1"
         },
         {
           "id": "tt5607616",
           "type": "series",
-          "name": "Re:ZERO -Starting Life in Another World-",
+          "name": "Re:Zero kara Hajimeru Isekai Seikatsu",
           "rank": 20,
           "poster": "https://m.media-amazon.com/images/M/MV5BZWI4OTVkNDgtOTBmMC00M2I3LTk3NTctOWY3NmRkODIxMDViXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2016",
-          "year": "2016",
-          "imdbRating": "8.3",
-          "genres": [
-            "Animação",
-            "Aventura",
-            "Drama"
-          ],
-          "description": "Pouco depois de ser convocado para um novo mundo, Subaru Natsuki e sua nova parceira são brutalmente assassinados. Então ele acorda e se encontra no mesmo beco, com os mesmos bandidos, a mesma garota, e o dia começa a se repetir.",
-          "runtime": "24 min"
+          "imdbRating": "8.3"
         },
         {
           "id": "tt5875444",
@@ -359,15 +190,7 @@
           "rank": 21,
           "poster": "https://m.media-amazon.com/images/M/MV5BMmM2NDhmYjktNTIzZC00YjIwLWE1ZmUtNzM1MTNiMTU2NjdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2022",
-          "year": "2022",
-          "imdbRating": "8.3",
-          "genres": [
-            "Drama",
-            "Suspense"
-          ],
-          "description": "Uma equipe disfuncional de agentes da MI5 navega os mistérios e ilusões do mundo da espionagem para proteger a Inglaterra de forças sinistras.",
-          "runtime": "50 min"
+          "imdbRating": "8.3"
         },
         {
           "id": "tt35618070",
@@ -376,16 +199,7 @@
           "rank": 22,
           "poster": "https://m.media-amazon.com/images/M/MV5BYmI3ZGMzNWUtZjdmZC00YjNlLWE0NDktMTU3OTBhNjM4YzY0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "7.4",
-          "genres": [
-            "Drama",
-            "Mistério",
-            "Romance"
-          ],
-          "description": "Annie e seu irmão gêmeo, criados em Nova York por seu pai solteiro, descobriram que seu avô, que estava separado, os legou a uma ilha com lago.",
-          "runtime": "50 min"
+          "imdbRating": "7.4"
         },
         {
           "id": "tt7587890",
@@ -394,69 +208,34 @@
           "rank": 23,
           "poster": "https://m.media-amazon.com/images/M/MV5BMTdmNjFlMjktZDI1ZC00MzMzLTkxZmItMzE0OTJkMDAwNzQ4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2018",
-          "year": "2018",
-          "imdbRating": "8",
-          "genres": [
-            "Ação",
-            "Policial",
-            "Drama"
-          ],
-          "description": "Empeçar de novo para o John Nolan é difícil, depois de um accidente que mudou sua vida, persegue seu desejo de se tornar policial.",
-          "runtime": "43 min"
+          "imdbRating": "8"
         },
         {
           "id": "tt33332385",
           "type": "series",
-          "name": "O Segredo de Widow's Bay",
+          "name": "Widow&apos;s Bay",
           "rank": 24,
           "poster": "https://m.media-amazon.com/images/M/MV5BZDBiMWZlMDQtNzkzMi00YzQzLTkwNTUtNzYwOGY3YmUxNDJjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "8.1",
-          "genres": [
-            "Comédia",
-            "Drama",
-            "Terror"
-          ],
-          "description": "Um prefeito da Nova Inglaterra, tentando impulsionar o turismo, precisa lidar com estranhos acontecimentos que sugerem que sua ilha pode estar amaldiçoada.",
-          "runtime": "40 min"
+          "imdbRating": "8.1"
         },
         {
           "id": "tt31510819",
           "type": "series",
-          "name": "Terra da Máfia",
+          "name": "MobLand",
           "rank": 25,
           "poster": "https://m.media-amazon.com/images/M/MV5BZDc4MmYxNTAtM2ViYy00YWQ4LThjZWUtNDZjNTZjNDFhNzBjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2025",
-          "year": "2025",
-          "imdbRating": "8.3",
-          "genres": [
-            "Policial",
-            "Drama"
-          ],
-          "description": "Apresenta duas gerações de gângsteres, seus negócios, os relacionamentos que estabelecem e o homem que chamam para resolver seus problemas.",
-          "runtime": "50 min"
+          "imdbRating": "8.3"
         },
         {
           "id": "tt27497393",
           "type": "series",
-          "name": "Stuart Não Consegue Salvar o Universo",
+          "name": "Stuart Fails to Save the Universe",
           "rank": 26,
           "poster": "https://m.media-amazon.com/images/M/MV5BNDEyYWRkOTktZjA3Yy00MTNkLTgzMjctODk2YWI5YmZhZmI4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "7.1",
-          "genres": [
-            "Comédia",
-            "Fantasia",
-            "Ficção científica"
-          ],
-          "description": "Stuart Bloom, dono de uma loja de quadrinhos, da Big Bang: A Teoria (2007), retorna em uma nova série na qual ele tenta, e aparentemente falha, salvar o universo, mantendo-se fiel à sua natureza infeliz.",
-          "runtime": "30 min"
+          "imdbRating": "7.1"
         },
         {
           "id": "tt10293938",
@@ -465,16 +244,7 @@
           "rank": 27,
           "poster": "https://m.media-amazon.com/images/M/MV5BNzUzMmJmZTQtZjI1Yi00YjdlLWFkMGQtMDkxMjgwNTgxYzZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2020-2026",
-          "year": "2020",
-          "imdbRating": "7.5",
-          "genres": [
-            "Ação",
-            "Aventura",
-            "Policial"
-          ],
-          "description": "Um grupo de adolescentes encontra um mapa do tesouro que esconde um segredo enterrado há muito tempo.",
-          "runtime": "50 min"
+          "imdbRating": "7.5"
         },
         {
           "id": "tt31491435",
@@ -483,31 +253,16 @@
           "rank": 28,
           "poster": "https://m.media-amazon.com/images/M/MV5BMDUyMjhlZTQtYTFhZi00OWU3LTg5MDQtNzE3ZTUyNWZmODkwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2024",
-          "year": "2024",
-          "imdbRating": "7.7",
-          "genres": [
-            "Comédia"
-          ],
-          "description": "Um gerente meio deprê rala para melhorar o atendimento e aumentar os lucros da oficina do pai; e ainda tem que manter o primo sem noção na linha.",
-          "runtime": "20 min"
+          "imdbRating": "7.7"
         },
         {
           "id": "tt0141842",
           "type": "series",
-          "name": "Família Soprano",
+          "name": "The Sopranos",
           "rank": 29,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjY1ODhhODItMDM4ZC00ZGJhLWExODMtOGE4MmQxOWQzYTdhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "1999-2007",
-          "year": "1999",
-          "imdbRating": "9.2",
-          "genres": [
-            "Policial",
-            "Drama"
-          ],
-          "description": "O chefe da máfia de Nova Jersey, Tony Soprano, lida com questões pessoais e profissionais que afetam seu estado mental, levando-o a procurar aconselhamento psiquiátrico.",
-          "runtime": "55 min"
+          "imdbRating": "9.2"
         },
         {
           "id": "tt31938062",
@@ -516,50 +271,25 @@
           "rank": 30,
           "poster": "https://m.media-amazon.com/images/M/MV5BMThjMjYxM2YtM2IzZC00NDdmLThiNDYtNzEyNzA0YTRmYTk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2025",
-          "year": "2025",
-          "imdbRating": "8.9",
-          "genres": [
-            "Drama"
-          ],
-          "description": "A vida cotidiana dos profissionais de saúde em um hospital de Pittsburgh, enquanto eles lidam com crises pessoais, políticas no local de trabalho e o custo emocional do tratamento de pacientes em estado crítico.",
-          "runtime": "50 min"
+          "imdbRating": "8.9"
         },
         {
           "id": "tt2861424",
           "type": "series",
-          "name": "Rick e Morty",
+          "name": "Rick and Morty",
           "rank": 31,
           "poster": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2013",
-          "year": "2013",
-          "imdbRating": "9",
-          "genres": [
-            "Animação",
-            "Aventura",
-            "Comédia"
-          ],
-          "description": "Uma série animada que segue as façanhas de um super cientista e seu neto não tão brilhante.",
-          "runtime": "23 min"
+          "imdbRating": "9"
         },
         {
           "id": "tt36996011",
           "type": "series",
-          "name": "O Rato",
+          "name": "Deuljwi",
           "rank": 32,
           "poster": "https://m.media-amazon.com/images/M/MV5BNWIwMWVhNTQtOGQ4Ny00MGFkLThjNzktZWVhNzI4YzFlMGE1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026-2026",
-          "year": "2026",
-          "imdbRating": "7",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Mistério"
-          ],
-          "description": "Um escritor recluso descobre que sua identidade foi roubada. Agora, precisa se aliar a um agiota para retomar sua vida das mãos de um homem conhecido como O Rato.",
-          "runtime": "60 min"
+          "imdbRating": "6.9"
         },
         {
           "id": "tt32213668",
@@ -568,32 +298,16 @@
           "rank": 33,
           "poster": "https://m.media-amazon.com/images/M/MV5BNjY0ODBiNWYtNWIwNC00MDdmLTkzZGYtYmE1MWYxM2QwNDg1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2025",
-          "year": "2025",
-          "imdbRating": "7.2",
-          "genres": [
-            "Comédia"
-          ],
-          "description": "A vida de uma avó sofre uma reviravolta quando seu marido a abandona após 33 anos de casamento. Ela navega por esse novo capítulo com a ajuda de sua família, graça, dignidade e salada de gelatina.",
-          "runtime": "20 min"
+          "imdbRating": "7.2"
         },
         {
           "id": "tt0460681",
           "type": "series",
-          "name": "Sobrenatural",
+          "name": "Supernatural",
           "rank": 34,
           "poster": "https://m.media-amazon.com/images/M/MV5BMDA4ZmQ5ZmItYmEwMS00NThlLTk3NjktNjMxNDljMmRlOGNhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2005-2020",
-          "year": "2005",
-          "imdbRating": "8.4",
-          "genres": [
-            "Drama",
-            "Fantasia",
-            "Terror"
-          ],
-          "description": "Dois irmãos seguem os passos do pai como caçadores, lutando contra aterradores seres sobrenaturais que vagam pela terra.",
-          "runtime": "44 min"
+          "imdbRating": "8.4"
         },
         {
           "id": "tt1520211",
@@ -602,69 +316,34 @@
           "rank": 35,
           "poster": "https://m.media-amazon.com/images/M/MV5BNjA0ZDZiNmQtM2E2Ni00Y2UzLTgzYjktMzE2YzJhYzZhNzI4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2010-2022",
-          "year": "2010",
-          "imdbRating": "8.1",
-          "genres": [
-            "Drama",
-            "Terror",
-            "Suspense"
-          ],
-          "description": "Um Xerife acorda de um coma para dar-se conta que o mundo está em ruínas, e deve liderar um grupo de sobreviventes para se manter vivo.",
-          "runtime": "45 min"
+          "imdbRating": "8.1"
         },
         {
           "id": "tt6473344",
           "type": "series",
-          "name": "SEAL Team: Soldados de Elite",
+          "name": "SEAL Team",
           "rank": 36,
           "poster": "https://m.media-amazon.com/images/M/MV5BMDc5ZjUzMTktYzg0MC00MTU3LTkzNzQtYzdiZmZkM2NlOTdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2017-2024",
-          "year": "2017",
-          "imdbRating": "7.9",
-          "genres": [
-            "Ação",
-            "Drama",
-            "Guerra"
-          ],
-          "description": "As vidas da unidade da marina SEAL, seu treinamento, planejamento e execuçao das mais perigosas misões nos Estados Unidos.",
-          "runtime": "43 min"
+          "imdbRating": "7.9"
         },
         {
           "id": "tt33546863",
           "type": "series",
-          "name": "Off Campus: Amores Improváveis",
+          "name": "Off Campus",
           "rank": 37,
           "poster": "https://m.media-amazon.com/images/M/MV5BZDRlMTA5ODUtMzIwNi00YTM0LTlmM2YtMjRhNTJlZDA3ZTMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "7.8",
-          "genres": [
-            "Drama",
-            "Romance",
-            "Esportes"
-          ],
-          "description": "A história de amor inesperada entre um estudante de música e o famoso jogador de hóquei da universidade, que explora temas de amor e as complexidades da vida adulta por meio de amizades profundas e laços duradouros."
+          "imdbRating": "7.8"
         },
         {
           "id": "tt2560140",
           "type": "series",
-          "name": "Ataque dos Titãs",
+          "name": "Shingeki no kyojin",
           "rank": 38,
           "poster": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2013-2023",
-          "year": "2013",
-          "imdbRating": "9.1",
-          "genres": [
-            "Animação",
-            "Ação",
-            "Aventura"
-          ],
-          "description": "Depois que sua cidade é destruída e sua mãe é morta, um jovem promete limpar a terra dos humanóides que levaram a humanidade à beira da extinção.",
-          "runtime": "24 min"
+          "imdbRating": "9.1"
         },
         {
           "id": "tt30460310",
@@ -673,34 +352,16 @@
           "rank": 39,
           "poster": "https://m.media-amazon.com/images/M/MV5BOGZjMjMwYzQtMjk2MC00NDgzLTllOGQtMDNjMGU1YmM5ZmFmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026-2026",
-          "year": "2026",
-          "imdbRating": "7.7",
-          "genres": [
-            "Ação",
-            "Aventura",
-            "Policial"
-          ],
-          "description": "Ben Riley ,um envelhecido e azarado detetive particular na Nova York dos anos 1930 é forçado a lidar com o passado dele como primeiro e único super-herói da cidade.",
-          "runtime": "45 min"
+          "imdbRating": "7.7"
         },
         {
           "id": "tt0813715",
           "type": "series",
-          "name": "Heróis",
+          "name": "Heroes",
           "rank": 40,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjI3ODU0OTQ1MV5BMl5BanBnXkFtZTgwNzI0MTQ2MzE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2006-2010",
-          "year": "2006",
-          "imdbRating": "7.5",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Fantasia"
-          ],
-          "description": "Gente comum descobre que tem superpotências. Suas vidas vão ter que se juntar para evitar uma catástrofe.",
-          "runtime": "45 min"
+          "imdbRating": "7.5"
         },
         {
           "id": "tt3032476",
@@ -709,15 +370,7 @@
           "rank": 41,
           "poster": "https://m.media-amazon.com/images/M/MV5BMTAxOTQ0MjUzMzJeQTJeQWpwZ15BbWU4MDY0NTAxNzMx._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2015-2022",
-          "year": "2015",
-          "imdbRating": "9",
-          "genres": [
-            "Policial",
-            "Drama"
-          ],
-          "description": "Os julgamentos e atribulações do advogado criminal, Jimmy McGill, e o estabelecimento de seu escritório de advocacia em Albuquerque, Novo México.",
-          "runtime": "45 min"
+          "imdbRating": "9"
         },
         {
           "id": "tt2356777",
@@ -726,16 +379,7 @@
           "rank": 42,
           "poster": "https://m.media-amazon.com/images/M/MV5BMTY0ODc2NTc0NF5BMl5BanBnXkFtZTgwMDcyNTAwNzM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2014",
-          "year": "2014",
-          "imdbRating": "8.8",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Mistério"
-          ],
-          "description": "Série antológica em que as investigações policiais descobrem os segredos pessoais e profissionais dos envolvidos, tanto dentro como fora da lei.",
-          "runtime": "60 min"
+          "imdbRating": "8.8"
         },
         {
           "id": "tt5712554",
@@ -744,16 +388,7 @@
           "rank": 43,
           "poster": "https://m.media-amazon.com/images/M/MV5BOGQ1M2Y4ZjMtNWRiNS00YTUzLTkxMzEtZjgzYmZjMGVlMzY5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2016-2024",
-          "year": "2016",
-          "imdbRating": "8.7",
-          "genres": [
-            "Aventura",
-            "Comédia",
-            "Esportes"
-          ],
-          "description": "Segue Jeremy, Richard e James, enquanto eles embarcam em uma aventura ao redor do mundo, dirigindo carros novos e emocionantes de fabricantes de todo o mundo.",
-          "runtime": "60 min"
+          "imdbRating": "8.7"
         },
         {
           "id": "tt34866681",
@@ -762,16 +397,7 @@
           "rank": 44,
           "poster": "https://m.media-amazon.com/images/M/MV5BOGQ0MjkwOTUtMGMyYS00NzFhLTgxMjktNTAwOGViNWM2MWE1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026-2026",
-          "year": "2026",
-          "imdbRating": "6.7",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Suspense"
-          ],
-          "description": "Uma criminosa reformada é forçada a encarar seu passado e retornar às atividades ilegais em busca de um último emprego, na esperança de garantir sua liberdade e deixar para trás sua vida anterior para sempre.",
-          "runtime": "45 min"
+          "imdbRating": "6.7"
         },
         {
           "id": "tt0386676",
@@ -780,14 +406,7 @@
           "rank": 45,
           "poster": "https://m.media-amazon.com/images/M/MV5BZWRhMTQ4Y2UtZjE1My00MWU3LWE4YTktMTU3NGM5MTVhMTYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2005-2013",
-          "year": "2005",
-          "imdbRating": "9",
-          "genres": [
-            "Comédia"
-          ],
-          "description": "Um mockumentary sobre um grupo de trabalhadores de escritório, onde o dia de trabalho consiste em conflitos de ego e comportamento inadequado.",
-          "runtime": "22 min"
+          "imdbRating": "9"
         },
         {
           "id": "tt4236770",
@@ -796,51 +415,25 @@
           "rank": 46,
           "poster": "https://m.media-amazon.com/images/M/MV5BZTYxYTdjZjEtNTc0My00NDU2LTkwZmQtNjhhNmJiMzQ3Zjc1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2018-2024",
-          "year": "2018",
-          "imdbRating": "8.6",
-          "genres": [
-            "Drama",
-            "Faroeste"
-          ],
-          "description": "Uma familia de Montana enfrenta outros que tentam usurpar suas terras.",
-          "runtime": "60 min"
+          "imdbRating": "8.6"
         },
         {
           "id": "tt34771210",
           "type": "series",
-          "name": "Eu Vou Te Encontrar",
+          "name": "I Will Find You",
           "rank": 47,
           "poster": "https://m.media-amazon.com/images/M/MV5BYWFkOGU5ZTYtZTlhMi00NThiLWI3ZDEtMGQ2Y2UzNjlkZTUxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026-2026",
-          "year": "2026",
-          "imdbRating": "7.1",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Mistério"
-          ],
-          "description": "Um pai inocente condenado à prisão perpétua pelo assassinato do próprio filho fica sabendo que ele ainda pode estar vivo, despertando nele o desejo de fugir da prisão para desvendar a verdade.",
-          "runtime": "45 min"
+          "imdbRating": "7.1"
         },
         {
           "id": "tt11280740",
           "type": "series",
-          "name": "Ruptura",
+          "name": "Severance",
           "rank": 48,
           "poster": "https://m.media-amazon.com/images/M/MV5BNDQxNTQ4NGUtMDMwNS00ZjhhLWJjNTYtZDYyYzZkMmUwNjVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2022",
-          "year": "2022",
-          "imdbRating": "8.6",
-          "genres": [
-            "Drama",
-            "Mistério",
-            "Ficção científica"
-          ],
-          "description": "Lumen Industries, uma empresa que busca levar o equilíbrio entre trabalho e vida a um novo nível.",
-          "runtime": "50 min"
+          "imdbRating": "8.6"
         },
         {
           "id": "tt11846996",
@@ -849,16 +442,7 @@
           "rank": 49,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjg1ZTAyNTItMTRlMy00ZmFkLTkzYTAtM2NlYjk4YWYzNzM4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2021",
-          "year": "2021",
-          "imdbRating": "7.4",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Mistério"
-          ],
-          "description": "O misterioso desaparecimento de uma traineira escocesa e a morte a bordo de um submarino nuclear Trident colocam a polícia em conflito com a Marinha Britânica e os serviços de segurança.",
-          "runtime": "60 min"
+          "imdbRating": "7.4"
         },
         {
           "id": "tt27846061",
@@ -867,101 +451,52 @@
           "rank": 50,
           "poster": "https://m.media-amazon.com/images/M/MV5BYjE2YzA2YzAtZmE5MS00YmVkLTgxNWItYWYxNmMxZGE5M2Q3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2024",
-          "year": "2024",
-          "imdbRating": "8.1",
-          "genres": [
-            "Comédia",
-            "Policial",
-            "Drama"
-          ],
-          "description": "Em uma tentativa de desvendar o mistério do desaparecimento de seu irmão gêmeo, o recluso designer de quebra-cabeças John \"Ludwig\" Taylor assume a identidade de seu irmão gêmeo James como DCI do Cambridge Serious Crime Squad."
+          "imdbRating": "8.1"
         },
         {
           "id": "tt0472954",
           "type": "series",
-          "name": "It's Always Sunny in Philadelphia",
+          "name": "It&apos;s Always Sunny in Philadelphia",
           "rank": 51,
           "poster": "https://m.media-amazon.com/images/M/MV5BZjkxZWUzNGEtNWFjZi00MDJmLWI2ODctMDRiZTdhY2RiNmZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2005",
-          "year": "2005",
-          "imdbRating": "8.8",
-          "genres": [
-            "Comédia"
-          ],
-          "description": "Cinco amigos são os donos dum bar irlandês em Filadélfia.",
-          "runtime": "22 min"
+          "imdbRating": "8.8"
         },
         {
           "id": "tt14452776",
           "type": "series",
-          "name": "O Urso",
+          "name": "The Bear",
           "rank": 52,
           "poster": "https://m.media-amazon.com/images/M/MV5BZmI3ZjQxZTktYTU4Yy00NGJiLTlkMDUtZDc5MjQ3YjI5ZGQ4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2022-2026",
-          "year": "2022",
-          "imdbRating": "8.5",
-          "genres": [
-            "Comédia",
-            "Drama"
-          ],
-          "description": "Um jovem chef do mundo da alta gastronomia retorna a Chicago para administrar a lanchonete de sua família.",
-          "runtime": "1611 min"
+          "imdbRating": "8.5"
         },
         {
           "id": "tt0452046",
           "type": "series",
-          "name": "Mentes Criminosas",
+          "name": "Criminal Minds",
           "rank": 53,
           "poster": "https://m.media-amazon.com/images/M/MV5BYTg3MGUzMTktNWJiMC00NTExLWFiMzgtYzE0YzI4ZDIzMWI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2005",
-          "year": "2005",
-          "imdbRating": "8.1",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Mistério"
-          ],
-          "description": "Os casos da unidade de analisis de comportamento do FBI, um grupo que estuda aos assassinos mais perigosos dos Estados Unidos, antes do próximo ataque deles.",
-          "runtime": "42 min"
+          "imdbRating": "8.1"
         },
         {
           "id": "tt32596156",
           "type": "series",
-          "name": "Talamasca: A Ordem Secreta",
+          "name": "Talamasca: The Secret Order",
           "rank": 54,
           "poster": "https://m.media-amazon.com/images/M/MV5BN2NiMGI3ZDEtNWU3ZC00ZmFhLWJiNDgtOTNmM2FkNDFkMDljXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2025-2026",
-          "year": "2025",
-          "imdbRating": "6.5",
-          "genres": [
-            "Drama",
-            "Fantasia",
-            "Ficção científica"
-          ],
-          "description": "Segue uma sociedade secreta que rastreia seres sobrenaturais como bruxas, vampiros e lobisomens."
+          "imdbRating": "6.5"
         },
         {
           "id": "tt11958610",
           "type": "series",
-          "name": "Risco Iminente",
+          "name": "Trigger Point",
           "rank": 55,
           "poster": "https://m.media-amazon.com/images/M/MV5BZmVjYjM5MjMtYTg1My00NDdhLTg0Y2YtNmE5Yzg0NzM4MjM1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2022",
-          "year": "2022",
-          "imdbRating": "6.7",
-          "genres": [
-            "Ação",
-            "Policial",
-            "Drama"
-          ],
-          "description": "Segue Lana Washington, uma agente de eliminação de bombas experiente que trabalha para a Polícia Metropolitana.",
-          "runtime": "60 min"
+          "imdbRating": "6.7"
         },
         {
           "id": "tt4574334",
@@ -970,16 +505,7 @@
           "rank": 56,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMDAxOTUyMV5BMl5BanBnXkFtZTgwNzAxMzYzOTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2016-2025",
-          "year": "2016",
-          "imdbRating": "8.6",
-          "genres": [
-            "Drama",
-            "Fantasia",
-            "Terror"
-          ],
-          "description": "Depois do desaparecimento de um menino, sua mãe, um chefe de polícia e seus amigos precisam enfrentar forças aterrorizantes para trazê-lo de volta.",
-          "runtime": "60 min"
+          "imdbRating": "8.6"
         },
         {
           "id": "tt13406094",
@@ -988,52 +514,25 @@
           "rank": 57,
           "poster": "https://m.media-amazon.com/images/M/MV5BZmM1MGM0MDQtZTAzNy00ZGJkLWI4MDUtNjBmMzdhYjhlM2QwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2021",
-          "year": "2021",
-          "imdbRating": "8",
-          "genres": [
-            "Comédia",
-            "Drama",
-            "Mistério"
-          ],
-          "description": "Acompanha as experiências de vários hóspedes e funcionários durante sua estadia de uma semana em um resort tropical.",
-          "runtime": "60 min"
+          "imdbRating": "8"
         },
         {
           "id": "tt9813792",
           "type": "series",
-          "name": "Origem",
+          "name": "From",
           "rank": 58,
           "poster": "https://m.media-amazon.com/images/M/MV5BN2YwYWZkNmItMThhMy00NmVmLWE4M2EtNTQyZjhiOTFjZjE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2022",
-          "year": "2022",
-          "imdbRating": "7.8",
-          "genres": [
-            "Drama",
-            "Terror",
-            "Mistério"
-          ],
-          "description": "Desvenda o mistério de uma cidade na América Central que aprisiona todos os que entram. Enquanto os residentes lutam para manter uma sensação de normalidade e buscar uma saída, eles também devem sobreviver às ameaças da floresta ao redor.",
-          "runtime": "52 min"
+          "imdbRating": "7.8"
         },
         {
           "id": "tt0306414",
           "type": "series",
-          "name": "A Escuta",
+          "name": "The Wire",
           "rank": 59,
           "poster": "https://m.media-amazon.com/images/M/MV5BYjIxZTMwZmUtOTUzYS00YmU2LWJhNDAtNzA2NDg0NDA0MjVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2002-2008",
-          "year": "2002",
-          "imdbRating": "9.3",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Suspense"
-          ],
-          "description": "Drama policial sobre a dura realidade das ruas de Baltimore, contada sob diversos ângulos.",
-          "runtime": "60 min"
+          "imdbRating": "9.3"
         },
         {
           "id": "tt1586680",
@@ -1042,51 +541,25 @@
           "rank": 60,
           "poster": "https://m.media-amazon.com/images/M/MV5BMWUwZjJmYjctYTY3MC00ZTVlLWI1ZGEtNWQzMTFlMTcwMTY2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2011-2021",
-          "year": "2011",
-          "imdbRating": "8.5",
-          "genres": [
-            "Comédia",
-            "Drama"
-          ],
-          "description": "Uma conflituosa e leal familia de Chicago não dá disculpas.",
-          "runtime": "60 min"
+          "imdbRating": "8.5"
         },
         {
           "id": "tt1844624",
           "type": "series",
-          "name": "História de Horror Americana",
+          "name": "American Horror Story",
           "rank": 61,
           "poster": "https://m.media-amazon.com/images/M/MV5BNTM3NTZjMDctYWQ3YS00NjQ4LWIwMjItNmIwZTlkM2U4NjRkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2011",
-          "year": "2011",
-          "imdbRating": "7.9",
-          "genres": [
-            "Drama",
-            "Terror",
-            "Ficção científica"
-          ],
-          "description": "Antologias focadas em diferentes personagens e locais, incluindo uma casa com um passado assassino, um asilo, um coven de bruxas, um show anormal, um hotel, uma fazenda possuída, um culto e o apocalipse.",
-          "runtime": "60 min"
+          "imdbRating": "7.9"
         },
         {
           "id": "tt0203259",
           "type": "series",
-          "name": "Lei & Ordem: Unidade de Vítimas Especiais",
+          "name": "Law &amp; Order: Special Victims Unit",
           "rank": 62,
           "poster": "https://m.media-amazon.com/images/M/MV5BMzUzZmMwN2YtOGIyOC00ZmNlLWE5ZjYtMmQwNGU0YjVhOGQ4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "1999",
-          "year": "1999",
-          "imdbRating": "8.1",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Mistério"
-          ],
-          "description": "A Unidade Especial de Vítimas no Departamento de Polícia de Nova York, investiga delitos sexuais",
-          "runtime": "60 min"
+          "imdbRating": "8.1"
         },
         {
           "id": "tt0773262",
@@ -1095,16 +568,7 @@
           "rank": 63,
           "poster": "https://m.media-amazon.com/images/M/MV5BNTE5ZGI2N2UtYmFiMi00ZGIxLWI1ZTMtYWJkZDYxNDZiOTQwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2006-2013",
-          "year": "2006",
-          "imdbRating": "8.6",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Mistério"
-          ],
-          "description": "De dia, o gentil Dexter é um analista de sangue para a polícia de Miami. Mas à noite, ele é um assassino em série que só atinge outros assassinos.",
-          "runtime": "60 min"
+          "imdbRating": "8.6"
         },
         {
           "id": "tt1190634",
@@ -1113,34 +577,16 @@
           "rank": 64,
           "poster": "https://m.media-amazon.com/images/M/MV5BNDljM2EyMTEtMmEzZC00ZjRjLWFhNWUtNzk5MWQ0NzY3ZGMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2019-2026",
-          "year": "2019",
-          "imdbRating": "8.5",
-          "genres": [
-            "Ação",
-            "Comédia",
-            "Policial"
-          ],
-          "description": "Um grupo de vigilantes são dados o trabalho de deter super heroís que abusam da suas potências.",
-          "runtime": "60 min"
+          "imdbRating": "8.5"
         },
         {
           "id": "tt6473300",
           "type": "series",
-          "name": "Mirzapur: A Cidade do Conflito",
+          "name": "Mirzapur",
           "rank": 65,
           "poster": "https://m.media-amazon.com/images/M/MV5BZTFjMzMxZTUtYTMyNy00OWNhLTk4ODQtNGI1NjI1NjJhMzc3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2018",
-          "year": "2018",
-          "imdbRating": "8.4",
-          "genres": [
-            "Ação",
-            "Policial",
-            "Drama"
-          ],
-          "description": "Um incidente chocante em uma procissão de casamento acende uma série de eventos que enredam a vida de duas famílias na cidade sem lei de Mirzapur.",
-          "runtime": "60 min"
+          "imdbRating": "8.4"
         },
         {
           "id": "tt38553367",
@@ -1149,16 +595,7 @@
           "rank": 66,
           "poster": "https://m.media-amazon.com/images/M/MV5BZWJlYzFiYjItN2I2MC00MThkLThmNjItM2RjN2E2M2FiZmIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "6.3",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Suspense"
-          ],
-          "description": "Um detetive de Estocolmo deve se unir a seu pai ex-policial afastado para capturar um assassino em série atacando policiais, forçando-os a resolver suas diferenças durante a investigação.",
-          "runtime": "50 min"
+          "imdbRating": "6.3"
         },
         {
           "id": "tt44974627",
@@ -1167,29 +604,16 @@
           "rank": 67,
           "poster": "https://m.media-amazon.com/images/M/MV5BMGRlZjk0OTUtYjhkZS00NTU3LWI5NDItODZiMjM1N2U0NGQwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "8.4",
-          "description": "The world's greatest motoring show returns with new presenters - Thomas Holland, James Engelsman and Francis Bourgeois - and its trademark blend of global adventure, incredible vehicles, epic stunts and strong opinions.",
-          "runtime": "57 min"
+          "imdbRating": "8.4"
         },
         {
           "id": "tt0388629",
           "type": "series",
-          "name": "One Piece",
+          "name": "One Piece: Wan pîsu",
           "rank": 68,
           "poster": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "1999",
-          "year": "1999",
-          "imdbRating": "9",
-          "genres": [
-            "Animação",
-            "Ação",
-            "Aventura"
-          ],
-          "description": "Siga as aventuras de Monkey Luffy e seus amigos para encontrar o maior tesouro que o lendário pirata já deixou.",
-          "runtime": "24 min"
+          "imdbRating": "9"
         },
         {
           "id": "tt14186672",
@@ -1198,32 +622,16 @@
           "rank": 69,
           "poster": "https://m.media-amazon.com/images/M/MV5BNTQ1MzI1ZWYtNWMxMC00NmU4LTlmMjItZjY1NWMyYTdjMjM4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2024",
-          "year": "2024",
-          "imdbRating": "8.2",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Faroeste"
-          ],
-          "description": "Segue os bilionários que estão impulsionando um boom tão grande que está mudando nosso clima, nossa economia e nossa geopolítica.",
-          "runtime": "60 min"
+          "imdbRating": "8.2"
         },
         {
           "id": "tt44113382",
           "type": "series",
-          "name": "A Morte da Esposa do Pastor",
+          "name": "Death of the Pastor&apos;s Wife",
           "rank": 70,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDkyZjEtZmJmOS00MWQzLTlhNjEtZThiMGE3NGQyN2RlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026-2026",
-          "year": "2026",
-          "imdbRating": "6.7",
-          "genres": [
-            "Documentário"
-          ],
-          "description": "Sobre a vida e a morte de Mica Miller, esposa do pastor John-Paul Miller. Inclui material inédito, entrevistas familiares, acusações de controle e as circunstâncias de sua misteriosa morte.",
-          "runtime": "45 min"
+          "imdbRating": "6.7"
         },
         {
           "id": "tt2085059",
@@ -1232,34 +640,16 @@
           "rank": 71,
           "poster": "https://m.media-amazon.com/images/M/MV5BZTA5YjE5Y2ItMTNiYy00ZjZiLWJlYmItODE3NDExMGZhMDQ5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2011",
-          "year": "2011",
-          "imdbRating": "8.7",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Mistério"
-          ],
-          "description": "Uma série de antologia que explora o lado mais sombrio da humanidade através das lentes da tecnologia.",
-          "runtime": "60 min"
+          "imdbRating": "8.7"
         },
         {
           "id": "tt1839578",
           "type": "series",
-          "name": "Pessoa de Interesse",
+          "name": "Person of Interest",
           "rank": 72,
           "poster": "https://m.media-amazon.com/images/M/MV5BOTcxNDJiMTUtN2ZhZS00OGE1LWJmZmYtN2VhYThiZTBhYWM1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2011-2016",
-          "year": "2011",
-          "imdbRating": "8.5",
-          "genres": [
-            "Ação",
-            "Policial",
-            "Drama"
-          ],
-          "description": "Um ex-agente da CIA dado como morto, John Reese, une forças com o gênio bilionário da tecnologia, Harold Finch, para impedir crimes violentos antes que aconteçam em Nova York usando uma inteligência artificial avançada.",
-          "runtime": "43 min"
+          "imdbRating": "8.5"
         },
         {
           "id": "tt0185906",
@@ -1268,52 +658,25 @@
           "rank": 73,
           "poster": "https://m.media-amazon.com/images/M/MV5BYjdlNGJlYjQtMDU2Mi00ZjA1LWEwYzgtYzlmNDM5MmE1ZGUwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2001-2001",
-          "year": "2001",
-          "imdbRating": "9.4",
-          "genres": [
-            "Ação",
-            "Drama",
-            "História"
-          ],
-          "description": "A história da Easy Company, integrante da 101a. Divisão do Exército dos Estados Unidos, na Segunda Guerra Mundial.",
-          "runtime": "60 min"
+          "imdbRating": "9.4"
         },
         {
           "id": "tt13207736",
           "type": "series",
-          "name": "Monstros",
+          "name": "Monster",
           "rank": 74,
           "poster": "https://m.media-amazon.com/images/M/MV5BNTVmMWU0ODQtMGZkMi00NzlmLWEwZWYtYmJkZDg2OTUyZTlhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2022",
-          "year": "2022",
-          "imdbRating": "7.7",
-          "genres": [
-            "Biografia",
-            "Policial",
-            "Drama"
-          ],
-          "description": "Uma série antológica centrada nas histórias do assassino em série canibal Jeffrey Dahmer e dos assassinos condenados Lyle e Erik Menendez.",
-          "runtime": "60 min"
+          "imdbRating": "7.7"
         },
         {
           "id": "tt30494226",
           "type": "series",
-          "name": "Parceiras no Crime",
+          "name": "Ride or Die",
           "rank": 75,
           "poster": "https://m.media-amazon.com/images/M/MV5BMGUxMjFkMDEtNGJkZC00MTUwLWFiZjUtYWZhZWYxNzE1ZDEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "7.5",
-          "genres": [
-            "Ação",
-            "Aventura",
-            "Comédia"
-          ],
-          "description": "Judith e Debbie descobrem que Judith é uma assassina secreta. Depois que um golpe dá errado, fogem enquanto são alvo de um inimigo, forçando-os a enfrentar os segredos entre elas.",
-          "runtime": "50 min"
+          "imdbRating": "7.5"
         },
         {
           "id": "tt0108778",
@@ -1322,15 +685,7 @@
           "rank": 76,
           "poster": "https://m.media-amazon.com/images/M/MV5BNzQxMjk3ZTItYjE2Ni00YTk3LTk1MjktNjE2MGU3YzMxNzY0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "1994-2004",
-          "year": "1994",
-          "imdbRating": "8.8",
-          "genres": [
-            "Comédia",
-            "Romance"
-          ],
-          "description": "Relata a vida pessoal e profissional de seis amigos na casa de seus 30 anos que vivem em Manhattan.",
-          "runtime": "22 min"
+          "imdbRating": "8.8"
         },
         {
           "id": "tt2802850",
@@ -1339,16 +694,7 @@
           "rank": 77,
           "poster": "https://m.media-amazon.com/images/M/MV5BMzY3ZjVmZGQtNmU0Ny00YzRlLWFjNGEtNzk2YzI2ZDkzODU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2014-2024",
-          "year": "2014",
-          "imdbRating": "8.8",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Suspense"
-          ],
-          "description": "Após algums assassinatos aterradores em Minnesota e arredores, todos estes misterios levarão de volta de um jeito ou de outro para Fargo, Dakota do Norte.",
-          "runtime": "60 min"
+          "imdbRating": "8.8"
         },
         {
           "id": "tt7660850",
@@ -1357,67 +703,34 @@
           "rank": 78,
           "poster": "https://m.media-amazon.com/images/M/MV5BZjZhZDc4N2QtZTEzYS00ZmY5LWE2ODctYTA0MWRjMDBmZTFiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2018-2023",
-          "year": "2018",
-          "imdbRating": "8.8",
-          "genres": [
-            "Comédia",
-            "Drama"
-          ],
-          "description": "Segue a vida duma disfuncional familia americana.",
-          "runtime": "60 min"
+          "imdbRating": "8.8"
         },
         {
           "id": "tt0898266",
           "type": "series",
-          "name": "Big Bang: A Teoria",
+          "name": "The Big Bang Theory",
           "rank": 79,
           "poster": "https://m.media-amazon.com/images/M/MV5BODlkZjM3NzUtZDhlNC00Y2JhLWE3MTctOTE1MDE2NWI0MGJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2007-2019",
-          "year": "2007",
-          "imdbRating": "8.1",
-          "genres": [
-            "Comédia",
-            "Romance"
-          ],
-          "description": "Uma mulher se muda para um apartamento do outro lado do corredor perto de dois físicos brilhantes, mas socialmente desajeitados, e lhes mostra quão pouco sabem sobre a vida fora do laboratório.",
-          "runtime": "22 min"
+          "imdbRating": "8.1"
         },
         {
           "id": "tt27497448",
           "type": "series",
-          "name": "O Cavaleiro dos Sete Reinos",
+          "name": "A Knight of the Seven Kingdoms",
           "rank": 80,
           "poster": "https://m.media-amazon.com/images/M/MV5BYzg4M2U3YWMtMWY4MS00MzFkLTk2ZWQtOThiOGYxZDEyMGQ2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "8.6",
-          "genres": [
-            "Aventura",
-            "Drama",
-            "Fantasia"
-          ],
-          "description": "Um século antes de GOT, Sor Duncan, o Alto, e seu escudeiro, Egg, vagavam por Westeros, enquanto a dinastia Targaryen governava o Trono de Ferro e os dragões ainda eram lembrados.",
-          "runtime": "60 min"
+          "imdbRating": "8.6"
         },
         {
           "id": "tt32909469",
           "type": "series",
-          "name": "Mal de Amores",
+          "name": "Mal de amores",
           "rank": 81,
           "poster": "https://m.media-amazon.com/images/M/MV5BY2ZjMDJmMTUtMGU2Yy00OTNmLThhMTktNTdiZmY2MTZmMjEzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "5.9",
-          "genres": [
-            "Drama",
-            "Romance"
-          ],
-          "description": "Durante a Revolução Mexicana, Emilia Sauri corre atrás do sonho de se tornar médica, desafiando as convenções em busca do amor, de um propósito e da independência.",
-          "runtime": "60 min"
+          "imdbRating": "5.9"
         },
         {
           "id": "tt33539520",
@@ -1425,66 +738,34 @@
           "name": "Neagley",
           "rank": 82,
           "poster": "https://m.media-amazon.com/images/M/MV5BMzg1NzAzMWEtMGY2Ny00YzRkLTg4MmEtMDEyZWI2ZjFiMWU5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "genres": [
-            "Ação",
-            "Policial",
-            "Drama"
-          ],
-          "description": "Neagley, com base em sua experiência com Jack Reacher e os 110 investigadores especiais, embarca em uma missão perigosa para desmascarar uma ameaça sinistra, arriscando sua vida para desvendar o mistério."
+          "posterShape": "poster"
         },
         {
           "id": "tt0413573",
           "type": "series",
-          "name": "A Anatomia de Grey",
+          "name": "Grey&apos;s Anatomy",
           "rank": 83,
           "poster": "https://m.media-amazon.com/images/M/MV5BYTVjNWVhYTctMGJkMS00NWFjLWE2N2QtNmQ1Y2FhZDFkNzUwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2005",
-          "year": "2005",
-          "imdbRating": "7.6",
-          "genres": [
-            "Drama",
-            "Romance"
-          ],
-          "description": "Drama centrado na vida pessoal e profissional de cinco estagiários e seus supervisores.",
-          "runtime": "45 min"
+          "imdbRating": "7.6"
         },
         {
           "id": "tt13293588",
           "type": "series",
-          "name": "Mushoku Tensei: Jobless Reincarnation",
+          "name": "Mushoku Tensei: Isekai Ittara Honki Dasu",
           "rank": 84,
           "poster": "https://m.media-amazon.com/images/M/MV5BYWQwNjk3MDItNDAxMS00YTQ2LWEyNDctMGYyZTE5OGQxNGQ1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2021",
-          "year": "2021",
-          "imdbRating": "8.2",
-          "genres": [
-            "Animação",
-            "Ação",
-            "Aventura"
-          ],
-          "description": "Um japonês de 34 anos é atropelado por um caminhão em excesso de velocidade e morre. Antes que ele saiba, ele renasce como Ludeus Greyrat e começa uma nova vida cheia de aventuras.",
-          "runtime": "24 min"
+          "imdbRating": "8.2"
         },
         {
           "id": "tt34991493",
           "type": "series",
-          "name": "Rancho Dutton",
+          "name": "Dutton Ranch",
           "rank": 85,
           "poster": "https://m.media-amazon.com/images/M/MV5BMzk0YTExY2EtYzI1NS00M2ZlLWFjOGUtMTQyMDY1MmE2ZGViXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "8.2",
-          "genres": [
-            "Drama",
-            "Faroeste"
-          ],
-          "description": "Beth Dutton e Rip Wheeler lutam para sobreviver em seu valioso rancho de 7.000 acres em meio a tempos difíceis e fortes competições, ao mesmo tempo em que garantem que o jovem Carter se torne o homem que deveria ser."
+          "imdbRating": "8.2"
         },
         {
           "id": "tt27444205",
@@ -1493,48 +774,25 @@
           "rank": 86,
           "poster": "https://m.media-amazon.com/images/M/MV5BYTNmMjEwZGYtZWJjNy00MjI2LWI3YmUtNTY3NjVkMmU4MDM0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2025",
-          "year": "2025",
-          "imdbRating": "7.9",
-          "genres": [
-            "Ação",
-            "Drama",
-            "Mistério"
-          ],
-          "description": "Uma equipe de serviço de segurança encarregada de proteger um ex-presidente"
+          "imdbRating": "7.9"
         },
         {
           "id": "tt0412142",
           "type": "series",
-          "name": "Dr. House",
+          "name": "House M.D.",
           "rank": 87,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjgxYjAwNmMtYTAwZC00YmQxLWJlOTMtMWM0NGJmNDE0YmI2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2004-2012",
-          "year": "2004",
-          "imdbRating": "8.7",
-          "genres": [
-            "Drama"
-          ],
-          "description": "Um médico antisocial faz o que seja para resolver os casos mas difíceis que se encontra com a ajuda do equipe de médicos.",
-          "runtime": "45 min"
+          "imdbRating": "8.7"
         },
         {
           "id": "tt0238784",
           "type": "series",
-          "name": "Gilmore Girls: Tal Mãe, Tal Filha",
+          "name": "Gilmore Girls",
           "rank": 88,
           "poster": "https://m.media-amazon.com/images/M/MV5BMzM2OGZjMTItNzc2OS00YzA4LWE0ZTUtYzE5NjU0MTIyZjcyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2000-2007",
-          "year": "2000",
-          "imdbRating": "8.2",
-          "genres": [
-            "Comédia",
-            "Drama"
-          ],
-          "description": "Um drama ao redor da relação entre uma mãe solteira e sua filha adolescente que moram em Stars Hollow, Connecticut.",
-          "runtime": "45 min"
+          "imdbRating": "8.2"
         },
         {
           "id": "tt36937503",
@@ -1543,32 +801,16 @@
           "rank": 89,
           "poster": "https://m.media-amazon.com/images/M/MV5BZjk4YWU1MWQtYWE2Mi00NzEyLWFmNjUtMDE1MjE1ZTYyZDFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "6",
-          "genres": [
-            "Policial",
-            "Drama"
-          ],
-          "description": "A guarda florestal Anna Pigeon abandonou a vida urbana após uma tragédia pessoal. Agora ela canaliza sua dor investigando crimes em parques nacionais, determinada a resolver casos apesar de qualquer obstáculo.",
-          "runtime": "60 min"
+          "imdbRating": "5.9"
         },
         {
           "id": "tt15677150",
           "type": "series",
-          "name": "Falando a Real",
+          "name": "Shrinking",
           "rank": 90,
           "poster": "https://m.media-amazon.com/images/M/MV5BOTU2ZTlmNTktYjg4NS00YWYxLTg3MGQtNDE5YTdkOGZjMjNkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2023",
-          "year": "2023",
-          "imdbRating": "8.2",
-          "genres": [
-            "Comédia",
-            "Drama"
-          ],
-          "description": "Jimmy está enfrentando o luto pela perda de sua esposa enquanto é pai, amigo e terapeuta. Ele decide tentar uma nova abordagem com todos em seu caminho: honestidade brutal e sem filtros. Ele pode ajudar a si mesmo ajudando os outros?",
-          "runtime": "33 min"
+          "imdbRating": "8.2"
         },
         {
           "id": "tt32066226",
@@ -1577,16 +819,7 @@
           "rank": 91,
           "poster": "https://m.media-amazon.com/images/M/MV5BNTIxMDg4ZjctMmJmMS00OWZhLTllMDEtMzUyMThjYWRjM2I3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2025",
-          "year": "2025",
-          "imdbRating": "6.9",
-          "genres": [
-            "Policial",
-            "Drama",
-            "Mistério"
-          ],
-          "description": "Gabriel Book, proprietário de uma livraria de antiquários, resolve mistérios com sua coleção de livros. Ele orienta e protege pessoas em apuros.",
-          "runtime": "57 min"
+          "imdbRating": "6.9"
         },
         {
           "id": "tt36885662",
@@ -1595,14 +828,7 @@
           "rank": 92,
           "poster": "https://m.media-amazon.com/images/M/MV5BOWJhNTY2NzYtZDk2Yy00OTQzLWExZDUtNTYzMGNmNzZjNjkwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "6.7",
-          "genres": [
-            "Comédia",
-            "Drama"
-          ],
-          "description": "Um cirurgião bem-sucedido deixa Boston para praticar em uma cidade de infância. Sua excelência médica contrasta com sua má atitude ao enfrentar fobias e problemas de relacionamento."
+          "imdbRating": "6.7"
         },
         {
           "id": "tt31260386",
@@ -1611,15 +837,7 @@
           "rank": 93,
           "poster": "https://m.media-amazon.com/images/M/MV5BYWU5MmRjZjAtYjA3ZC00YjBkLWFiNGMtYTNhNmZlYzhlM2NkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2024",
-          "year": "2024",
-          "imdbRating": "5.9",
-          "genres": [
-            "Policial",
-            "Drama"
-          ],
-          "description": "Duas mulheres com vidas contrastantes se conectam. Uma luta pela sobrevivência depois que sua mãe a obriga a sair de casa, enquanto a outra dirige uma empresa próspera.",
-          "runtime": "50 min"
+          "imdbRating": "5.9"
         },
         {
           "id": "tt8772296",
@@ -1628,65 +846,34 @@
           "rank": 94,
           "poster": "https://m.media-amazon.com/images/M/MV5BZmZiOGRlZGEtOTJmMC00MWIwLTg3N2EtYTM0NzQ3ZDgwYmExXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2019-2026",
-          "year": "2019",
-          "imdbRating": "8.1",
-          "genres": [
-            "Drama"
-          ],
-          "description": "Um grupo de adolescentes experimenta os altos e baixos do amor e amizade em um mundo de redes sociais, sexo, drogas e violência.",
-          "runtime": "60 min"
+          "imdbRating": "8.1"
         },
         {
           "id": "tt0108757",
           "type": "series",
-          "name": "Plantão Médico",
+          "name": "ER",
           "rank": 95,
           "poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjQ4M2QtNWQyMy00OWUxLWIyZjktNmY2ZjMyZjA2NWE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "1994-2009",
-          "year": "1994",
-          "imdbRating": "7.9",
-          "genres": [
-            "Drama",
-            "Romance"
-          ],
-          "description": "As vidas, amores e perdas de médicos e enfermeiras no Hospital Geral do Condado de Chicago.",
-          "runtime": "44 min"
+          "imdbRating": "7.9"
         },
         {
           "id": "tt0364845",
           "type": "series",
-          "name": "NCIS: Investigação Naval",
+          "name": "NCIS",
           "rank": 96,
           "poster": "https://m.media-amazon.com/images/M/MV5BNTcwOWQwNGUtZmI3NC00MmMwLTljOTQtNThlZTc5MmU5YTRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2003",
-          "year": "2003",
-          "imdbRating": "7.8",
-          "genres": [
-            "Ação",
-            "Policial",
-            "Drama"
-          ],
-          "description": "Os casos do serviço de investigaçao penal da marinha, dos Estados Unidos, liderado pelo agente especial Leroy Jethro Gibbs.",
-          "runtime": "60 min"
+          "imdbRating": "7.8"
         },
         {
           "id": "tt37352716",
           "type": "series",
-          "name": "Minha Carreira Brilhante",
+          "name": "My Brilliant Career",
           "rank": 97,
           "poster": "https://m.media-amazon.com/images/M/MV5BZTU3NzA4MDQtMDUxYy00NmQ2LWFlMzgtNDQwY2MxNjkyMDg3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "7",
-          "genres": [
-            "Drama"
-          ],
-          "description": "Inquieta, perspicaz e sempre disposta a desafiar as expectativas, Sybylla está determinada a escrever a própria história em vez de procurar um marido.",
-          "runtime": "45 min"
+          "imdbRating": "7"
         },
         {
           "id": "tt22202452",
@@ -1695,15 +882,7 @@
           "rank": 98,
           "poster": "https://m.media-amazon.com/images/M/MV5BZmRmYmM4ZjctMWIwMC00ZWUxLTgyNTctYmE4ZTRmOTU5NDcxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2025",
-          "year": "2025",
-          "imdbRating": "7.9",
-          "genres": [
-            "Drama",
-            "Ficção científica"
-          ],
-          "description": "Em um mundo onde a felicidade domina, uma mulher amarga e pessimista se torna a última esperança para restaurar o equilíbrio emocional da humanidade.",
-          "runtime": "60 min"
+          "imdbRating": "7.9"
         },
         {
           "id": "tt0411008",
@@ -1712,16 +891,7 @@
           "rank": 99,
           "poster": "https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2004-2010",
-          "year": "2004",
-          "imdbRating": "8.3",
-          "genres": [
-            "Aventura",
-            "Drama",
-            "Fantasia"
-          ],
-          "description": "Os sobreviventes de um acidente de avião são forçados a trabalhar juntos para sobreviver em uma ilha tropical aparentemente deserta.",
-          "runtime": "45 min"
+          "imdbRating": "8.3"
         },
         {
           "id": "tt1632701",
@@ -1730,20 +900,12 @@
           "rank": 100,
           "poster": "https://m.media-amazon.com/images/M/MV5BYmE4MmNjZjUtNTEyNy00NTZiLWE4NTktYjM2NjBhYzQ1N2IzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2011-2019",
-          "year": "2011",
-          "imdbRating": "8.4",
-          "genres": [
-            "Comédia",
-            "Drama"
-          ],
-          "description": "Na fuga de um negócio de drogas que acabou mal, Mike Ross, um brilhante abandono da faculdade, encontra um trabalho trabalhando com Harvey Specter, um dos melhores advogados de Nova York.",
-          "runtime": "45 min"
+          "imdbRating": "8.4"
         }
       ],
-      "updatedAt": "2026-09-08T11:27:01.758Z",
+      "updatedAt": "2026-09-11T11:30:48.262Z",
       "source": "https://www.imdb.com/pt/chart/tvmeter/?ref_=hm_nv_menu",
-      "strategy": 1
+      "strategy": 3
     },
     {
       "id": "imdb_pop_movies",
@@ -1759,7 +921,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.9",
+          "imdbRating": "6.8",
           "genres": [
             "Ação",
             "Aventura",
@@ -1867,7 +1029,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "7.6",
+          "imdbRating": "7.5",
           "genres": [
             "Animação",
             "Aventura",
@@ -1905,7 +1067,9 @@
           "year": "2026",
           "imdbRating": "7.1",
           "genres": [
-            "Terror"
+            "Fantasia",
+            "Terror",
+            "Suspense"
           ],
           "description": "Uma turma de crianças enfrenta eventos assustadores que testam sua coragem e amizade.",
           "runtime": "96 min"
@@ -1971,7 +1135,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.6",
+          "imdbRating": "6.5",
           "genres": [
             "Ação",
             "Aventura",
@@ -2075,17 +1239,18 @@
           "type": "movie",
           "name": "Da Magia à Sedução: Feitiço de Amor",
           "rank": 19,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNmM5ZTFhZmItZTBkMi00M2VhLWExNmEtMWQ5YzE0ODY5MjgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
+          "imdbRating": "6.4",
           "genres": [
             "Comédia",
             "Drama",
             "Fantasia"
           ],
           "description": "Uma família multigeracional de bruxas, condenada a não ter amor por séculos, tenta quebrar o feitiço confrontando segredos obscuros e se sacrificando umas por outras.",
-          "runtime": "110 min"
+          "runtime": "130 min"
         },
         {
           "id": "tt31349844",
@@ -2096,6 +1261,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
+          "imdbRating": "6.5",
           "genres": [
             "Ação",
             "Comédia",
@@ -2143,7 +1309,7 @@
         {
           "id": "tt37654096",
           "type": "movie",
-          "name": "The Last Sunrise",
+          "name": "O Último Nascer do Sol",
           "rank": 23,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
@@ -2200,7 +1366,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "5.7",
+          "imdbRating": "5.6",
           "genres": [
             "Aventura",
             "Drama",
@@ -2234,13 +1400,13 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "8",
+          "imdbRating": "7.9",
           "genres": [
             "Ação",
             "Policial",
             "Drama"
           ],
-          "description": "The battle for Mirzapur's throne escalates as old enemies resurface and new threats emerge. Blood debts must be paid while power-hungry contenders fight to control the city's violent underworld.",
+          "description": "A batalha pelo trono de Mirzapur se intensifica à medida que velhos inimigos reaparecem e novas ameaças surgem. As dívidas de sangue devem ser pagas enquanto os competidores lutam para controlar o submundo violento da cidade.",
           "runtime": "195 min"
         },
         {
@@ -2248,7 +1414,7 @@
           "type": "movie",
           "name": "Resident Evil",
           "rank": 29,
-          "poster": "https://m.media-amazon.com/images/M/MV5BODIwYTk4MWYtMGUxYS00OWUzLTg5MDYtNzg5MmYyNzcyNThkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNDk4ODY1MDEtMTA2Ny00NzQ2LTg2OWMtMDhhZDJjMDE2ZWJmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
@@ -2322,12 +1488,12 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "9.1",
+          "imdbRating": "9",
           "genres": [
             "Biografia",
             "Drama"
           ],
-          "description": "A grieving boy seeks God to meet his departed mother, and in finding the divine, learns to serve humanity with miracles of love, food and silent blessings, becoming Hanuman Ansh, Neem Karoli Baba.",
+          "description": "Uma criança aflita busca a Deus para se reencontrar com sua mãe falecida. Ao encontrar o divino, se consagra a servir à humanidade com milagres de amor, comida e bênçãos silenciosas, se transformando em Hanuman Ansh, Neem Karoli Baba.",
           "runtime": "150 min"
         },
         {
@@ -2447,7 +1613,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "7.3",
+          "imdbRating": "7.2",
           "genres": [
             "Ação",
             "Aventura",
@@ -2600,10 +1766,11 @@
           "type": "movie",
           "name": "The Uprising",
           "rank": 49,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZjExZjU5NmMtZDhkYi00YmIzLWFiMmYtZjM5NGZiYjc4MDM4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYmNiZjVhOGItZTUxMi00MDUwLWJlNDItYTg2MTViZmQzMmU0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
+          "imdbRating": "6.5",
           "genres": [
             "Ação",
             "Drama",
@@ -2711,7 +1878,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "4.1",
+          "imdbRating": "4",
           "genres": [
             "Ação",
             "Policial",
@@ -2729,7 +1896,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "7.3",
+          "imdbRating": "7.2",
           "genres": [
             "Ação",
             "Drama",
@@ -2778,7 +1945,7 @@
           "type": "movie",
           "name": "A Bola Preta",
           "rank": 59,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZTIxNzRiMzYtOGVjYi00MjlmLWE1YzQtZDE4YmNlYTVhZjY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOGU5ODg4MDMtNjliOS00YWYzLWFlOGUtOGUwMjNmZGUyOWQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
@@ -2818,7 +1985,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.5",
+          "imdbRating": "6.7",
           "genres": [
             "Biografia",
             "Drama",
@@ -2836,7 +2003,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "7.9",
+          "imdbRating": "7.8",
           "genres": [
             "Animação",
             "Ação",
@@ -2890,7 +2057,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.3",
+          "imdbRating": "6.2",
           "genres": [
             "Comédia",
             "Drama",
@@ -2931,7 +2098,7 @@
             "Drama",
             "Suspense"
           ],
-          "description": "No caso de uma família imigrante romena que vive na Noruega, ela é objeto de uma investigação e enfrenta o escrutínio do sistema judicial local.",
+          "description": "Uma família romena recém-instalada na Noruega é alvo de uma investigação dos serviços sociais e acaba enfrentando o sistema judicial local.",
           "runtime": "146 min"
         },
         {
@@ -2960,7 +2127,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.9",
+          "imdbRating": "6.8",
           "genres": [
             "Ação",
             "Aventura",
@@ -2978,7 +2145,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "6.3",
+          "imdbRating": "6.2",
           "genres": [
             "Drama",
             "História",
@@ -3139,7 +2306,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "4.6",
+          "imdbRating": "4.7",
           "genres": [
             "Ação",
             "Comédia",
@@ -3243,7 +2410,7 @@
           "posterShape": "poster",
           "releaseInfo": "2026",
           "year": "2026",
-          "imdbRating": "5.4",
+          "imdbRating": "5.3",
           "genres": [
             "Ação",
             "Drama",
@@ -3513,7 +2680,7 @@
           "runtime": "161 min"
         }
       ],
-      "updatedAt": "2026-09-08T11:27:08.360Z",
+      "updatedAt": "2026-09-11T11:30:56.127Z",
       "source": "https://www.imdb.com/pt/chart/moviemeter/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -3941,7 +3108,7 @@
             "Aventura"
           ],
           "description": "De dia, Bruce Wayne é um milionário dos negócios. Mas de noite, ele se transforma no vigilante Batman. Acompanhe as aventuras do Homem-Morcego tentando limpar as ruas de Gotham City.",
-          "runtime": "23 min"
+          "runtime": "22 min"
         },
         {
           "id": "tt3032476",
@@ -4567,26 +3734,10 @@
           "runtime": "75 min"
         },
         {
-          "id": "tt0472954",
-          "type": "series",
-          "name": "It's Always Sunny in Philadelphia",
-          "rank": 61,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZjkxZWUzNGEtNWFjZi00MDJmLWI2ODctMDRiZTdhY2RiNmZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2005",
-          "year": "2005",
-          "imdbRating": "8.8",
-          "genres": [
-            "Comédia"
-          ],
-          "description": "Cinco amigos são os donos dum bar irlandês em Filadélfia.",
-          "runtime": "22 min"
-        },
-        {
           "id": "tt26471411",
           "type": "series",
           "name": "Se a Vida te Der Tangerinas...",
-          "rank": 62,
+          "rank": 61,
           "poster": "https://m.media-amazon.com/images/M/MV5BNDU5NTY2YjgtNGZjNy00MTk2LWExM2QtOTdlMjhjZTE5MTMxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2025-2025",
@@ -4599,6 +3750,22 @@
           ],
           "description": "Um drama que narra a vida aventureira do rebelde Ae-soon e do homem de ferro fundido Gwan-sik, ambos nascidos em Jeju na década de 1950.",
           "runtime": "60 min"
+        },
+        {
+          "id": "tt0472954",
+          "type": "series",
+          "name": "It's Always Sunny in Philadelphia",
+          "rank": 62,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZjkxZWUzNGEtNWFjZi00MDJmLWI2ODctMDRiZTdhY2RiNmZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2005",
+          "year": "2005",
+          "imdbRating": "8.8",
+          "genres": [
+            "Comédia"
+          ],
+          "description": "Cinco amigos são os donos dum bar irlandês em Filadélfia.",
+          "runtime": "22 min"
         },
         {
           "id": "tt4742876",
@@ -5735,27 +4902,10 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt10801534",
-          "type": "series",
-          "name": "How to with John Wilson",
-          "rank": 128,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYTQwMTMyODYtNzkwOC00MmM0LTkyNGItNDAxYjE0Yjc1NjhhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2020-2023",
-          "year": "2020",
-          "imdbRating": "8.7",
-          "genres": [
-            "Documentário",
-            "Comédia"
-          ],
-          "description": "Um nova-iorquino ansioso que tenta dar conselhos cotidianos enquanto enfrenta seus próprios problemas pessoais.",
-          "runtime": "30 min"
-        },
-        {
           "id": "tt1305826",
           "type": "series",
           "name": "Hora de Aventura",
-          "rank": 129,
+          "rank": 128,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjkxMzIwNmQtMzM5Ni00YWJiLTg4YjQtNjBiN2IxMjZhMGQ2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2010-2018",
@@ -5768,6 +4918,23 @@
           ],
           "description": "Um garotinho chamado Finn e seu melhor amigo Jake; um cão mágico com a capacidade de se esticar em qualquer forma que você quiser, ir em aventuras loucas juntos e conhecer muitos amigos e inimigos ao longo do caminho.",
           "runtime": "23 min"
+        },
+        {
+          "id": "tt10801534",
+          "type": "series",
+          "name": "How to with John Wilson",
+          "rank": 129,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYTQwMTMyODYtNzkwOC00MmM0LTkyNGItNDAxYjE0Yjc1NjhhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2020-2023",
+          "year": "2020",
+          "imdbRating": "8.7",
+          "genres": [
+            "Documentário",
+            "Comédia"
+          ],
+          "description": "Um nova-iorquino ansioso que tenta dar conselhos cotidianos enquanto enfrenta seus próprios problemas pessoais.",
+          "runtime": "30 min"
         },
         {
           "id": "tt5555260",
@@ -5906,26 +5073,10 @@
           "runtime": "22 min"
         },
         {
-          "id": "tt30263074",
-          "type": "series",
-          "name": "Sapne Vs Everyone",
-          "rank": 138,
-          "poster": "https://m.media-amazon.com/images/M/MV5BOTAyNzJkMDYtNGI4ZS00OGI4LTlkNTItZTQ5ZDVmYzAwN2JlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2023",
-          "year": "2023",
-          "imdbRating": "9.2",
-          "genres": [
-            "Drama"
-          ],
-          "description": "Dois sonhadores obsessivos colidem com a resistência das expectativas, da moralidade e um do outro.",
-          "runtime": "60 min"
-        },
-        {
           "id": "tt13991232",
           "type": "series",
           "name": "1883",
-          "rank": 139,
+          "rank": 138,
           "poster": "https://m.media-amazon.com/images/M/MV5BMDBjZDQyMWMtZmI0My00MzJlLWFhMTMtNWZmOTJkNzFlZTliXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2021-2022",
@@ -5936,6 +5087,22 @@
             "Faroeste"
           ],
           "description": "Segue a família Dutton numa viagem para oeste através das Grandes Planícies até ao último bastião da América indomada.",
+          "runtime": "60 min"
+        },
+        {
+          "id": "tt30263074",
+          "type": "series",
+          "name": "Sapne Vs Everyone",
+          "rank": 139,
+          "poster": "https://m.media-amazon.com/images/M/MV5BOTAyNzJkMDYtNGI4ZS00OGI4LTlkNTItZTQ5ZDVmYzAwN2JlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2023",
+          "year": "2023",
+          "imdbRating": "9.2",
+          "genres": [
+            "Drama"
+          ],
+          "description": "Dois sonhadores obsessivos colidem com a resistência das expectativas, da moralidade e um do outro.",
           "runtime": "60 min"
         },
         {
@@ -6514,28 +5681,10 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt2063241",
-          "type": "series",
-          "name": "Omar",
-          "rank": 173,
-          "poster": "https://m.media-amazon.com/images/M/MV5BOWUxN2ZjZWYtYjViZC00ZmVlLTg4NDItNjY1OTAzODFkNDgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2012-2012",
-          "year": "2012",
-          "imdbRating": "9",
-          "genres": [
-            "Biografia",
-            "Drama",
-            "História"
-          ],
-          "description": "A vida de Umar Ibn Al-Khattab, o segundo califa do califado de Rashidun, antes e após abraçar o Islã.",
-          "runtime": "45 min"
-        },
-        {
           "id": "tt5421602",
           "type": "series",
           "name": "Anne com um E",
-          "rank": 174,
+          "rank": 173,
           "poster": "https://m.media-amazon.com/images/M/MV5BNjE5YTVlMzAtZDM3Zi00NjdhLWIyODctMTUzMmU1Mzc0OGQ2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2017-2019",
@@ -6552,12 +5701,12 @@
           "id": "tt0106028",
           "type": "series",
           "name": "Homicídio",
-          "rank": 175,
+          "rank": 174,
           "poster": "https://m.media-amazon.com/images/M/MV5BYmE0NjVhM2ItZTMzNi00M2QxLWEzZjctYzcxMTU2Y2QzMmEyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1993-1999",
           "year": "1993",
-          "imdbRating": "8.7",
+          "imdbRating": "8.6",
           "genres": [
             "Policial",
             "Drama",
@@ -6565,6 +5714,24 @@
           ],
           "description": "Uma unidade policial de investigação de homicídios investiga crimes violentos na cidade de Baltimore.",
           "runtime": "60 min"
+        },
+        {
+          "id": "tt2063241",
+          "type": "series",
+          "name": "Omar",
+          "rank": 175,
+          "poster": "https://m.media-amazon.com/images/M/MV5BOWUxN2ZjZWYtYjViZC00ZmVlLTg4NDItNjY1OTAzODFkNDgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2012-2012",
+          "year": "2012",
+          "imdbRating": "9",
+          "genres": [
+            "Biografia",
+            "Drama",
+            "História"
+          ],
+          "description": "A vida de Umar Ibn Al-Khattab, o segundo califa do califado de Rashidun, antes e após abraçar o Islã.",
+          "runtime": "45 min"
         },
         {
           "id": "tt0979432",
@@ -6812,28 +5979,10 @@
           "runtime": "90 min"
         },
         {
-          "id": "tt1710308",
-          "type": "series",
-          "name": "Apenas um Show",
-          "rank": 190,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMWVmMDJmYWQtMTg5Yy00NmJlLWJmNjEtYTIyYmRjMDdmMTRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2010-2017",
-          "year": "2010",
-          "imdbRating": "8.6",
-          "genres": [
-            "Animação",
-            "Ação",
-            "Aventura"
-          ],
-          "description": "As aventuras diárias e surreais de um duende de gaio-azul e guaxinim que tentam lidar com seus trabalhos mundanos como jardineiros no parque local.",
-          "runtime": "23 min"
-        },
-        {
           "id": "tt0417373",
           "type": "series",
           "name": "Os Irmãos Aventura",
-          "rank": 191,
+          "rank": 190,
           "poster": "https://m.media-amazon.com/images/M/MV5BMGU0OTU4MjYtMmRjMi00ODIwLTgwOWQtMTE4ZTg3YzJkYmQ3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2003-2018",
@@ -6846,6 +5995,24 @@
           ],
           "description": "As estranhas aventuras animadas do cientista Rusty Venture, seu guarda-costas e seus dois filhos entusiasmados.",
           "runtime": "22 min"
+        },
+        {
+          "id": "tt1710308",
+          "type": "series",
+          "name": "Apenas um Show",
+          "rank": 191,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMWVmMDJmYWQtMTg5Yy00NmJlLWJmNjEtYTIyYmRjMDdmMTRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2010-2017",
+          "year": "2010",
+          "imdbRating": "8.6",
+          "genres": [
+            "Animação",
+            "Ação",
+            "Aventura"
+          ],
+          "description": "As aventuras diárias e surreais de um duende de gaio-azul e guaxinim que tentam lidar com seus trabalhos mundanos como jardineiros no parque local.",
+          "runtime": "23 min"
         },
         {
           "id": "tt0088509",
@@ -7024,28 +6191,10 @@
           "runtime": "30 min"
         },
         {
-          "id": "tt13868972",
-          "type": "series",
-          "name": "Rocket Boys",
-          "rank": 202,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNGI4Mzc5YjItMTkwMC00YTY4LTg0ZjgtMTk5N2EyM2RlYTM2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2022",
-          "year": "2022",
-          "imdbRating": "8.8",
-          "genres": [
-            "Biografia",
-            "Drama",
-            "História"
-          ],
-          "description": "A história de dois homens extraordinários, o Dr. Homi Jehangir Bhabha e o Dr. Vikram Ambalal Sarabhai, que criaram a história enquanto construíam o futuro da Índia.",
-          "runtime": "45 min"
-        },
-        {
           "id": "tt6108262",
           "type": "series",
           "name": "Sol Negro",
-          "rank": 203,
+          "rank": 202,
           "poster": "https://m.media-amazon.com/images/M/MV5BYzMwMTY3NzktNGE0NC00MjJiLWIyNzMtNGY2MDU5ZTgyMDAyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2017-2026",
@@ -7058,6 +6207,24 @@
           ],
           "description": "Um drama de ficção histórica e suspense que se passa no período turbulento do final da década de 1920 nos Bálcãs como um lugar onde alta política, interesses locais, capital e crime se fundem.",
           "runtime": "60 min"
+        },
+        {
+          "id": "tt13868972",
+          "type": "series",
+          "name": "Rocket Boys",
+          "rank": 203,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNGI4Mzc5YjItMTkwMC00YTY4LTg0ZjgtMTk5N2EyM2RlYTM2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2022",
+          "year": "2022",
+          "imdbRating": "8.8",
+          "genres": [
+            "Biografia",
+            "Drama",
+            "História"
+          ],
+          "description": "A história de dois homens extraordinários, o Dr. Homi Jehangir Bhabha e o Dr. Vikram Ambalal Sarabhai, que criaram a história enquanto construíam o futuro da Índia.",
+          "runtime": "45 min"
         },
         {
           "id": "tt0487831",
@@ -7267,10 +6434,27 @@
           "runtime": "24 min"
         },
         {
+          "id": "tt10802170",
+          "type": "series",
+          "name": "O Ensaio",
+          "rank": 216,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTJjZDU2YTYtYTFmNS00NzMyLTg0OTgtNTAwZjUzNGFlMzZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2022",
+          "year": "2022",
+          "imdbRating": "8.5",
+          "genres": [
+            "Documentário",
+            "Comédia"
+          ],
+          "description": "Nathan Fielder dá às pessoas a chance de ensaiar para suas próprias vidas em um mundo onde nada funciona como esperado.",
+          "runtime": "30 min"
+        },
+        {
           "id": "tt0403778",
           "type": "series",
           "name": "Em Duas Rodas com Ewan McGregor",
-          "rank": 216,
+          "rank": 217,
           "poster": "https://m.media-amazon.com/images/M/MV5BMzI5MGJjODAtZjQzNy00MmU1LWE2MTAtNDM4NmFmNzNkZDFkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2004-2010",
@@ -7287,7 +6471,7 @@
           "id": "tt12343534",
           "type": "series",
           "name": "Jujutsu Kaisen",
-          "rank": 217,
+          "rank": 218,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjBlNTExMDAtMWZjZi00MDc5LWFkMjgtZDU0ZWQ5ODk3YWY5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2020",
@@ -7300,23 +6484,6 @@
           ],
           "description": "Um menino engole um talismã maldito e se torna amaldiçoado. Ele entra na escola de um xamã para poder localizar as outras partes do corpo do demônio e assim se exorcizar.",
           "runtime": "24 min"
-        },
-        {
-          "id": "tt10802170",
-          "type": "series",
-          "name": "O Ensaio",
-          "rank": 218,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMTJjZDU2YTYtYTFmNS00NzMyLTg0OTgtNTAwZjUzNGFlMzZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2022",
-          "year": "2022",
-          "imdbRating": "8.5",
-          "genres": [
-            "Documentário",
-            "Comédia"
-          ],
-          "description": "Nathan Fielder dá às pessoas a chance de ensaiar para suas próprias vidas em um mundo onde nada funciona como esperado.",
-          "runtime": "30 min"
         },
         {
           "id": "tt20859920",
@@ -7337,10 +6504,26 @@
           "runtime": "80 min"
         },
         {
+          "id": "tt10590066",
+          "type": "series",
+          "name": "Criaturas Grandes e Pequenas",
+          "rank": 220,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMWM0NzY2ZDEtNDJiMS00NDNiLWFkNzYtYmZjMzg4ZjcwMzJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2020",
+          "year": "2020",
+          "imdbRating": "8.6",
+          "genres": [
+            "Comédia",
+            "Drama"
+          ],
+          "description": "Relata as aventuras da equipe de uma veterinária rural em Yorkshire na década de 1930."
+        },
+        {
           "id": "tt5189670",
           "type": "series",
           "name": "Making a Murderer",
-          "rank": 220,
+          "rank": 221,
           "poster": "https://m.media-amazon.com/images/M/MV5BMTg4Mjc1NjE4Ml5BMl5BanBnXkFtZTgwMjk2NjA1NjM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2015-2018",
@@ -7352,22 +6535,6 @@
           ],
           "description": "Filmado em um período de 10 anos, Steven Avery, um exonerador de DNA que, apesar de expor a corrupção na polícia local, é considerado o principal suspeito de um novo crime chocante.",
           "runtime": "60 min"
-        },
-        {
-          "id": "tt10590066",
-          "type": "series",
-          "name": "Criaturas Grandes e Pequenas",
-          "rank": 221,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMWM0NzY2ZDEtNDJiMS00NDNiLWFkNzYtYmZjMzg4ZjcwMzJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2020",
-          "year": "2020",
-          "imdbRating": "8.6",
-          "genres": [
-            "Comédia",
-            "Drama"
-          ],
-          "description": "Relata as aventuras da equipe de uma veterinária rural em Yorkshire na década de 1930."
         },
         {
           "id": "tt4093826",
@@ -7528,26 +6695,10 @@
           "runtime": "25 min"
         },
         {
-          "id": "tt7278862",
-          "type": "series",
-          "name": "A Amiga Genial",
-          "rank": 231,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZjQ3NjZmMDMtNWE1MS00MWNlLWE4YzEtZjRkODhiZjJkMzIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2018-2024",
-          "year": "2018",
-          "imdbRating": "8.6",
-          "genres": [
-            "Drama"
-          ],
-          "description": "Uma mulher conta a amizade e o conflito ao longo da vida, com uma garota que conheceu na escola primária de Nápoles, no início dos anos 50.",
-          "runtime": "60 min"
-        },
-        {
           "id": "tt3895150",
           "type": "series",
           "name": "Shigatsu wa kimi no uso",
-          "rank": 232,
+          "rank": 231,
           "poster": "https://m.media-amazon.com/images/M/MV5BZGMyYmFmNzgtMWQ4NS00MWE2LTg4YmEtZGY1MTBiODE0YmE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2014-2015",
@@ -7560,6 +6711,22 @@
           ],
           "description": "Um prodígio infantil que perdeu a capacidade de brincar após sofrer um evento traumático na infância é forçado a voltar ao centro das atenções por uma garota excêntrica com um segredo próprio.",
           "runtime": "23 min"
+        },
+        {
+          "id": "tt7278862",
+          "type": "series",
+          "name": "A Amiga Genial",
+          "rank": 232,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZjQ3NjZmMDMtNWE1MS00MWNlLWE4YzEtZjRkODhiZjJkMzIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2018-2024",
+          "year": "2018",
+          "imdbRating": "8.6",
+          "genres": [
+            "Drama"
+          ],
+          "description": "Uma mulher conta a amizade e o conflito ao longo da vida, com uma garota que conheceu na escola primária de Nápoles, no início dos anos 50.",
+          "runtime": "60 min"
         },
         {
           "id": "tt1513168",
@@ -7628,10 +6795,26 @@
           "runtime": "30 min"
         },
         {
+          "id": "tt3526078",
+          "type": "series",
+          "name": "Schitt's Creek",
+          "rank": 237,
+          "poster": "https://m.media-amazon.com/images/M/MV5BODk2Nzg4OWYtODczMy00NWRkLTg5ODQtZTU1ZGRhMzRhZGZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2015-2020",
+          "year": "2015",
+          "imdbRating": "8.5",
+          "genres": [
+            "Comédia"
+          ],
+          "description": "O bordo Johnny Rose e sua família estão arruinados e têm que deixar suas vidas ricas e começar de novo no Schitt's Creek.",
+          "runtime": "22 min"
+        },
+        {
           "id": "tt27446493",
           "type": "series",
           "name": "Melancia Cintilante",
-          "rank": 237,
+          "rank": 238,
           "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2023-2023",
@@ -7644,22 +6827,6 @@
           ],
           "description": "\"Sparkling Watermelon\" contará a história de um garoto que vive uma vida dupla entre um estudante modelo e um membro da banda que, ao passar do tempo, conhece seu pai de 18 anos.",
           "runtime": "70 min"
-        },
-        {
-          "id": "tt3526078",
-          "type": "series",
-          "name": "Schitt's Creek",
-          "rank": 238,
-          "poster": "https://m.media-amazon.com/images/M/MV5BODk2Nzg4OWYtODczMy00NWRkLTg5ODQtZTU1ZGRhMzRhZGZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2015-2020",
-          "year": "2015",
-          "imdbRating": "8.5",
-          "genres": [
-            "Comédia"
-          ],
-          "description": "O bordo Johnny Rose e sua família estão arruinados e têm que deixar suas vidas ricas e começar de novo no Schitt's Creek.",
-          "runtime": "22 min"
         },
         {
           "id": "tt0290978",
@@ -7729,28 +6896,10 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt12074628",
-          "type": "series",
-          "name": "Smiling Friends",
-          "rank": 243,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYjNkMjdiZGEtMTg3Mi00YTAzLWJkMGYtMmIxMzNjMmRhOGNmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2020-2026",
-          "year": "2020",
-          "imdbRating": "8.5",
-          "genres": [
-            "Animação",
-            "Curta-Metragem",
-            "Comédia"
-          ],
-          "description": "Uma pequena empresa dedicada a trazer felicidade para o mundo recebe um simples pedido para ajudar o filho infeliz de uma mulher a sorrir novamente, mas o trabalho acaba sendo mais complicado do que parece.",
-          "runtime": "12 min"
-        },
-        {
           "id": "tt2244495",
           "type": "series",
           "name": "The Eric Andre Show",
-          "rank": 244,
+          "rank": 243,
           "poster": "https://m.media-amazon.com/images/M/MV5BZGY0OGMzYjItNjhkMy00NjZjLThlZTEtMTdlYWU0NzliZWNkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2012-2023",
@@ -7763,6 +6912,24 @@
           ],
           "description": "Eric Andre tenta organizar um talk show em um ambiente estranho, onde às vezes faz piadas, e às vezes é a vítima.",
           "runtime": "11 min"
+        },
+        {
+          "id": "tt12074628",
+          "type": "series",
+          "name": "Smiling Friends",
+          "rank": 244,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYjNkMjdiZGEtMTg3Mi00YTAzLWJkMGYtMmIxMzNjMmRhOGNmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2020-2026",
+          "year": "2020",
+          "imdbRating": "8.5",
+          "genres": [
+            "Animação",
+            "Curta-Metragem",
+            "Comédia"
+          ],
+          "description": "Uma pequena empresa dedicada a trazer felicidade para o mundo recebe um simples pedido para ajudar o filho infeliz de uma mulher a sorrir novamente, mas o trabalho acaba sendo mais complicado do que parece.",
+          "runtime": "12 min"
         },
         {
           "id": "tt3212600",
@@ -7783,22 +6950,22 @@
           "runtime": "20 min"
         },
         {
-          "id": "tt0310455",
+          "id": "tt0203082",
           "type": "series",
-          "name": "Foyle's War",
+          "name": "Rurôni Kenshin: Meiji kenkaku romantan - Tsuioku-hen",
           "rank": 246,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNjExMDJlZWUtNzQxMS00ZGI4LTg1N2QtMmU3NTkyN2Q4NzYyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOGNmMzUzOTItMjJjOC00MzMwLWJhMmQtNDE0NjFhNjM5YzhhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2002-2015",
-          "year": "2002",
+          "releaseInfo": "1999-1999",
+          "year": "1999",
           "imdbRating": "8.6",
           "genres": [
-            "Policial",
-            "Drama",
-            "Mistério"
+            "Animação",
+            "Ação",
+            "Aventura"
           ],
-          "description": "À medida que a Segunda Guerra Mundial avança, Foyle faz sua própria guerra na frente interna; investigando um crime na costa sul da Inglaterra.",
-          "runtime": "90 min"
+          "description": "Na era da Restauração Meiji do Japão, um assassino recupera sua humanidade.",
+          "runtime": "30 min"
         },
         {
           "id": "tt0373732",
@@ -7837,42 +7004,42 @@
           "runtime": "60 min"
         },
         {
-          "id": "tt0203082",
+          "id": "tt0310455",
           "type": "series",
-          "name": "Rurôni Kenshin: Meiji kenkaku romantan - Tsuioku-hen",
+          "name": "Foyle's War",
           "rank": 249,
-          "poster": "https://m.media-amazon.com/images/M/MV5BOGNmMzUzOTItMjJjOC00MzMwLWJhMmQtNDE0NjFhNjM5YzhhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNjExMDJlZWUtNzQxMS00ZGI4LTg1N2QtMmU3NTkyN2Q4NzYyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "1999-1999",
-          "year": "1999",
+          "releaseInfo": "2002-2015",
+          "year": "2002",
           "imdbRating": "8.6",
           "genres": [
-            "Animação",
-            "Ação",
-            "Aventura"
+            "Policial",
+            "Drama",
+            "Mistério"
           ],
-          "description": "Na era da Restauração Meiji do Japão, um assassino recupera sua humanidade.",
-          "runtime": "30 min"
+          "description": "À medida que a Segunda Guerra Mundial avança, Foyle faz sua própria guerra na frente interna; investigando um crime na costa sul da Inglaterra.",
+          "runtime": "90 min"
         },
         {
-          "id": "tt5851616",
+          "id": "tt0088727",
           "type": "series",
-          "name": "Tash Ma Tash",
+          "name": "Os Amores de Anne",
           "rank": 250,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYzMzMWMyMzQtNDk2OS00ZTY5LTkwNDctMGFhYmRiNGFlYzMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMGFjNGEzNjItZjU3Ny00MjM2LWJhOWEtMmFiOTQyY2U3YjExXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "1993-2023",
-          "year": "1993",
-          "imdbRating": "8.9",
+          "releaseInfo": "1985-1985",
+          "year": "1985",
+          "imdbRating": "8.6",
           "genres": [
-            "Comédia",
-            "Drama"
+            "Drama",
+            "Família"
           ],
-          "description": "Follows two guys and their adventures in Kingdom Of Saudi Arabia.",
-          "runtime": "25 min"
+          "description": "Uma menina órfã, enviada por engano para um irmão e uma irmã idosos, encanta seu novo lar e comunidade com seu espírito ardente e imaginação.",
+          "runtime": "100 min"
         }
       ],
-      "updatedAt": "2026-09-08T11:27:20.233Z",
+      "updatedAt": "2026-09-11T11:31:06.827Z",
       "source": "https://www.imdb.com/pt/chart/toptv/?ref_=hm_nv_menu",
       "strategy": 1
     },
@@ -8408,28 +7575,10 @@
           "runtime": "121 min"
         },
         {
-          "id": "tt6019206",
-          "type": "movie",
-          "name": "Kill Bill: The Whole Bloody Affair",
-          "rank": 31,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMDM1Y2E3ZGItNDAyZS00NGYwLTlhMTctMzI4NjFmMTRjYzU0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2004",
-          "year": "2004",
-          "imdbRating": "8.7",
-          "genres": [
-            "Ação",
-            "Policial",
-            "Suspense"
-          ],
-          "description": "A noiva deve matar seu ex-patrão e amante Bill, que a traiu no ensaio de casamento, atirou na cabeça e levou sua filha por nascer. Mas primeiro, ela deve fazer sofrer os outros quatro membros do Esquadrão da Morte.",
-          "runtime": "253 min"
-        },
-        {
           "id": "tt0245429",
           "type": "movie",
           "name": "A Viagem de Chihiro",
-          "rank": 32,
+          "rank": 31,
           "poster": "https://m.media-amazon.com/images/M/MV5BYmZmMmM4OTYtMDkyNi00ZDI5LThiODItNzhlZGI3ZDJmZDZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2001",
@@ -8442,6 +7591,24 @@
           ],
           "description": "Uma garota é obrigada a mudar de cidade com seus pais contra a sua vontade. Durante a viagem, eles decidem pegar um atalho e se perdem, chegando a um estranho edifício, onde adentrarão um misterioso mundo de monstros e espíritos.",
           "runtime": "124 min"
+        },
+        {
+          "id": "tt6019206",
+          "type": "movie",
+          "name": "Kill Bill: The Whole Bloody Affair",
+          "rank": 32,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMDM1Y2E3ZGItNDAyZS00NGYwLTlhMTctMzI4NjFmMTRjYzU0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2004",
+          "year": "2004",
+          "imdbRating": "8.7",
+          "genres": [
+            "Ação",
+            "Policial",
+            "Suspense"
+          ],
+          "description": "A noiva deve matar seu ex-patrão e amante Bill, que a traiu no ensaio de casamento, atirou na cabeça e levou sua filha por nascer. Mas primeiro, ela deve fazer sofrer os outros quatro membros do Esquadrão da Morte.",
+          "runtime": "253 min"
         },
         {
           "id": "tt0172495",
@@ -9060,27 +8227,10 @@
           "runtime": "88 min"
         },
         {
-          "id": "tt0081505",
-          "type": "movie",
-          "name": "O Iluminado",
-          "rank": 68,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMGMzODJhZmYtODFhOC00N2Y2LThkMDEtNzAxMGUwMTFlNWQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1980",
-          "year": "1980",
-          "imdbRating": "8.4",
-          "genres": [
-            "Drama",
-            "Terror"
-          ],
-          "description": "Uma família se dirige a um hotel isolado para o inverno, onde uma presença sinistra influencia a violência do pai, enquanto seu filho psíquico vê presságios horríveis do passado e do futuro.",
-          "runtime": "146 min"
-        },
-        {
           "id": "tt0361748",
           "type": "movie",
           "name": "Bastardos Inglórios",
-          "rank": 69,
+          "rank": 68,
           "poster": "https://m.media-amazon.com/images/M/MV5BN2Y1ZmE1ZWItZjQ1OS00YWQxLWE4NWMtNzJkODA4MmE3NTRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2009",
@@ -9092,6 +8242,23 @@
           ],
           "description": "Na França ocupada pelos nazistas durante a Segunda Guerra Mundial, um plano para assassinar líderes nazistas por parte de um grupo de soldados judeus dos EUA coincide com os planos de vingança da dona de uma sala de cinema.",
           "runtime": "153 min"
+        },
+        {
+          "id": "tt0081505",
+          "type": "movie",
+          "name": "O Iluminado",
+          "rank": 69,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMGMzODJhZmYtODFhOC00N2Y2LThkMDEtNzAxMGUwMTFlNWQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1980",
+          "year": "1980",
+          "imdbRating": "8.4",
+          "genres": [
+            "Drama",
+            "Terror"
+          ],
+          "description": "Uma família se dirige a um hotel isolado para o inverno, onde uma presença sinistra influencia a violência do pai, enquanto seu filho psíquico vê presságios horríveis do passado e do futuro.",
+          "runtime": "146 min"
         },
         {
           "id": "tt0032553",
@@ -9546,26 +8713,10 @@
           "runtime": "102 min"
         },
         {
-          "id": "tt0044741",
-          "type": "movie",
-          "name": "Viver",
-          "rank": 96,
-          "poster": "https://m.media-amazon.com/images/M/MV5BMmNlZTk4ZjQtY2I5NS00NmNiLTlkNmUtYTc3YmE0ZTk3OGNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1952",
-          "year": "1952",
-          "imdbRating": "8.3",
-          "genres": [
-            "Drama"
-          ],
-          "description": "Depois de descobrir que tem câncer terminal, um burocrata tenta encontrar um sentido para sua vida.",
-          "runtime": "143 min"
-        },
-        {
           "id": "tt1255953",
           "type": "movie",
           "name": "Incêndios",
-          "rank": 97,
+          "rank": 96,
           "poster": "https://m.media-amazon.com/images/M/MV5BYWFmMjdmNjctNzhhOC00ZmMzLTkwOGItMmVmZDU4MjE2MTYwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2010",
@@ -9580,26 +8731,26 @@
           "runtime": "131 min"
         },
         {
-          "id": "tt2106476",
+          "id": "tt0044741",
           "type": "movie",
-          "name": "A Caça",
-          "rank": 98,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNGVmNTYyNDUtYWE1ZC00ODlhLWEzYjktZGRlYmU3YzZlNjVhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "name": "Viver",
+          "rank": 97,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMmNlZTk4ZjQtY2I5NS00NmNiLTlkNmUtYTc3YmE0ZTk3OGNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
-          "releaseInfo": "2012",
-          "year": "2012",
+          "releaseInfo": "1952",
+          "year": "1952",
           "imdbRating": "8.3",
           "genres": [
             "Drama"
           ],
-          "description": "Um professor vive uma vida solitária enquanto luta pela custódia de seu filho. Sua vida melhora lentamente quando ele encontra o amor e recebe boas notícias de seu filho, mas sua sorte está prestes a mudar por uma pequena mentira inocente.",
-          "runtime": "115 min"
+          "description": "Depois de descobrir que tem câncer terminal, um burocrata tenta encontrar um sentido para sua vida.",
+          "runtime": "143 min"
         },
         {
           "id": "tt33175825",
           "type": "movie",
           "name": "Attack on Titan: O Último Ataque",
-          "rank": 99,
+          "rank": 98,
           "poster": "https://m.media-amazon.com/images/M/MV5BYWZiYTQ3NTMtOTBjZC00MGUzLTljOTktOGYyZDgyYTA5ODhiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2024",
@@ -9612,6 +8763,22 @@
           ],
           "description": "O destino do mundo está em jogo enquanto Eren libera o poder supremo dos Titãs. Com uma determinação ardente de eliminar todos os que ameaçam Eldia, ele lidera um exército imparável de Titãs Colossais em direção a Marley.",
           "runtime": "145 min"
+        },
+        {
+          "id": "tt2106476",
+          "type": "movie",
+          "name": "A Caça",
+          "rank": 99,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNGVmNTYyNDUtYWE1ZC00ODlhLWEzYjktZGRlYmU3YzZlNjVhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2012",
+          "year": "2012",
+          "imdbRating": "8.3",
+          "genres": [
+            "Drama"
+          ],
+          "description": "Um professor vive uma vida solitária enquanto luta pela custódia de seu filho. Sua vida melhora lentamente quando ele encontra o amor e recebe boas notícias de seu filho, mas sua sorte está prestes a mudar por uma pequena mentira inocente.",
+          "runtime": "115 min"
         },
         {
           "id": "tt0338013",
@@ -9720,27 +8887,10 @@
           "runtime": "99 min"
         },
         {
-          "id": "tt0062622",
-          "type": "movie",
-          "name": "2001: Uma Odisséia no Espaço",
-          "rank": 106,
-          "poster": "https://m.media-amazon.com/images/M/MV5BZWExMDRiMGMtM2QzMC00M2QyLTlhMjEtNzU0YzNkMDg0NjVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1968",
-          "year": "1968",
-          "imdbRating": "8.3",
-          "genres": [
-            "Aventura",
-            "Ficção científica"
-          ],
-          "description": "Trás descobrir um misterioso artefato na superfície da Lua, a humanidade tenta encontrar seus origens com a ajuda da inteligença do ordernador HAL 9000.",
-          "runtime": "149 min"
-        },
-        {
           "id": "tt1049413",
           "type": "movie",
           "name": "Up: Altas Aventuras",
-          "rank": 107,
+          "rank": 106,
           "poster": "https://m.media-amazon.com/images/M/MV5BZmMwNmVjNjYtZGU1ZS00ZGY1LThlOWQtZDc0NDI5ZWNkYzNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2009",
@@ -9753,6 +8903,23 @@
           ],
           "description": "Carl Fredricksen, de 78 anos, viaja para a América do Sul com sua casa, inadvertidamente levando um menino com ele.",
           "runtime": "96 min"
+        },
+        {
+          "id": "tt0062622",
+          "type": "movie",
+          "name": "2001: Uma Odisséia no Espaço",
+          "rank": 107,
+          "poster": "https://m.media-amazon.com/images/M/MV5BZWExMDRiMGMtM2QzMC00M2QyLTlhMjEtNzU0YzNkMDg0NjVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1968",
+          "year": "1968",
+          "imdbRating": "8.3",
+          "genres": [
+            "Aventura",
+            "Ficção científica"
+          ],
+          "description": "Trás descobrir um misterioso artefato na superfície da Lua, a humanidade tenta encontrar seus origens com a ajuda da inteligença do ordernador HAL 9000.",
+          "runtime": "149 min"
         },
         {
           "id": "tt0036775",
@@ -9928,27 +9095,10 @@
           "runtime": "128 min"
         },
         {
-          "id": "tt0033467",
-          "type": "movie",
-          "name": "Cidadão Kane",
-          "rank": 118,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNDZhNzk4YzEtOGEwNy00OGI1LThlZmEtYTE4NGY2MTI0MDAyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1941",
-          "year": "1941",
-          "imdbRating": "8.2",
-          "genres": [
-            "Drama",
-            "Mistério"
-          ],
-          "description": "Após a morte de um magnata na indústria editorial, jornalistas correm para descobrir o significado da última palavra que ele pronunciou.",
-          "runtime": "119 min"
-        },
-        {
           "id": "tt0056592",
           "type": "movie",
           "name": "O Sol é para Todos",
-          "rank": 119,
+          "rank": 118,
           "poster": "https://m.media-amazon.com/images/M/MV5BMGM0MWQ5YjUtYzJlMS00ZDBhLWIyOTUtZThmNWFlZTA2YjE1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1962",
@@ -9960,6 +9110,23 @@
           ],
           "description": "Atticus Finch, um advogado no sul da era da Depressão, defende um homem negro contra uma acusação de estupro imerecida, e seus filhos contra o preconceito.",
           "runtime": "129 min"
+        },
+        {
+          "id": "tt0033467",
+          "type": "movie",
+          "name": "Cidadão Kane",
+          "rank": 119,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNDZhNzk4YzEtOGEwNy00OGI1LThlZmEtYTE4NGY2MTI0MDAyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1941",
+          "year": "1941",
+          "imdbRating": "8.2",
+          "genres": [
+            "Drama",
+            "Mistério"
+          ],
+          "description": "Após a morte de um magnata na indústria editorial, jornalistas correm para descobrir o significado da última palavra que ele pronunciou.",
+          "runtime": "119 min"
         },
         {
           "id": "tt0097576",
@@ -10622,28 +9789,10 @@
           "runtime": "135 min"
         },
         {
-          "id": "tt12042730",
-          "type": "movie",
-          "name": "Devoradores de Estrelas",
-          "rank": 158,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNTJlOTRhMGMtOTI5MC00ZmEyLWE3NDItMDBiMDRkYTFiMTY2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "2026",
-          "year": "2026",
-          "imdbRating": "8.2",
-          "genres": [
-            "Aventura",
-            "Comédia",
-            "Drama"
-          ],
-          "description": "Um astronauta tenta salvar a Terra enquanto está sozinho no espaço sideral.",
-          "runtime": "156 min"
-        },
-        {
           "id": "tt0347149",
           "type": "movie",
           "name": "O Castelo Animado",
-          "rank": 159,
+          "rank": 158,
           "poster": "https://m.media-amazon.com/images/M/MV5BYjFmOTNkZDYtMzA2OC00MmVlLTgwM2EtMDcyNjUyOWVkMzY5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2004",
@@ -10656,6 +9805,24 @@
           ],
           "description": "Uma jovem sem autoconfiança é amaldiçoada com um corpo envelhecido por uma bruxa odiosa. Sua única chance de quebrar o feitiço é um jovem feiticeiro em um castelo itinerante.",
           "runtime": "119 min"
+        },
+        {
+          "id": "tt12042730",
+          "type": "movie",
+          "name": "Devoradores de Estrelas",
+          "rank": 159,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNTJlOTRhMGMtOTI5MC00ZmEyLWE3NDItMDBiMDRkYTFiMTY2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "2026",
+          "year": "2026",
+          "imdbRating": "8.2",
+          "genres": [
+            "Aventura",
+            "Comédia",
+            "Drama"
+          ],
+          "description": "Um astronauta tenta salvar a Terra enquanto está sozinho no espaço sideral.",
+          "runtime": "156 min"
         },
         {
           "id": "tt32820897",
@@ -11619,10 +10786,27 @@
           "runtime": "92 min"
         },
         {
+          "id": "tt0077416",
+          "type": "movie",
+          "name": "O Franco Atirador",
+          "rank": 214,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYzE2MWYwYTMtYmJjNi00MTZmLThjOTQtOGViYTEwNzY0ZmQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1978",
+          "year": "1978",
+          "imdbRating": "8.1",
+          "genres": [
+            "Drama",
+            "Guerra"
+          ],
+          "description": "Um retrato detalhado das maneiras pelas quais a Guerra do Vietnã interrompeu a vida dos habitantes de uma pequena cidade industrial na Pensilvânia.",
+          "runtime": "183 min"
+        },
+        {
           "id": "tt0046268",
           "type": "movie",
           "name": "O Salário do Medo",
-          "rank": 214,
+          "rank": 215,
           "poster": "https://m.media-amazon.com/images/M/MV5BZTg0ODlkYTUtZjNhMy00ZmVhLTk0YWItYWMzYzYxYzgyYzU5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1953",
@@ -11635,23 +10819,6 @@
           ],
           "description": "Em uma aldeia da América do Sul, quatro homens são contratados para transportar uma remessa urgente de nitroglicerina, mas sem o equipamento de segurança.",
           "runtime": "156 min"
-        },
-        {
-          "id": "tt0077416",
-          "type": "movie",
-          "name": "O Franco Atirador",
-          "rank": 215,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYzE2MWYwYTMtYmJjNi00MTZmLThjOTQtOGViYTEwNzY0ZmQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1978",
-          "year": "1978",
-          "imdbRating": "8.1",
-          "genres": [
-            "Drama",
-            "Guerra"
-          ],
-          "description": "Um retrato detalhado das maneiras pelas quais a Guerra do Vietnã interrompeu a vida dos habitantes de uma pequena cidade industrial na Pensilvânia.",
-          "runtime": "183 min"
         },
         {
           "id": "tt3315342",
@@ -11850,7 +11017,7 @@
           "type": "movie",
           "name": "O Exterminador do Futuro",
           "rank": 227,
-          "poster": "https://m.media-amazon.com/images/M/MV5BYzhhM2Y3NzctZmExNy00NjRlLThiYWEtZmEwYjU3MWUwNDM3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1984",
           "year": "1984",
@@ -12005,10 +11172,26 @@
           "runtime": "93 min"
         },
         {
+          "id": "tt0252488",
+          "type": "movie",
+          "name": "A Turma do Caos: Reprovou Na Classe",
+          "rank": 236,
+          "poster": "https://m.media-amazon.com/images/M/MV5BNjQzNDc0MjEtNmRlNS00MGEyLWJjMmItZmYzNDMwMGVlZDY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "posterShape": "poster",
+          "releaseInfo": "1975",
+          "year": "1975",
+          "imdbRating": "8.4",
+          "genres": [
+            "Comédia"
+          ],
+          "description": "Uma linda jovem professora começa a trabalhar em uma escola secundária só para meninos.",
+          "runtime": "95 min"
+        },
+        {
           "id": "tt3170832",
           "type": "movie",
           "name": "O Quarto de Jack",
-          "rank": 236,
+          "rank": 237,
           "poster": "https://m.media-amazon.com/images/M/MV5BZTA5MTBiNzctM2Y0Mi00OGRjLWJiMTAtOGQ4MWE2YmFlNzI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "2015",
@@ -12025,7 +11208,7 @@
           "id": "tt0070047",
           "type": "movie",
           "name": "O Exorcista",
-          "rank": 237,
+          "rank": 238,
           "poster": "https://m.media-amazon.com/images/M/MV5BYTgxYmQ0ODQtNGFmZC00NTg5LWJmODItZDZlZjA3MGIxN2JjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
           "posterShape": "poster",
           "releaseInfo": "1973",
@@ -12036,22 +11219,6 @@
           ],
           "description": "Quando uma adolescente é possuída por uma entidade misteriosa, sua mãe busca a ajuda de dois padres católicos para salvar sua vida.",
           "runtime": "122 min"
-        },
-        {
-          "id": "tt0252488",
-          "type": "movie",
-          "name": "A Turma do Caos: Reprovou Na Classe",
-          "rank": 238,
-          "poster": "https://m.media-amazon.com/images/M/MV5BNjQzNDc0MjEtNmRlNS00MGEyLWJjMmItZmYzNDMwMGVlZDY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-          "posterShape": "poster",
-          "releaseInfo": "1975",
-          "year": "1975",
-          "imdbRating": "8.4",
-          "genres": [
-            "Comédia"
-          ],
-          "description": "Uma linda jovem professora começa a trabalhar em uma escola secundária só para meninos.",
-          "runtime": "95 min"
         },
         {
           "id": "tt0395169",
@@ -12263,7 +11430,7 @@
           "runtime": "160 min"
         }
       ],
-      "updatedAt": "2026-09-08T11:27:31.492Z",
+      "updatedAt": "2026-09-11T11:31:18.494Z",
       "source": "https://www.imdb.com/pt/chart/top/?ref_=hm_nv_menu",
       "strategy": 1
     }
